@@ -4256,6 +4256,23 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF75070982": {
+    "contest_id": 231,
+    "language": "GNU C11",
+    "path": "codeforces\\231\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Team",
+    "problem_url": "https://codeforces.com/contest/231/problem/A",
+    "submission_id": "CF75070982",
+    "submission_url": "https://codeforces.com/contest/231/submission/75070982",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/01/2020 17:04"
+  },
   "CF75076739": {
     "contest_id": 1304,
     "language": "GNU C11",
