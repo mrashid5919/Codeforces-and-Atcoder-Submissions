@@ -1,0 +1,54 @@
+#include<stdio.h>
+int main()
+{
+    int t,n,k,a[31],b[31],sum,i,max,j,c;
+    scanf("%d",&t);
+    while(t--)
+    {
+        sum=0;
+        scanf("%d%d",&n,&k);
+        for(i=1;i<=n;i++)
+        {
+            scanf("%d",&a[i]);
+        }
+        for(i=1;i<=n;i++)
+        {
+            scanf("%d",&b[i]);
+        }
+        for(i=1;i<=n-1;i++)
+        {
+            for(j=1;j<=n-i;j++)
+            {
+                if(a[j]>a[j+1])
+                {
+                    c=a[j];
+                    a[j]=a[j+1];
+                    a[j+1]=c;
+                }
+            }
+        }
+        for(i=1;i<=n-1;i++)
+        {
+            for(j=1;j<=n-i;j++)
+            {
+                if(b[j]<b[j+1])
+                {
+                    c=b[j];
+                    b[j]=b[j+1];
+                    b[j+1]=c;
+                }
+            }
+        }
+        for(i=1;i<=k;i++)
+        {
+            if(a[i]>b[i])
+                break;
+            else if(a[i]<b[i])
+                a[i]=b[i];
+        }
+        for(i=1;i<=n;i++)
+            sum=sum+a[i];
+        printf("%d\n",sum);
+    }
+    return 0;
+}
