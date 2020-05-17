@@ -4135,6 +4135,25 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF80499707": {
+    "contest_id": 1354,
+    "language": "GNU C11",
+    "path": "codeforces\\1354\\C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Simple Polygon Embedding",
+    "problem_url": "https://codeforces.com/contest/1354/problem/C1",
+    "submission_id": "CF80499707",
+    "submission_url": "https://codeforces.com/contest/1354/submission/80499707",
+    "tags": [
+      "binary search",
+      "geometry",
+      "math",
+      "ternary search",
+      "*1400"
+    ],
+    "timestamp": "May/17/2020 16:48"
+  },
   "CF80866936": {
     "contest_id": 1238,
     "language": "GNU C11",
