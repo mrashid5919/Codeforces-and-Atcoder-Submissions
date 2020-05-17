@@ -1,4 +1,20 @@
 {
+  "AC13314356": {
+    "contest_id": "abc168",
+    "language": "C (GCC 9.2.1)",
+    "path": "atcoder\\abc168\\B.c",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "... (Triple Dots)",
+    "problem_url": "https://atcoder.jp/contests/abc168/tasks/abc168_b",
+    "submission_id": "AC13314356",
+    "submission_url": "https://atcoder.jp/contests/abc168/submissions/13314356",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/17/2020 18:20"
+  },
   "AC13750157": {
     "contest_id": "nomura2020",
     "language": "C (GCC 9.2.1)",
