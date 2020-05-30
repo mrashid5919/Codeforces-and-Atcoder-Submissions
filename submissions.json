@@ -1,4 +1,20 @@
 {
+  "AC13750157": {
+    "contest_id": "nomura2020",
+    "language": "C (GCC 9.2.1)",
+    "path": "atcoder\\nomura2020\\A.c",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Study Scheduling",
+    "problem_url": "https://atcoder.jp/contests/nomura2020/tasks/nomura2020_a",
+    "submission_id": "AC13750157",
+    "submission_url": "https://atcoder.jp/contests/nomura2020/submissions/13750157",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/30/2020 23:29"
+  },
   "AC13781500": {
     "contest_id": "abc169",
     "language": "C (GCC 9.2.1)",
