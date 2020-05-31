@@ -4135,6 +4135,23 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF82142116": {
+    "contest_id": 802,
+    "language": "GNU C11",
+    "path": "codeforces\\802\\M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "April Fools' Problem (easy)",
+    "problem_url": "https://codeforces.com/contest/802/problem/M",
+    "submission_id": "CF82142116",
+    "submission_url": "https://codeforces.com/contest/802/submission/82142116",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/31/2020 22:35"
+  },
   "CF82241916": {
     "contest_id": 1051,
     "language": "GNU C11",
