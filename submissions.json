@@ -4135,6 +4135,22 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF82317329": {
+    "contest_id": 1244,
+    "language": "GNU C11",
+    "path": "codeforces\\1244\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pens and Pencils",
+    "problem_url": "https://codeforces.com/contest/1244/problem/A",
+    "submission_id": "CF82317329",
+    "submission_url": "https://codeforces.com/contest/1244/submission/82317329",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/02/2020 20:28"
+  },
   "CF82376732": {
     "contest_id": 844,
     "language": "GNU C11",
