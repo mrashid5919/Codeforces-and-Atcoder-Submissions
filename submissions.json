@@ -4135,6 +4135,22 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF82473859": {
+    "contest_id": 459,
+    "language": "PyPy 3",
+    "path": "codeforces\\459\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pashmak and Garden",
+    "problem_url": "https://codeforces.com/contest/459/problem/A",
+    "submission_id": "CF82473859",
+    "submission_url": "https://codeforces.com/contest/459/submission/82473859",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/04/2020 16:46"
+  },
   "CF82513476": {
     "contest_id": 1362,
     "language": "GNU C11",
