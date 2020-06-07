@@ -4135,6 +4135,23 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF82770496": {
+    "contest_id": 1159,
+    "language": "GNU C11",
+    "path": "codeforces\\1159\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A pile of stones",
+    "problem_url": "https://codeforces.com/contest/1159/problem/A",
+    "submission_id": "CF82770496",
+    "submission_url": "https://codeforces.com/contest/1159/submission/82770496",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/07/2020 16:29"
+  },
   "CF82777565": {
     "contest_id": 131,
     "language": "GNU C11",
