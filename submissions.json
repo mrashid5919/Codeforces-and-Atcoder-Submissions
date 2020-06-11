@@ -4135,6 +4135,24 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF83411347": {
+    "contest_id": 1366,
+    "language": "GNU C11",
+    "path": "codeforces\\1366\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shovels and Swords",
+    "problem_url": "https://codeforces.com/contest/1366/problem/A",
+    "submission_id": "CF83411347",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83411347",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/11/2020 21:07"
+  },
   "CF83551489": {
     "contest_id": 1366,
     "language": "GNU C11",
