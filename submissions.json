@@ -1,4 +1,20 @@
 {
+  "AC14175616": {
+    "contest_id": "agc010",
+    "language": "C (GCC 5.4.1)",
+    "path": "atcoder\\agc010\\A.c",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Addition",
+    "problem_url": "https://atcoder.jp/contests/agc010/tasks/agc010_a",
+    "submission_id": "AC14175616",
+    "submission_url": "https://atcoder.jp/contests/agc010/submissions/14175616",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/11/2020 15:56"
+  },
   "AC14230338": {
     "contest_id": "tokiomarine2020",
     "language": "C (GCC 9.2.1)",
