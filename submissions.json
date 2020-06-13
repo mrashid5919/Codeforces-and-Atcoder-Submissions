@@ -1,4 +1,20 @@
 {
+  "AC14230338": {
+    "contest_id": "tokiomarine2020",
+    "language": "C (GCC 9.2.1)",
+    "path": "atcoder\\tokiomarine2020\\A.c",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Nickname",
+    "problem_url": "https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_a",
+    "submission_id": "AC14230338",
+    "submission_url": "https://atcoder.jp/contests/tokiomarine2020/submissions/14230338",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/13/2020 18:14"
+  },
   "AC14245030": {
     "contest_id": "tokiomarine2020",
     "language": "C (GCC 9.2.1)",
