@@ -1,0 +1,59 @@
+#include<stdio.h>
+int main()
+{
+    long long int t,n,x,ara[100005],i,a,b,p,sum=0,m;
+    scanf("%lld",&t);
+    while(t--)
+    {
+       p=0;
+       m=0;
+       scanf("%lld%lld",&n,&x);
+       for(i=0;i<n;i++)
+       {
+           scanf("%lld",&ara[i]);
+       }
+       sum=0;
+       for(i=0;i<n;i++)
+            sum=sum+ara[i];
+       if(sum%x!=0)
+           printf("%lld\n",n);
+       else
+       {
+           for(i=0;i<n;i++)
+           {
+               if(ara[i]%x!=0)
+               {
+                   p=1;
+                   break;
+               }
+           }
+           if(p==0)
+                printf("-1\n");
+           else
+           {
+               for(i=0;i<n;i++)
+               {
+                   if(ara[i]%x!=0)
+                   {
+                       a=i+1;
+                       break;
+                   }
+               }
+               for(i=n-1;i>a-1;i--)
+               {
+                   if(ara[i]%x!=0)
+                   {
+                       b=n-i;
+                       break;
+                   }
+               }
+               if(a<=b)
+                    printf("%lld\n",n-a);
+               else
+                    printf("%lld\n",n-b);
+           }
+
+       }
+    }
+    return 0;
+}
