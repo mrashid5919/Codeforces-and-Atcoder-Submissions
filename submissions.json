@@ -4135,6 +4135,23 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF83756860": {
+    "contest_id": 281,
+    "language": "GNU C11",
+    "path": "codeforces\\281\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Word Capitalization",
+    "problem_url": "https://codeforces.com/contest/281/problem/A",
+    "submission_id": "CF83756860",
+    "submission_url": "https://codeforces.com/contest/281/submission/83756860",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2020 20:35"
+  },
   "CF83759322": {
     "contest_id": 1102,
     "language": "GNU C11",
