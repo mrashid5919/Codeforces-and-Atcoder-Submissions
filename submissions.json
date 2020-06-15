@@ -1,4 +1,20 @@
 {
+  "AC14398991": {
+    "contest_id": "abc147",
+    "language": "C (GCC 5.4.1)",
+    "path": "atcoder\\abc147\\B.c",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Palindrome-philia",
+    "problem_url": "https://atcoder.jp/contests/abc147/tasks/abc147_b",
+    "submission_id": "AC14398991",
+    "submission_url": "https://atcoder.jp/contests/abc147/submissions/14398991",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/16/2020 00:01"
+  },
   "AC14478739": {
     "contest_id": "keyence2020",
     "language": "C (GCC 9.2.1)",
