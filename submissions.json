@@ -4135,6 +4135,23 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF84052366": {
+    "contest_id": 1203,
+    "language": "GNU C11",
+    "path": "codeforces\\1203\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Common Divisors",
+    "problem_url": "https://codeforces.com/contest/1203/problem/C",
+    "submission_id": "CF84052366",
+    "submission_url": "https://codeforces.com/contest/1203/submission/84052366",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/17/2020 14:50"
+  },
   "CF84057190": {
     "contest_id": 1326,
     "language": "GNU C11",
