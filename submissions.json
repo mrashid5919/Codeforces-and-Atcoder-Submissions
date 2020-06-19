@@ -1,4 +1,20 @@
 {
+  "AC14478739": {
+    "contest_id": "keyence2020",
+    "language": "C (GCC 9.2.1)",
+    "path": "atcoder\\keyence2020\\A.c",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Painting",
+    "problem_url": "https://atcoder.jp/contests/keyence2020/tasks/keyence2020_a",
+    "submission_id": "AC14478739",
+    "submission_url": "https://atcoder.jp/contests/keyence2020/submissions/14478739",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/19/2020 22:34"
+  },
   "AC14498450": {
     "contest_id": "agc046",
     "language": "C (GCC 9.2.1)",
