@@ -1,0 +1,63 @@
+#include<stdio.h>
+int main()
+{
+    int n,i,ara[11],min=0,ans=0,count=0;
+    scanf("%d",&n);
+    for(i=0;i<n;i++)
+    {
+        scanf("%d",&ara[i]);
+    }
+    if(n<=2)
+    {
+        for(i=0; i<n; i++)
+        {
+            if(ara[i]==ara[0])
+                count++;
+        }
+        if(count==n)
+            printf("-1");
+        else
+        {
+            for(i=0; i<n; i++)
+            {
+                if(i==0)
+                {
+                    ans=0;
+                    min=ara[0];
+                }
+                else
+                {
+                    if(ara[i]<min)
+                    {
+                        ans=i;
+                        min=ara[i];
+                    }
+                }
+            }
+            printf("1\n");
+            printf("%d\n",ans+1);
+        }
+    }
+    else
+    {
+        for(i=0;i<n;i++)
+        {
+            if(i==0)
+            {
+                ans=0;
+                min=ara[0];
+            }
+            else
+            {
+                if(ara[i]<min)
+                {
+                    ans=i;
+                    min=ara[i];
+                }
+            }
+        }
+        printf("1\n");
+        printf("%d\n",ans+1);
+    }
+    return 0;
+}
