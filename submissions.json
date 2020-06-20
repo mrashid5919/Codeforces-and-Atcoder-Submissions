@@ -4135,6 +4135,22 @@
     ],
     "timestamp": "Sep/20/2021 23:22"
   },
+  "CF84418566": {
+    "contest_id": 127,
+    "language": "GNU C11",
+    "path": "codeforces\\127\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wasted Time",
+    "problem_url": "https://codeforces.com/contest/127/problem/A",
+    "submission_id": "CF84418566",
+    "submission_url": "https://codeforces.com/contest/127/submission/84418566",
+    "tags": [
+      "geometry",
+      "*900"
+    ],
+    "timestamp": "Jun/20/2020 19:38"
+  },
   "CF84420385": {
     "contest_id": 652,
     "language": "GNU C11",
