@@ -7447,6 +7447,22 @@
     ],
     "timestamp": "Jun/22/2020 21:16"
   },
+  "CF84681598": {
+    "contest_id": 716,
+    "language": "GNU C11",
+    "path": "codeforces\\716\\A.c",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Crazy Computer",
+    "problem_url": "https://codeforces.com/contest/716/problem/A",
+    "submission_id": "CF84681598",
+    "submission_url": "https://codeforces.com/contest/716/submission/84681598",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/22/2020 22:06"
+  },
   "CF84688413": {
     "contest_id": 1216,
     "language": "GNU C11",
