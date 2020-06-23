@@ -7497,6 +7497,22 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF84808108": {
+    "contest_id": 133,
+    "language": "GNU C11",
+    "path": "codeforces\\133\\A.c",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF84808108",
+    "submission_url": "https://codeforces.com/contest/133/submission/84808108",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/23/2020 21:41"
+  },
   "CF84819670": {
     "contest_id": 1204,
     "language": "GNU C11",
