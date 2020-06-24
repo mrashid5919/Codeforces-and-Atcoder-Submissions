@@ -7497,6 +7497,24 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF84873207": {
+    "contest_id": 1369,
+    "language": "GNU C11",
+    "path": "codeforces\\1369\\B.c",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AccurateLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/B",
+    "submission_id": "CF84873207",
+    "submission_url": "https://codeforces.com/contest/1369/submission/84873207",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jun/24/2020 15:32"
+  },
   "CF84888272": {
     "contest_id": 805,
     "language": "GNU C11",
