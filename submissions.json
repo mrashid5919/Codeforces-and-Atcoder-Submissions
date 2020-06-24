@@ -7497,6 +7497,25 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF84909808": {
+    "contest_id": 910,
+    "language": "GNU C11",
+    "path": "codeforces\\910\\A.c",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Way to Home",
+    "problem_url": "https://codeforces.com/contest/910/problem/A",
+    "submission_id": "CF84909808",
+    "submission_url": "https://codeforces.com/contest/910/submission/84909808",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/24/2020 22:39"
+  },
   "CF84913548": {
     "contest_id": 389,
     "language": "GNU C11",
