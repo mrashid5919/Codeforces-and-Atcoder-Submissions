@@ -7497,6 +7497,22 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF84955754": {
+    "contest_id": 813,
+    "language": "GNU C11",
+    "path": "codeforces\\813\\A.c",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Contest",
+    "problem_url": "https://codeforces.com/contest/813/problem/A",
+    "submission_id": "CF84955754",
+    "submission_url": "https://codeforces.com/contest/813/submission/84955754",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/25/2020 15:26"
+  },
   "CF84957242": {
     "contest_id": 112,
     "language": "GNU C11",
