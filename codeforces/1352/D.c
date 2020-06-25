@@ -1,0 +1,53 @@
+#include<stdio.h>
+int main()
+{
+    long int t,n,i,ara[1002],high,low,a=0,b=0,ac=0,bc=0;
+    scanf("%ld",&t);
+    while(t--)
+    {
+        a=0;
+        b=0;
+        ac=0;
+        bc=0;
+        scanf("%ld",&n);
+        for(i=0;i<n;i++)
+            scanf("%ld",&ara[i]);
+        low=0;
+        high=n-1;
+        for(i=0;high>=low;i++)
+        {
+            if(i%2==0)
+            {
+                ac=0;
+                while(ac<=bc)
+                {
+                    if(low>high)
+                        break;
+                    else
+                    {
+                        ac=ac+ara[low];
+                        a=a+ara[low];
+                        low++;
+                    }
+                }
+            }
+            else
+            {
+                bc=0;
+                while(bc<=ac)
+                {
+                    if(low>high)
+                        break;
+                    else
+                    {
+                        bc=bc+ara[high];
+                        b=b+ara[high];
+                        high--;
+                    }
+                }
+            }
+        }
+        printf("%ld %ld %ld\n",i,a,b);
+    }
+    return 0;
+}

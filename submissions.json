@@ -7497,6 +7497,22 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF84961342": {
+    "contest_id": 1352,
+    "language": "GNU C11",
+    "path": "codeforces\\1352\\D.c",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alice, Bob and Candies",
+    "problem_url": "https://codeforces.com/contest/1352/problem/D",
+    "submission_id": "CF84961342",
+    "submission_url": "https://codeforces.com/contest/1352/submission/84961342",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jun/25/2020 16:51"
+  },
   "CF85035114": {
     "contest_id": 1373,
     "language": "GNU C11",
