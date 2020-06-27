@@ -1,4 +1,20 @@
 {
+  "AC14733644": {
+    "contest_id": "abc172",
+    "language": "C (GCC 9.2.1)",
+    "path": "atcoder\\abc172\\A.c",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Calc",
+    "problem_url": "https://atcoder.jp/contests/abc172/tasks/abc172_a",
+    "submission_id": "AC14733644",
+    "submission_url": "https://atcoder.jp/contests/abc172/submissions/14733644",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/27/2020 18:04"
+  },
   "AC14746586": {
     "contest_id": "abc172",
     "language": "C++ (GCC 9.2.1)",
