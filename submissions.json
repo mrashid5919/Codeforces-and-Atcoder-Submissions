@@ -7497,6 +7497,23 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF85546992": {
+    "contest_id": 664,
+    "language": "GNU C11",
+    "path": "codeforces\\664\\A.c",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Complicated GCD",
+    "problem_url": "https://codeforces.com/contest/664/problem/A",
+    "submission_id": "CF85546992",
+    "submission_url": "https://codeforces.com/contest/664/submission/85546992",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jun/30/2020 20:07"
+  },
   "CF85547814": {
     "contest_id": 84,
     "language": "GNU C11",
