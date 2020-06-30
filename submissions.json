@@ -7497,6 +7497,23 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF85559405": {
+    "contest_id": 1068,
+    "language": "GNU C11",
+    "path": "codeforces\\1068\\B.c",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "LCM",
+    "problem_url": "https://codeforces.com/contest/1068/problem/B",
+    "submission_id": "CF85559405",
+    "submission_url": "https://codeforces.com/contest/1068/submission/85559405",
+    "tags": [
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Jun/30/2020 22:22"
+  },
   "CF85560821": {
     "contest_id": 946,
     "language": "GNU C11",
