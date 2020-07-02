@@ -7497,6 +7497,24 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF85781142": {
+    "contest_id": 817,
+    "language": "GNU C11",
+    "path": "codeforces\\817\\A.c",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Treasure Hunt",
+    "problem_url": "https://codeforces.com/contest/817/problem/A",
+    "submission_id": "CF85781142",
+    "submission_url": "https://codeforces.com/contest/817/submission/85781142",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Jul/02/2020 20:33"
+  },
   "CF85783290": {
     "contest_id": 519,
     "language": "GNU C11",
