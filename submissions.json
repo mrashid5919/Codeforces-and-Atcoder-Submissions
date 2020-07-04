@@ -7497,6 +7497,23 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF85946989": {
+    "contest_id": 1375,
+    "language": "GNU C11",
+    "path": "codeforces\\1375\\A.c",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sign Flipping",
+    "problem_url": "https://codeforces.com/contest/1375/problem/A",
+    "submission_id": "CF85946989",
+    "submission_url": "https://codeforces.com/contest/1375/submission/85946989",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jul/04/2020 21:10"
+  },
   "CF85962679": {
     "contest_id": 1375,
     "language": "GNU C11",
