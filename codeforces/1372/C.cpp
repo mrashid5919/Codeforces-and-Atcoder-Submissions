@@ -1,0 +1,78 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    long long t,n,i,l,r,p;
+    static long long a[200004],b[200004];
+    cin>>t;
+    while(t--)
+    {
+        p=0;
+        cin>>n;
+        for(i=0;i<n;i++)
+            cin>>a[i];
+        for(i=0;i<n;i++)
+            b[i]=a[i];
+        sort(b,b+n);
+        for(i=0;i<n;i++)
+        {
+            if(a[i]!=b[i])
+            {
+                l=i;
+                p=1;
+                break;
+            }
+        }
+        if(p==0)
+        {
+            cout<<"0"<<endl;
+            continue;
+        }
+        else
+        {
+            for(i=0;i<n;i++)
+            {
+                if(a[i]==b[i])
+                {
+                    p=2;
+                    break;
+                }
+            }
+            if(p==1)
+            {
+                cout<<"1"<<endl;
+                continue;
+            }
+            else
+            {
+                for(i=n-1;i>=0;i--)
+                {
+                    if(a[i]!=b[i])
+                    {
+                        r=i;
+                        break;
+                    }
+                }
+                for(i=l;i<=r;i++)
+                {
+                    if(a[i]==b[i])
+                    {
+                        p=3;
+                        break;
+                    }
+                }
+                if(p==2)
+                {
+                    cout<<"1"<<endl;
+                    continue;
+                }
+                else
+                {
+                    cout<<"2"<<endl;
+                    continue;
+                }
+            }
+        }
+    }
+    return 0;
+}
