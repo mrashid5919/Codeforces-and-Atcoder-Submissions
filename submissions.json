@@ -7445,6 +7445,23 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF87239689": {
+    "contest_id": 272,
+    "language": "GNU C11",
+    "path": "codeforces\\272\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dima and Friends",
+    "problem_url": "https://codeforces.com/contest/272/problem/A",
+    "submission_id": "CF87239689",
+    "submission_url": "https://codeforces.com/contest/272/submission/87239689",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jul/18/2020 20:31"
+  },
   "CF87241140": {
     "contest_id": 445,
     "language": "GNU C11",
