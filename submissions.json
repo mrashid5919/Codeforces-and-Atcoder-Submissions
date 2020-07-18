@@ -7445,6 +7445,24 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF87242476": {
+    "contest_id": 459,
+    "language": "GNU C++17",
+    "path": "codeforces\\459\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pashmak and Flowers",
+    "problem_url": "https://codeforces.com/contest/459/problem/B",
+    "submission_id": "CF87242476",
+    "submission_url": "https://codeforces.com/contest/459/submission/87242476",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jul/18/2020 21:05"
+  },
   "CF87253027": {
     "contest_id": 680,
     "language": "GNU C++17",
