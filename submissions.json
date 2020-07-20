@@ -7445,6 +7445,24 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF87428998": {
+    "contest_id": 381,
+    "language": "GNU C++17",
+    "path": "codeforces\\381\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja and Stairs",
+    "problem_url": "https://codeforces.com/contest/381/problem/B",
+    "submission_id": "CF87428998",
+    "submission_url": "https://codeforces.com/contest/381/submission/87428998",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jul/20/2020 18:25"
+  },
   "CF87494324": {
     "contest_id": 298,
     "language": "GNU C11",
