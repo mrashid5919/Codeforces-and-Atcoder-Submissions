@@ -7445,6 +7445,24 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF87494324": {
+    "contest_id": 298,
+    "language": "GNU C11",
+    "path": "codeforces\\298\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sail",
+    "problem_url": "https://codeforces.com/contest/298/problem/B",
+    "submission_id": "CF87494324",
+    "submission_url": "https://codeforces.com/contest/298/submission/87494324",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/21/2020 14:39"
+  },
   "CF87497663": {
     "contest_id": 342,
     "language": "GNU C11",
