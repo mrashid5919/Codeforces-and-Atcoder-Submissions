@@ -1,0 +1,64 @@
+#include<stdio.h>
+int main()
+{
+    long long int t,n,i,ara[100003],count,p,j,q;
+    scanf("%lld",&t);
+    while(t--)
+    {
+        scanf("%lld",&n);
+        for(i=0;i<n;i++)
+            scanf("%lld",&ara[i]);
+        count=0;
+        for(i=0;i<n;i++)
+        {
+            p=0;
+            q=0;
+            if(i==n-1)
+                count=count+1;
+            else if(i==n-2)
+            {
+                if(ara[i]==1)
+                    count=count+1;
+                else
+                    count=count+2;
+            }
+            else
+            {
+                if(ara[i]==1)
+                    count=count+1;
+                else
+                {
+                    for(j=i+1;j<n-1;j++)
+                    {
+                        if(ara[j]==1)
+                            p++;
+                        else
+                        {
+                            q=1;
+                            break;
+                        }
+                    }
+                    if(q==1)
+                    {
+                        if(p%2==0)
+                            count=count+2;
+                        else
+                            count++;
+                    }
+                    else
+                    {
+                        if(p%2==1)
+                            count++;
+                        else
+                            count=count+2;
+                    }
+                }
+            }
+        }
+        if(count%2==0)
+            printf("Second\n");
+        else
+            printf("First\n");
+    }
+    return 0;
+}
