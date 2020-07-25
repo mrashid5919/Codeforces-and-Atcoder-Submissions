@@ -1,4 +1,20 @@
 {
+  "AC15424659": {
+    "contest_id": "m-solutions2020",
+    "language": "C (GCC 9.2.1)",
+    "path": "atcoder\\m-solutions2020\\B.c",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Magic 2",
+    "problem_url": "https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b",
+    "submission_id": "AC15424659",
+    "submission_url": "https://atcoder.jp/contests/m-solutions2020/submissions/15424659",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/25/2020 18:13"
+  },
   "AC15430043": {
     "contest_id": "m-solutions2020",
     "language": "C (GCC 9.2.1)",
