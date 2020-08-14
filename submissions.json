@@ -7445,6 +7445,24 @@
     ],
     "timestamp": "Jun/23/2020 20:08"
   },
+  "CF89935360": {
+    "contest_id": 1398,
+    "language": "GNU C++17",
+    "path": "codeforces\\1398\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Substring Removal Game",
+    "problem_url": "https://codeforces.com/contest/1398/problem/B",
+    "submission_id": "CF89935360",
+    "submission_url": "https://codeforces.com/contest/1398/submission/89935360",
+    "tags": [
+      "games",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Aug/14/2020 21:50"
+  },
   "CF90100170": {
     "contest_id": 1392,
     "language": "GNU C++17",
