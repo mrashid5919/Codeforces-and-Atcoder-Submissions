@@ -1,4 +1,20 @@
 {
+  "AC17297912": {
+    "contest_id": "hhkb2020",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\hhkb2020\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Futon",
+    "problem_url": "https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_b",
+    "submission_id": "AC17297912",
+    "submission_url": "https://atcoder.jp/contests/hhkb2020/submissions/17297912",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/10/2020 18:12"
+  },
   "AC17304199": {
     "contest_id": "hhkb2020",
     "language": "C++ (GCC 9.2.1)",
