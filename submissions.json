@@ -1,4 +1,20 @@
 {
+  "AC17787192": {
+    "contest_id": "abc181",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc181\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Heavy Rotation",
+    "problem_url": "https://atcoder.jp/contests/abc181/tasks/abc181_a",
+    "submission_id": "AC17787192",
+    "submission_url": "https://atcoder.jp/contests/abc181/submissions/17787192",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/01/2020 18:05"
+  },
   "AC17792588": {
     "contest_id": "abc181",
     "language": "C++ (GCC 9.2.1)",
