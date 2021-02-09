@@ -1,4 +1,20 @@
 {
+  "AC20064940": {
+    "contest_id": "abc188",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc188\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "ABC Tournament",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_c",
+    "submission_id": "AC20064940",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/20064940",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/09/2021 11:49"
+  },
   "AC20139974": {
     "contest_id": "abc086",
     "language": "C++ (GCC 9.2.1)",
