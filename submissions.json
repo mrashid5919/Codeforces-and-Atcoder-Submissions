@@ -2632,6 +2632,24 @@
     ],
     "timestamp": "Dec/15/2020 20:50"
   },
+  "CF107279354": {
+    "contest_id": 123,
+    "language": "GNU C++17",
+    "path": "codeforces\\123\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prime Permutation",
+    "problem_url": "https://codeforces.com/contest/123/problem/A",
+    "submission_id": "CF107279354",
+    "submission_url": "https://codeforces.com/contest/123/submission/107279354",
+    "tags": [
+      "implementation",
+      "number theory",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Feb/13/2021 18:39"
+  },
   "CF107394676": {
     "contest_id": 1473,
     "language": "GNU C++17",
