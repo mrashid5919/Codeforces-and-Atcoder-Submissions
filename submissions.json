@@ -2632,6 +2632,23 @@
     ],
     "timestamp": "Dec/15/2020 20:50"
   },
+  "CF107413910": {
+    "contest_id": 1487,
+    "language": "GNU C++17",
+    "path": "codeforces\\1487\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arena",
+    "problem_url": "https://codeforces.com/contest/1487/problem/A",
+    "submission_id": "CF107413910",
+    "submission_url": "https://codeforces.com/contest/1487/submission/107413910",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Feb/15/2021 20:40"
+  },
   "CF107427348": {
     "contest_id": 1487,
     "language": "GNU C++17",
