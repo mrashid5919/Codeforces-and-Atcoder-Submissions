@@ -1,4 +1,20 @@
 {
+  "AC20538761": {
+    "contest_id": "abc193",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc193\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Unexpressed",
+    "problem_url": "https://atcoder.jp/contests/abc193/tasks/abc193_c",
+    "submission_id": "AC20538761",
+    "submission_url": "https://atcoder.jp/contests/abc193/submissions/20538761",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/27/2021 18:39"
+  },
   "AC20694249": {
     "contest_id": "abc194",
     "language": "C++ (GCC 9.2.1)",
