@@ -1,4 +1,20 @@
 {
+  "AC21090190": {
+    "contest_id": "abc196",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc196\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Doubled",
+    "problem_url": "https://atcoder.jp/contests/abc196/tasks/abc196_c",
+    "submission_id": "AC21090190",
+    "submission_url": "https://atcoder.jp/contests/abc196/submissions/21090190",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/20/2021 18:48"
+  },
   "AC21636536": {
     "contest_id": "abc198",
     "language": "C++ (GCC 9.2.1)",
