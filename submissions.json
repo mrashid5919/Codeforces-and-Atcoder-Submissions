@@ -2511,6 +2511,24 @@
     ],
     "timestamp": "Sep/04/2021 18:17"
   },
+  "CF111771049": {
+    "contest_id": 858,
+    "language": "GNU C++17",
+    "path": "codeforces\\858\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "k-rounding",
+    "problem_url": "https://codeforces.com/contest/858/problem/A",
+    "submission_id": "CF111771049",
+    "submission_url": "https://codeforces.com/contest/858/submission/111771049",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Apr/02/2021 15:01"
+  },
   "CF111776993": {
     "contest_id": 767,
     "language": "GNU C++17",
