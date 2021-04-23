@@ -2511,6 +2511,24 @@
     ],
     "timestamp": "Sep/04/2021 18:17"
   },
+  "CF113951600": {
+    "contest_id": 686,
+    "language": "GNU C++17",
+    "path": "codeforces\\686\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Robber Girl's Zoo",
+    "problem_url": "https://codeforces.com/contest/686/problem/B",
+    "submission_id": "CF113951600",
+    "submission_url": "https://codeforces.com/contest/686/submission/113951600",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Apr/23/2021 13:36"
+  },
   "CF113953051": {
     "contest_id": 722,
     "language": "GNU C++17",
