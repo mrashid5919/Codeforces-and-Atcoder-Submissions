@@ -1,4 +1,20 @@
 {
+  "AC22436857": {
+    "contest_id": "arc117",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc117\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "God Sequence",
+    "problem_url": "https://atcoder.jp/contests/arc117/tasks/arc117_a",
+    "submission_id": "AC22436857",
+    "submission_url": "https://atcoder.jp/contests/arc117/submissions/22436857",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/08/2021 19:41"
+  },
   "AC22441512": {
     "contest_id": "abc200",
     "language": "C++ (GCC 9.2.1)",
