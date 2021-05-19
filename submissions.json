@@ -2511,6 +2511,23 @@
     ],
     "timestamp": "Sep/04/2021 18:17"
   },
+  "CF116666037": {
+    "contest_id": 846,
+    "language": "GNU C++17",
+    "path": "codeforces\\846\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Curriculum Vitae",
+    "problem_url": "https://codeforces.com/contest/846/problem/A",
+    "submission_id": "CF116666037",
+    "submission_url": "https://codeforces.com/contest/846/submission/116666037",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/19/2021 20:44"
+  },
   "CF116764011": {
     "contest_id": 1527,
     "language": "GNU C++17",
