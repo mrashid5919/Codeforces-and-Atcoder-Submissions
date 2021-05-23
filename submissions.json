@@ -1,4 +1,20 @@
 {
+  "AC22880004": {
+    "contest_id": "arc120",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc120\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Max Add",
+    "problem_url": "https://atcoder.jp/contests/arc120/tasks/arc120_a",
+    "submission_id": "AC22880004",
+    "submission_url": "https://atcoder.jp/contests/arc120/submissions/22880004",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/23/2021 23:35"
+  },
   "AC23039266": {
     "contest_id": "abc203",
     "language": "C++ (GCC 9.2.1)",
