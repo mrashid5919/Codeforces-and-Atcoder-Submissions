@@ -2511,6 +2511,24 @@
     ],
     "timestamp": "Sep/04/2021 18:17"
   },
+  "CF120082619": {
+    "contest_id": 1539,
+    "language": "GNU C++17",
+    "path": "codeforces\\1539\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Love Song",
+    "problem_url": "https://codeforces.com/contest/1539/problem/B",
+    "submission_id": "CF120082619",
+    "submission_url": "https://codeforces.com/contest/1539/submission/120082619",
+    "tags": [
+      "dp",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/20/2021 16:46"
+  },
   "CF121196890": {
     "contest_id": 1542,
     "language": "GNU C++17",
