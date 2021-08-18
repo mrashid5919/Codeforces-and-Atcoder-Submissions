@@ -2511,6 +2511,22 @@
     ],
     "timestamp": "Sep/04/2021 18:17"
   },
+  "CF126297793": {
+    "contest_id": 1560,
+    "language": "GNU C++17",
+    "path": "codeforces\\1560\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Who's Opposite?",
+    "problem_url": "https://codeforces.com/contest/1560/problem/B",
+    "submission_id": "CF126297793",
+    "submission_url": "https://codeforces.com/contest/1560/submission/126297793",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/18/2021 20:54"
+  },
   "CF126307650": {
     "contest_id": 1560,
     "language": "GNU C++17",
