@@ -1,0 +1,18 @@
+{
+  "AC25576615": {
+    "contest_id": "abc217",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc217\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Inverse of Permutation",
+    "problem_url": "https://atcoder.jp/contests/abc217/tasks/abc217_c",
+    "submission_id": "AC25576615",
+    "submission_url": "https://atcoder.jp/contests/abc217/submissions/25576615",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/04/2021 18:17"
+  }
+}
