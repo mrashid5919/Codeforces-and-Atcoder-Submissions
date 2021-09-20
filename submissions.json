@@ -2510,5 +2510,21 @@
       "*300"
     ],
     "timestamp": "Sep/04/2021 18:17"
+  },
+  "CF129423101": {
+    "contest_id": 1194,
+    "language": "GNU C++17",
+    "path": "codeforces\\1194\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Yet Another Crosses Problem",
+    "problem_url": "https://codeforces.com/contest/1194/problem/B",
+    "submission_id": "CF129423101",
+    "submission_url": "https://codeforces.com/contest/1194/submission/129423101",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Sep/20/2021 23:22"
   }
 }
