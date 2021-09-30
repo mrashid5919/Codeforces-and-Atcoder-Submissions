@@ -5161,6 +5161,25 @@
     ],
     "timestamp": "Sep/28/2021 21:37"
   },
+  "CF130363245": {
+    "contest_id": 1581,
+    "language": "GNU C++17",
+    "path": "codeforces\\1581\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Diameter of Graph",
+    "problem_url": "https://codeforces.com/contest/1581/problem/B",
+    "submission_id": "CF130363245",
+    "submission_url": "https://codeforces.com/contest/1581/submission/130363245",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Sep/30/2021 17:45"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
