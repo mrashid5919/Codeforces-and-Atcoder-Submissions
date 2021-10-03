@@ -5262,6 +5262,25 @@
     ],
     "timestamp": "Oct/02/2021 17:10"
   },
+  "CF130730262": {
+    "contest_id": 1592,
+    "language": "GNU C++17",
+    "path": "codeforces\\1592\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hemose Shopping",
+    "problem_url": "https://codeforces.com/contest/1592/problem/B",
+    "submission_id": "CF130730262",
+    "submission_url": "https://codeforces.com/contest/1592/submission/130730262",
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Oct/04/2021 00:07"
+  },
   "CF130838780": {
     "contest_id": 1082,
     "language": "GNU C++17",
