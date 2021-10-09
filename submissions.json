@@ -5385,6 +5385,23 @@
     ],
     "timestamp": "Oct/08/2021 21:45"
   },
+  "CF131288423": {
+    "contest_id": 1594,
+    "language": "GNU C++17",
+    "path": "codeforces\\1594\\E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Rubik's Cube Coloring (easy version)",
+    "problem_url": "https://codeforces.com/contest/1594/problem/E1",
+    "submission_id": "CF131288423",
+    "submission_url": "https://codeforces.com/contest/1594/submission/131288423",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/09/2021 13:29"
+  },
   "CF131289663": {
     "contest_id": 1594,
     "language": "GNU C++17",
