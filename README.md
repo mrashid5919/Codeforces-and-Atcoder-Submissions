@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+631 | [C - Swiss-System Tournament](https://atcoder.jp/contests/abc222/tasks/abc222_c) | [C++ (GCC 9.2.1)](./atcoder/abc222/C.cpp) | `AtCoder` `*300` | Oct/09/2021 19:21 | 
 630 | [C - Make Them Equal](https://codeforces.com/contest/1594/problem/C) | [GNU C++17](./codeforces/1594/C.cpp) | `brute force` `greedy` `math` `strings` `*1200` | Oct/09/2021 13:39 | 
 629 | [E1 - Rubik's Cube Coloring (easy version)](https://codeforces.com/contest/1594/problem/E1) | [GNU C++17](./codeforces/1594/E1.cpp) | `combinatorics` `math` `*1300` | Oct/09/2021 13:29 | 
 628 | [B - Special Numbers](https://codeforces.com/contest/1594/problem/B) | [GNU C++17](./codeforces/1594/B.cpp) | `bitmasks` `math` `*1100` | Oct/08/2021 21:45 | 
