@@ -1,0 +1,95 @@
+#include<bits/stdc++.h>
+#include<string>
+using namespace std;
+#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL)
+
+int main()
+{
+    fastio;
+    long long t,n,k,i,p,q,x;
+    cin>>t;
+    while(t--)
+    {
+        p=-1;
+        q=-1;
+        k=INT_MAX;
+        cin>>n;
+        string num=to_string(n);
+        x=num.size();
+        for(i=num.size();i>=0;i--)
+        {
+            if(num[i]=='5')
+            {
+                p=i;
+                break;
+            }
+        }
+        if(p!=-1)
+        {
+            for(i=p-1;i>=0;i--)
+            {
+                if(num[i]=='2')
+                {
+                    q=i;
+                    break;
+                }
+            }
+            if(q!=-1)
+            {
+                k=min(k,x-q-2);
+            }
+            q=-1;
+            for(i=p-1;i>=0;i--)
+            {
+                if(num[i]=='7')
+                {
+                    q=i;
+                    break;
+                }
+            }
+            if(q!=-1)
+            {
+                k=min(k,x-q-2);
+            }
+        }
+        p=-1;
+        for(i=num.size();i>=0;i--)
+        {
+            if(num[i]=='0')
+            {
+                p=i;
+                break;
+            }
+        }
+        if(p!=-1)
+        {
+            for(i=p-1;i>=0;i--)
+            {
+                if(num[i]=='0')
+                {
+                    q=i;
+                    break;
+                }
+            }
+            if(q!=-1)
+            {
+                k=min(k,x-q-2);
+            }
+            q=-1;
+            for(i=p-1;i>=0;i--)
+            {
+                if(num[i]=='5')
+                {
+                    q=i;
+                    break;
+                }
+            }
+            if(q!=-1)
+            {
+                k=min(k,x-q-2);
+            }
+        }
+        cout<<k<<"\n";
+    }
+    return 0;
+}
