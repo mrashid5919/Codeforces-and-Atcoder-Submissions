@@ -5521,6 +5521,23 @@
     ],
     "timestamp": "Oct/10/2021 15:17"
   },
+  "CF131812909": {
+    "contest_id": 1593,
+    "language": "GNU C++17",
+    "path": "codeforces\\1593\\D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "All are Same",
+    "problem_url": "https://codeforces.com/contest/1593/problem/D1",
+    "submission_id": "CF131812909",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131812909",
+    "tags": [
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Oct/13/2021 21:45"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
