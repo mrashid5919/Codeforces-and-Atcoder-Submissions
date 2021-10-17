@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-649 | [A - Two Subsequences](https://codeforces.com/contest/1602/problem/A) | [GNU C++17](./codeforces/1602/A.cpp) | `implementation` `*800` | Oct/25/2021 12:41 | 
-648 | [A - NEKO's Maze Game](https://codeforces.com/contest/1292/problem/A) | [GNU C++17](./codeforces/1292/A.cpp) | `data structures` `dsu` `implementation` `*1400` | Oct/22/2021 13:16 | 
-647 | [B - Wet Shark and Bishops](https://codeforces.com/contest/621/problem/B) | [GNU C++17](./codeforces/621/B.cpp) | `combinatorics` `implementation` `*1300` | Oct/21/2021 21:37 | 
-646 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [GNU C++17](./codeforces/1316/B.cpp) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Oct/21/2021 16:35 | 
-645 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1586/problem/B) | [GNU C++17](./codeforces/1586/B.cpp) | `brute force` `constructive algorithms` `trees` `*1200` | Oct/17/2021 18:15 | 
+650 | [A - Two Subsequences](https://codeforces.com/contest/1602/problem/A) | [GNU C++17](./codeforces/1602/A.cpp) | `implementation` `*800` | Oct/25/2021 12:41 | 
+649 | [A - NEKO's Maze Game](https://codeforces.com/contest/1292/problem/A) | [GNU C++17](./codeforces/1292/A.cpp) | `data structures` `dsu` `implementation` `*1400` | Oct/22/2021 13:16 | 
+648 | [B - Wet Shark and Bishops](https://codeforces.com/contest/621/problem/B) | [GNU C++17](./codeforces/621/B.cpp) | `combinatorics` `implementation` `*1300` | Oct/21/2021 21:37 | 
+647 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [GNU C++17](./codeforces/1316/B.cpp) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Oct/21/2021 16:35 | 
+646 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1586/problem/B) | [GNU C++17](./codeforces/1586/B.cpp) | `brute force` `constructive algorithms` `trees` `*1200` | Oct/17/2021 18:15 | 
+645 | [A - Windblume Ode](https://codeforces.com/contest/1586/problem/A) | [GNU C++17](./codeforces/1586/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `number theory` `*800` | Oct/17/2021 17:42 | 
 644 | [C - Kefa and Park](https://codeforces.com/contest/580/problem/C) | [GNU C++17](./codeforces/580/C.cpp) | `dfs and similar` `graphs` `trees` `*1500` | Oct/17/2021 14:20 | 
 643 | [D - Green and Black Tea](https://codeforces.com/contest/746/problem/D) | [GNU C++17](./codeforces/746/D.cpp) | `constructive algorithms` `greedy` `math` `*1500` | Oct/15/2021 16:38 | 
 642 | [D1 - Hyperspace Jump (easy)](https://codeforces.com/contest/958/problem/D1) | [GNU C++17](./codeforces/958/D1.cpp) | `expression parsing` `math` `*1400` | Oct/15/2021 15:23 | 
