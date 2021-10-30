@@ -5773,6 +5773,22 @@
     ],
     "timestamp": "Oct/25/2021 12:41"
   },
+  "CF133663821": {
+    "contest_id": 1604,
+    "language": "GNU C++17",
+    "path": "codeforces\\1604\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "XOR Specia-LIS-t",
+    "problem_url": "https://codeforces.com/contest/1604/problem/B",
+    "submission_id": "CF133663821",
+    "submission_url": "https://codeforces.com/contest/1604/submission/133663821",
+    "tags": [
+      "constructive algorithms",
+      "*1100"
+    ],
+    "timestamp": "Oct/30/2021 21:47"
+  },
   "CF133681490": {
     "contest_id": 1604,
     "language": "GNU C++17",
