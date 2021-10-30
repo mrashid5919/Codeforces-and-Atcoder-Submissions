@@ -2623,6 +2623,22 @@
     ],
     "timestamp": "Oct/13/2021 01:15"
   },
+  "AC26896505": {
+    "contest_id": "abc225",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc225\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Star or Not",
+    "problem_url": "https://atcoder.jp/contests/abc225/tasks/abc225_b",
+    "submission_id": "AC26896505",
+    "submission_url": "https://atcoder.jp/contests/abc225/submissions/26896505",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/30/2021 18:08"
+  },
   "AC26913294": {
     "contest_id": "abc225",
     "language": "C++ (GCC 9.2.1)",
