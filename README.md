@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+664 | [C - Dominant Character](https://codeforces.com/contest/1605/problem/C) | [GNU C++17](./codeforces/1605/C.cpp) | `greedy` `implementation` `strings` `*1400` | Nov/12/2021 22:08 | 
 663 | [C - Sweets Eating](https://codeforces.com/contest/1253/problem/C) | [GNU C++17](./codeforces/1253/C.cpp) | `dp` `greedy` `math` `sortings` `*1500` | Nov/07/2021 19:56 | 
 662 | [A - Save the problem!](https://codeforces.com/contest/865/problem/A) | [GNU C++17](./codeforces/865/A.cpp) | `constructive algorithms` `*1400` | Nov/06/2021 22:57 | 
 661 | [C - Killjoy](https://codeforces.com/contest/1419/problem/C) | [GNU C++17](./codeforces/1419/C.cpp) | `greedy` `implementation` `math` `*1500` | Nov/03/2021 00:21 | 
