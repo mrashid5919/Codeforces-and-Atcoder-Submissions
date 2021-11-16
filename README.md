@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-669 | [C - Woodcutters](https://codeforces.com/contest/545/problem/C) | [GNU C++17](./codeforces/545/C.cpp) | `dp` `greedy` `*1500` | Nov/16/2021 18:35 | 
+670 | [C - Woodcutters](https://codeforces.com/contest/545/problem/C) | [GNU C++17](./codeforces/545/C.cpp) | `dp` `greedy` `*1500` | Nov/16/2021 18:35 | 
+669 | [D - Queue](https://codeforces.com/contest/545/problem/D) | [GNU C++17](./codeforces/545/D.cpp) | `greedy` `implementation` `sortings` `*1300` | Nov/16/2021 18:15 | 
 668 | [C - 4-adjacent](https://atcoder.jp/contests/arc080/tasks/arc080_a) | [C++ (GCC 9.2.1)](./atcoder/arc080/C.cpp) | `AtCoder` `*400` | Nov/16/2021 01:15 | 
 667 | [A - Last Card](https://atcoder.jp/contests/abc227/tasks/abc227_a) | [C++ (GCC 9.2.1)](./atcoder/abc227/A.cpp) | `AtCoder` `*100` | Nov/14/2021 17:50 | 
 666 | [C - Dominant Character](https://codeforces.com/contest/1605/problem/C) | [GNU C++17](./codeforces/1605/C.cpp) | `greedy` `implementation` `strings` `*1400` | Nov/12/2021 22:08 | 
