@@ -6110,6 +6110,24 @@
     ],
     "timestamp": "Nov/16/2021 18:35"
   },
+  "CF136858059": {
+    "contest_id": 1611,
+    "language": "GNU C++17",
+    "path": "codeforces\\1611\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Team Composition: Programmers and Mathematicians",
+    "problem_url": "https://codeforces.com/contest/1611/problem/B",
+    "submission_id": "CF136858059",
+    "submission_url": "https://codeforces.com/contest/1611/submission/136858059",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2021 20:51"
+  },
   "CF136874036": {
     "contest_id": 1611,
     "language": "GNU C++17",
