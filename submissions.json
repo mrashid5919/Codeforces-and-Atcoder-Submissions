@@ -6178,6 +6178,22 @@
     ],
     "timestamp": "Nov/25/2021 21:51"
   },
+  "CF139248712": {
+    "contest_id": 1618,
+    "language": "GNU C++17",
+    "path": "codeforces\\1618\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Missing Bigram",
+    "problem_url": "https://codeforces.com/contest/1618/problem/B",
+    "submission_id": "CF139248712",
+    "submission_url": "https://codeforces.com/contest/1618/submission/139248712",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/14/2021 21:03"
+  },
   "CF139260721": {
     "contest_id": 1618,
     "language": "GNU C++17",
