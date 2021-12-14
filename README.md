@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-675 | [D - Array and Operations](https://codeforces.com/contest/1618/problem/D) | [GNU C++17](./codeforces/1618/D.cpp) | `dp` `greedy` `math` `*1300` | Dec/14/2021 21:55 | 
+676 | [D - Array and Operations](https://codeforces.com/contest/1618/problem/D) | [GNU C++17](./codeforces/1618/D.cpp) | `dp` `greedy` `math` `*1300` | Dec/14/2021 21:55 | 
+675 | [C - Paint the Array](https://codeforces.com/contest/1618/problem/C) | [GNU C++17](./codeforces/1618/C.cpp) | `math` `*1100` | Dec/14/2021 21:17 | 
 674 | [D - Weights Assignment For Tree Edges](https://codeforces.com/contest/1611/problem/D) | [GNU C++17](./codeforces/1611/D.cpp) | `constructive algorithms` `trees` `*1500` | Nov/25/2021 21:51 | 
 673 | [C - Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C) | [GNU C++17](./codeforces/1611/C.cpp) | `constructive algorithms` `*1000` | Nov/25/2021 21:11 | 
 672 | [B - Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B) | [GNU C++17](./codeforces/1611/B.cpp) | `binary search` `constructive algorithms` `math` `*800` | Nov/25/2021 20:51 | 
