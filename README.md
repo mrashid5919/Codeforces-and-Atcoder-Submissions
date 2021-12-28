@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-686 | [B - Game on Ranges](https://codeforces.com/contest/1623/problem/B) | [GNU C++17](./codeforces/1623/B.cpp) | `brute force` `implementation` `sortings` `*1100` | Dec/28/2021 20:49 | 
+687 | [B - Game on Ranges](https://codeforces.com/contest/1623/problem/B) | [GNU C++17](./codeforces/1623/B.cpp) | `brute force` `implementation` `sortings` `*1100` | Dec/28/2021 20:49 | 
+686 | [A - Robot Cleaner](https://codeforces.com/contest/1623/problem/A) | [GNU C++17](./codeforces/1623/A.cpp) | `brute force` `implementation` `math` `*800` | Dec/28/2021 19:41 | 
 685 | [B - Exponential](https://atcoder.jp/contests/abc097/tasks/abc097_b) | [C++ (GCC 9.2.1)](./atcoder/abc097/B.cpp) | `AtCoder` `*200` | Dec/24/2021 00:28 | 
 684 | [D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b) | [C++ (GCC 9.2.1)](./atcoder/abc094/D.cpp) | `AtCoder` `*400` | Dec/21/2021 22:17 | 
 683 | [C - Candies](https://atcoder.jp/contests/abc087/tasks/arc090_a) | [C++ (GCC 9.2.1)](./atcoder/abc087/C.cpp) | `AtCoder` `*300` | Dec/21/2021 22:15 | 
