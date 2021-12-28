@@ -6366,6 +6366,24 @@
     ],
     "timestamp": "Dec/21/2021 22:07"
   },
+  "CF140930259": {
+    "contest_id": 1623,
+    "language": "GNU C++17",
+    "path": "codeforces\\1623\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Game on Ranges",
+    "problem_url": "https://codeforces.com/contest/1623/problem/B",
+    "submission_id": "CF140930259",
+    "submission_url": "https://codeforces.com/contest/1623/submission/140930259",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Dec/28/2021 20:49"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
