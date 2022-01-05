@@ -2751,6 +2751,22 @@
     ],
     "timestamp": "Dec/24/2021 00:28"
   },
+  "AC28339489": {
+    "contest_id": "abc183",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc183\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Travel",
+    "problem_url": "https://atcoder.jp/contests/abc183/tasks/abc183_c",
+    "submission_id": "AC28339489",
+    "submission_url": "https://atcoder.jp/contests/abc183/submissions/28339489",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/05/2022 19:42"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
