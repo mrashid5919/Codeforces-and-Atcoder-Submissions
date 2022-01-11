@@ -6437,6 +6437,26 @@
     ],
     "timestamp": "Jan/08/2022 18:11"
   },
+  "CF142405813": {
+    "contest_id": 1624,
+    "language": "GNU C++17",
+    "path": "codeforces\\1624\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Division by Two and Permutation",
+    "problem_url": "https://codeforces.com/contest/1624/problem/C",
+    "submission_id": "CF142405813",
+    "submission_url": "https://codeforces.com/contest/1624/submission/142405813",
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graph matchings",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/12/2022 00:25"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
