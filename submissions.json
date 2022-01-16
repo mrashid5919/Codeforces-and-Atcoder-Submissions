@@ -2767,6 +2767,22 @@
     ],
     "timestamp": "Jan/05/2022 19:42"
   },
+  "AC28589384": {
+    "contest_id": "abc061",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc061\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Big Array",
+    "problem_url": "https://atcoder.jp/contests/abc061/tasks/abc061_c",
+    "submission_id": "AC28589384",
+    "submission_url": "https://atcoder.jp/contests/abc061/submissions/28589384",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/16/2022 19:47"
+  },
   "AC28589766": {
     "contest_id": "abc057",
     "language": "C++ (GCC 9.2.1)",
