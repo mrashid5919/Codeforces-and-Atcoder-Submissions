@@ -2767,6 +2767,22 @@
     ],
     "timestamp": "Jan/05/2022 19:42"
   },
+  "AC28588984": {
+    "contest_id": "abc130",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc130\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Enough Array",
+    "problem_url": "https://atcoder.jp/contests/abc130/tasks/abc130_d",
+    "submission_id": "AC28588984",
+    "submission_url": "https://atcoder.jp/contests/abc130/submissions/28588984",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/16/2022 19:28"
+  },
   "AC28589384": {
     "contest_id": "abc061",
     "language": "C++ (GCC 9.2.1)",
