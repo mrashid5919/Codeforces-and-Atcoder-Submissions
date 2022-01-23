@@ -2815,6 +2815,22 @@
     ],
     "timestamp": "Jan/16/2022 20:06"
   },
+  "AC28742750": {
+    "contest_id": "abc236",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc236\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Route Map",
+    "problem_url": "https://atcoder.jp/contests/abc236/tasks/abc236_c",
+    "submission_id": "AC28742750",
+    "submission_url": "https://atcoder.jp/contests/abc236/submissions/28742750",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/23/2022 18:30"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
