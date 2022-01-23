@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-696 | [C - Route Map](https://atcoder.jp/contests/abc236/tasks/abc236_c) | [C++ (GCC 9.2.1)](./atcoder/abc236/C.cpp) | `AtCoder` `*300` | Jan/23/2022 18:30 | 
+697 | [C - Route Map](https://atcoder.jp/contests/abc236/tasks/abc236_c) | [C++ (GCC 9.2.1)](./atcoder/abc236/C.cpp) | `AtCoder` `*300` | Jan/23/2022 18:30 | 
+696 | [B - Who is missing?](https://atcoder.jp/contests/abc236/tasks/abc236_b) | [C++ (GCC 9.2.1)](./atcoder/abc236/B.cpp) | `AtCoder` `*200` | Jan/23/2022 18:09 | 
 695 | [C - Digits in Multiplication](https://atcoder.jp/contests/abc057/tasks/abc057_c) | [C++ (GCC 9.2.1)](./atcoder/abc057/C.cpp) | `AtCoder` `*300` | Jan/16/2022 20:06 | 
 694 | [C - Big Array](https://atcoder.jp/contests/abc061/tasks/abc061_c) | [C++ (GCC 9.2.1)](./atcoder/abc061/C.cpp) | `AtCoder` `*300` | Jan/16/2022 19:47 | 
 693 | [D - Enough Array](https://atcoder.jp/contests/abc130/tasks/abc130_d) | [C++ (GCC 9.2.1)](./atcoder/abc130/D.cpp) | `AtCoder` `*400` | Jan/16/2022 19:28 | 
