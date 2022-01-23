@@ -2863,6 +2863,22 @@
     ],
     "timestamp": "Jan/23/2022 18:30"
   },
+  "AC28764233": {
+    "contest_id": "abc156",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc156\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Digits",
+    "problem_url": "https://atcoder.jp/contests/abc156/tasks/abc156_b",
+    "submission_id": "AC28764233",
+    "submission_url": "https://atcoder.jp/contests/abc156/submissions/28764233",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/23/2022 23:30"
+  },
   "AC28764250": {
     "contest_id": "abc149",
     "language": "C++ (GCC 9.2.1)",
