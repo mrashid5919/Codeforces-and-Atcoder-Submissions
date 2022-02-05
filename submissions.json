@@ -2895,6 +2895,22 @@
     ],
     "timestamp": "Jan/23/2022 23:31"
   },
+  "AC29083332": {
+    "contest_id": "abc238",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc238\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Pizza",
+    "problem_url": "https://atcoder.jp/contests/abc238/tasks/abc238_b",
+    "submission_id": "AC29083332",
+    "submission_url": "https://atcoder.jp/contests/abc238/submissions/29083332",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/05/2022 18:31"
+  },
   "AC29103720": {
     "contest_id": "abc238",
     "language": "C++ (GCC 9.2.1)",
