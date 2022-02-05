@@ -2895,6 +2895,22 @@
     ],
     "timestamp": "Jan/23/2022 23:31"
   },
+  "AC29103720": {
+    "contest_id": "abc238",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc238\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "digitnum",
+    "problem_url": "https://atcoder.jp/contests/abc238/tasks/abc238_c",
+    "submission_id": "AC29103720",
+    "submission_url": "https://atcoder.jp/contests/abc238/submissions/29103720",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/05/2022 19:51"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
