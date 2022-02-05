@@ -2895,6 +2895,22 @@
     ],
     "timestamp": "Jan/23/2022 23:31"
   },
+  "AC29072533": {
+    "contest_id": "abc238",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc238\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Exponential or Quadratic",
+    "problem_url": "https://atcoder.jp/contests/abc238/tasks/abc238_a",
+    "submission_id": "AC29072533",
+    "submission_url": "https://atcoder.jp/contests/abc238/submissions/29072533",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/05/2022 18:09"
+  },
   "AC29083332": {
     "contest_id": "abc238",
     "language": "C++ (GCC 9.2.1)",
