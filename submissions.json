@@ -2943,6 +2943,22 @@
     ],
     "timestamp": "Feb/05/2022 19:51"
   },
+  "AC29168588": {
+    "contest_id": "abc093",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc093\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Small and Large Integers",
+    "problem_url": "https://atcoder.jp/contests/abc093/tasks/abc093_b",
+    "submission_id": "AC29168588",
+    "submission_url": "https://atcoder.jp/contests/abc093/submissions/29168588",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/08/2022 20:34"
+  },
   "AC29168940": {
     "contest_id": "abc103",
     "language": "C++ (GCC 9.2.1)",
