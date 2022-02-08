@@ -2943,6 +2943,22 @@
     ],
     "timestamp": "Feb/05/2022 19:51"
   },
+  "AC29168940": {
+    "contest_id": "abc103",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc103\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Modulo Summation",
+    "problem_url": "https://atcoder.jp/contests/abc103/tasks/abc103_c",
+    "submission_id": "AC29168940",
+    "submission_url": "https://atcoder.jp/contests/abc103/submissions/29168940",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/08/2022 20:50"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
