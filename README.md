@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-714 | [C - Prefix Sum Primes](https://codeforces.com/contest/1150/problem/C) | [GNU C++17](./codeforces/1150/C.cpp) | `constructive algorithms` `greedy` `math` `number theory` `*1200` | Feb/17/2022 18:35 | 
-713 | [A - AtCoder Group Contest](https://atcoder.jp/contests/agc012/tasks/agc012_a) | [C++ (GCC 9.2.1)](./atcoder/agc012/A.cpp) | `AtCoder` `*300` | Feb/17/2022 18:34 | 
-712 | [C - Boboniu and Bit Operations](https://codeforces.com/contest/1395/problem/C) | [GNU C++17](./codeforces/1395/C.cpp) | `bitmasks` `brute force` `dp` `greedy` `*1600` | Feb/16/2022 23:20 | 
-711 | [C - Lining Up](https://atcoder.jp/contests/arc066/tasks/arc066_a) | [C++ (GCC 9.2.1)](./atcoder/arc066/C.cpp) | `AtCoder` `*300` | Feb/16/2022 21:17 | 
-710 | [C - Many Balls](https://atcoder.jp/contests/abc216/tasks/abc216_c) | [C++ (GCC 9.2.1)](./atcoder/abc216/C.cpp) | `AtCoder` `*300` | Feb/16/2022 20:05 | 
-709 | [B - K-th Common Divisor](https://atcoder.jp/contests/abc120/tasks/abc120_b) | [C++ (GCC 9.2.1)](./atcoder/abc120/B.cpp) | `AtCoder` `*200` | Feb/16/2022 19:25 | 
-708 | [B - Odd Swap Sort](https://codeforces.com/contest/1638/problem/B) | [GNU C++17](./codeforces/1638/B.cpp) | `data structures` `math` `sortings` `*1100` | Feb/15/2022 01:29 | 
-707 | [A - Reverse](https://codeforces.com/contest/1638/problem/A) | [GNU C++17](./codeforces/1638/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | Feb/14/2022 21:35 | 
+715 | [C - Prefix Sum Primes](https://codeforces.com/contest/1150/problem/C) | [GNU C++17](./codeforces/1150/C.cpp) | `constructive algorithms` `greedy` `math` `number theory` `*1200` | Feb/17/2022 18:35 | 
+714 | [A - AtCoder Group Contest](https://atcoder.jp/contests/agc012/tasks/agc012_a) | [C++ (GCC 9.2.1)](./atcoder/agc012/A.cpp) | `AtCoder` `*300` | Feb/17/2022 18:34 | 
+713 | [C - Boboniu and Bit Operations](https://codeforces.com/contest/1395/problem/C) | [GNU C++17](./codeforces/1395/C.cpp) | `bitmasks` `brute force` `dp` `greedy` `*1600` | Feb/16/2022 23:20 | 
+712 | [C - Lining Up](https://atcoder.jp/contests/arc066/tasks/arc066_a) | [C++ (GCC 9.2.1)](./atcoder/arc066/C.cpp) | `AtCoder` `*300` | Feb/16/2022 21:17 | 
+711 | [C - Many Balls](https://atcoder.jp/contests/abc216/tasks/abc216_c) | [C++ (GCC 9.2.1)](./atcoder/abc216/C.cpp) | `AtCoder` `*300` | Feb/16/2022 20:05 | 
+710 | [B - K-th Common Divisor](https://atcoder.jp/contests/abc120/tasks/abc120_b) | [C++ (GCC 9.2.1)](./atcoder/abc120/B.cpp) | `AtCoder` `*200` | Feb/16/2022 19:25 | 
+709 | [B - Odd Swap Sort](https://codeforces.com/contest/1638/problem/B) | [GNU C++17](./codeforces/1638/B.cpp) | `data structures` `math` `sortings` `*1100` | Feb/15/2022 01:29 | 
+708 | [A - Reverse](https://codeforces.com/contest/1638/problem/A) | [GNU C++17](./codeforces/1638/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | Feb/14/2022 21:35 | 
+707 | [C - Andrew and Stones](https://codeforces.com/contest/1637/problem/C) | [GNU C++17](./codeforces/1637/C.cpp) | `greedy` `implementation` `*1200` | Feb/12/2022 21:34 | 
 706 | [C - Modulo Summation](https://atcoder.jp/contests/abc103/tasks/abc103_c) | [C++ (GCC 9.2.1)](./atcoder/abc103/C.cpp) | `AtCoder` `*300` | Feb/08/2022 20:50 | 
 705 | [B - Small and Large Integers](https://atcoder.jp/contests/abc093/tasks/abc093_b) | [C++ (GCC 9.2.1)](./atcoder/abc093/B.cpp) | `AtCoder` `*200` | Feb/08/2022 20:34 | 
 704 | [C - digitnum](https://atcoder.jp/contests/abc238/tasks/abc238_c) | [C++ (GCC 9.2.1)](./atcoder/abc238/C.cpp) | `AtCoder` `*300` | Feb/05/2022 19:51 | 
