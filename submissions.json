@@ -2975,6 +2975,22 @@
     ],
     "timestamp": "Feb/08/2022 20:50"
   },
+  "AC29375546": {
+    "contest_id": "arc066",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc066\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Lining Up",
+    "problem_url": "https://atcoder.jp/contests/arc066/tasks/arc066_a",
+    "submission_id": "AC29375546",
+    "submission_url": "https://atcoder.jp/contests/arc066/submissions/29375546",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/16/2022 21:17"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
