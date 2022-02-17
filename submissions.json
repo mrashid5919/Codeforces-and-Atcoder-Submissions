@@ -3023,6 +3023,22 @@
     ],
     "timestamp": "Feb/16/2022 21:17"
   },
+  "AC29388981": {
+    "contest_id": "agc012",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc012\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "AtCoder Group Contest",
+    "problem_url": "https://atcoder.jp/contests/agc012/tasks/agc012_a",
+    "submission_id": "AC29388981",
+    "submission_url": "https://atcoder.jp/contests/agc012/submissions/29388981",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/17/2022 18:34"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
