@@ -3039,6 +3039,22 @@
     ],
     "timestamp": "Feb/17/2022 18:34"
   },
+  "AC29675238": {
+    "contest_id": "abc241",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc241\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Pasta",
+    "problem_url": "https://atcoder.jp/contests/abc241/tasks/abc241_b",
+    "submission_id": "AC29675238",
+    "submission_url": "https://atcoder.jp/contests/abc241/submissions/29675238",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/26/2022 18:15"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
