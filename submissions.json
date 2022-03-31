@@ -7088,6 +7088,24 @@
     ],
     "timestamp": "Mar/08/2022 21:50"
   },
+  "CF151560641": {
+    "contest_id": 1660,
+    "language": "GNU C++17",
+    "path": "codeforces\\1660\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Get an Even String",
+    "problem_url": "https://codeforces.com/contest/1660/problem/C",
+    "submission_id": "CF151560641",
+    "submission_url": "https://codeforces.com/contest/1660/submission/151560641",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Mar/31/2022 21:41"
+  },
   "CF152321507": {
     "contest_id": 1663,
     "language": "Text",
