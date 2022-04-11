@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+734 | [A - Boredom](https://codeforces.com/contest/455/problem/A) | [GNU C++17](./codeforces/455/A.cpp) | `dp` `*1500` | Apr/11/2022 13:39 | 
 733 | [C - Pōja Verdon](https://codeforces.com/contest/1663/problem/C) | [GNU C++17](./codeforces/1663/C.cpp) | `implementation` | Apr/01/2022 20:58 | 
 732 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [Text](./codeforces/1663/A.txt) |  | Apr/01/2022 20:46 | 
 731 | [C - Get an Even String](https://codeforces.com/contest/1660/problem/C) | [GNU C++17](./codeforces/1660/C.cpp) | `dp` `greedy` `strings` `*1300` | Mar/31/2022 21:41 | 
