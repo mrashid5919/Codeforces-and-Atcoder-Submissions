@@ -7203,6 +7203,25 @@
     ],
     "timestamp": "Apr/12/2022 13:11"
   },
+  "CF153895411": {
+    "contest_id": 1659,
+    "language": "GNU C++17",
+    "path": "codeforces\\1659\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Red Versus Blue",
+    "problem_url": "https://codeforces.com/contest/1659/problem/A",
+    "submission_id": "CF153895411",
+    "submission_url": "https://codeforces.com/contest/1659/submission/153895411",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/17/2022 20:47"
+  },
   "CF153913608": {
     "contest_id": 1659,
     "language": "GNU C++17",
