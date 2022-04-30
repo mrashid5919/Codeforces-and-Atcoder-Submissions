@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-756 | [A - Prof. Slim](https://codeforces.com/contest/1670/problem/A) | [GNU C++17](./codeforces/1670/A.cpp) | `greedy` `implementation` `sortings` `*800` | May/06/2022 20:45 | 
-755 | [D - Vertical Paths](https://codeforces.com/contest/1675/problem/D) | [GNU C++17](./codeforces/1675/D.cpp) | `graphs` `implementation` `trees` `*1300` | May/05/2022 22:38 | 
-754 | [C - Detective Task](https://codeforces.com/contest/1675/problem/C) | [GNU C++17](./codeforces/1675/C.cpp) | `implementation` `*1100` | May/05/2022 21:29 | 
-753 | [B - Make It Increasing](https://codeforces.com/contest/1675/problem/B) | [GNU C++17](./codeforces/1675/B.cpp) | `greedy` `implementation` `*900` | May/05/2022 21:05 | 
-752 | [A - Food for Animals](https://codeforces.com/contest/1675/problem/A) | [GNU C++17](./codeforces/1675/A.cpp) | `greedy` `math` `*800` | May/05/2022 20:41 | 
+757 | [A - Prof. Slim](https://codeforces.com/contest/1670/problem/A) | [GNU C++17](./codeforces/1670/A.cpp) | `greedy` `implementation` `sortings` `*800` | May/06/2022 20:45 | 
+756 | [D - Vertical Paths](https://codeforces.com/contest/1675/problem/D) | [GNU C++17](./codeforces/1675/D.cpp) | `graphs` `implementation` `trees` `*1300` | May/05/2022 22:38 | 
+755 | [C - Detective Task](https://codeforces.com/contest/1675/problem/C) | [GNU C++17](./codeforces/1675/C.cpp) | `implementation` `*1100` | May/05/2022 21:29 | 
+754 | [B - Make It Increasing](https://codeforces.com/contest/1675/problem/B) | [GNU C++17](./codeforces/1675/B.cpp) | `greedy` `implementation` `*900` | May/05/2022 21:05 | 
+753 | [A - Food for Animals](https://codeforces.com/contest/1675/problem/A) | [GNU C++17](./codeforces/1675/A.cpp) | `greedy` `math` `*800` | May/05/2022 20:41 | 
+752 | [B - A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | [GNU C++17](./codeforces/1673/B.cpp) | `brute force` `greedy` `strings` `*1100` | Apr/30/2022 21:39 | 
 751 | [C - Unequal Array](https://codeforces.com/contest/1672/problem/C) | [GNU C++17](./codeforces/1672/C.cpp) | `constructive algorithms` `greedy` `implementation` `*1100` | Apr/23/2022 21:17 | 
 750 | [A - Log Chopping](https://codeforces.com/contest/1672/problem/A) | [GNU C++17](./codeforces/1672/A.cpp) | `constructive algorithms` `games` `implementation` `math` `*800` | Apr/23/2022 20:36 | 
 749 | [B - I love AAAB](https://codeforces.com/contest/1672/problem/B) | [GNU C++17](./codeforces/1672/B.cpp) | `constructive algorithms` `implementation` `*800` | Apr/23/2022 20:20 | 
