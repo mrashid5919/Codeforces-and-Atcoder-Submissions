@@ -7806,6 +7806,24 @@
     ],
     "timestamp": "May/13/2022 21:04"
   },
+  "CF157713830": {
+    "contest_id": 1684,
+    "language": "GNU C++17",
+    "path": "codeforces\\1684\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Column Swapping",
+    "problem_url": "https://codeforces.com/contest/1684/problem/C",
+    "submission_id": "CF157713830",
+    "submission_url": "https://codeforces.com/contest/1684/submission/157713830",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/19/2022 21:52"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
