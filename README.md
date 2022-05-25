@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-773 | [C - Circular Local MiniMax](https://codeforces.com/contest/1686/problem/C) | [GNU C++17](./codeforces/1686/C.cpp) | `constructive algorithms` `greedy` `sortings` `*1100` | May/26/2022 00:54 | 
+774 | [C - Circular Local MiniMax](https://codeforces.com/contest/1686/problem/C) | [GNU C++17](./codeforces/1686/C.cpp) | `constructive algorithms` `greedy` `sortings` `*1100` | May/26/2022 00:54 | 
+773 | [B - Odd Subarrays](https://codeforces.com/contest/1686/problem/B) | [GNU C++17](./codeforces/1686/B.cpp) | `dp` `greedy` | May/26/2022 00:07 | 
 772 | [C - Column Swapping](https://codeforces.com/contest/1684/problem/C) | [GNU C++17](./codeforces/1684/C.cpp) | `constructive algorithms` `implementation` `sortings` `*1400` | May/19/2022 21:52 | 
 771 | [B - Z mod X = C](https://codeforces.com/contest/1684/problem/B) | [GNU C++17](./codeforces/1684/B.cpp) | `constructive algorithms` `math` `*800` | May/19/2022 20:50 | 
 770 | [A - Digit Minimization](https://codeforces.com/contest/1684/problem/A) | [GNU C++17](./codeforces/1684/A.cpp) | `constructive algorithms` `games` `math` `*800` | May/19/2022 20:40 | 
