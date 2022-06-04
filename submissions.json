@@ -3135,6 +3135,22 @@
     ],
     "timestamp": "Mar/05/2022 18:22"
   },
+  "AC32218359": {
+    "contest_id": "abc254",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc254\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Practical Computing",
+    "problem_url": "https://atcoder.jp/contests/abc254/tasks/abc254_b",
+    "submission_id": "AC32218359",
+    "submission_url": "https://atcoder.jp/contests/abc254/submissions/32218359",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/04/2022 18:22"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
