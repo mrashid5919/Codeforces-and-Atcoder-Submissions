@@ -7940,6 +7940,23 @@
     ],
     "timestamp": "May/26/2022 00:54"
   },
+  "CF159766231": {
+    "contest_id": 1690,
+    "language": "GNU C++17",
+    "path": "codeforces\\1690\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Decrements",
+    "problem_url": "https://codeforces.com/contest/1690/problem/B",
+    "submission_id": "CF159766231",
+    "submission_url": "https://codeforces.com/contest/1690/submission/159766231",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/07/2022 21:04"
+  },
   "CF159778123": {
     "contest_id": 1690,
     "language": "GNU C++17",
