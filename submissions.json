@@ -8009,6 +8009,23 @@
     ],
     "timestamp": "Jun/07/2022 22:01"
   },
+  "CF160560885": {
+    "contest_id": 1692,
+    "language": "GNU C++17",
+    "path": "codeforces\\1692\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "All Distinct",
+    "problem_url": "https://codeforces.com/contest/1692/problem/B",
+    "submission_id": "CF160560885",
+    "submission_url": "https://codeforces.com/contest/1692/submission/160560885",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2022 20:56"
+  },
   "CF160594784": {
     "contest_id": 1692,
     "language": "GNU C++17",
