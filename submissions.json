@@ -3167,6 +3167,22 @@
     ],
     "timestamp": "Jun/04/2022 18:22"
   },
+  "AC32531779": {
+    "contest_id": "agc031",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc031\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Colorful Subsequence",
+    "problem_url": "https://atcoder.jp/contests/agc031/tasks/agc031_a",
+    "submission_id": "AC32531779",
+    "submission_url": "https://atcoder.jp/contests/agc031/submissions/32531779",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/18/2022 15:00"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
