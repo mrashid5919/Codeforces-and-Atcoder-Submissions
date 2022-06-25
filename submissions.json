@@ -3183,6 +3183,22 @@
     ],
     "timestamp": "Jun/18/2022 15:00"
   },
+  "AC32711434": {
+    "contest_id": "abc257",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc257\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "A to Z String 2",
+    "problem_url": "https://atcoder.jp/contests/abc257/tasks/abc257_a",
+    "submission_id": "AC32711434",
+    "submission_url": "https://atcoder.jp/contests/abc257/submissions/32711434",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/25/2022 18:05"
+  },
   "AC32719950": {
     "contest_id": "abc257",
     "language": "C++ (GCC 9.2.1)",
