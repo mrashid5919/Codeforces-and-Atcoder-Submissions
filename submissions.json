@@ -8356,6 +8356,23 @@
     ],
     "timestamp": "Jun/25/2022 22:15"
   },
+  "CF162370728": {
+    "contest_id": 1698,
+    "language": "GNU C++17",
+    "path": "codeforces\\1698\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "3SUM Closure",
+    "problem_url": "https://codeforces.com/contest/1698/problem/C",
+    "submission_id": "CF162370728",
+    "submission_url": "https://codeforces.com/contest/1698/submission/162370728",
+    "tags": [
+      "brute force",
+      "data structures",
+      "*1300"
+    ],
+    "timestamp": "Jul/01/2022 00:19"
+  },
   "CF162573664": {
     "contest_id": 892,
     "language": "GNU C++17",
