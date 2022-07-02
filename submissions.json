@@ -8356,6 +8356,24 @@
     ],
     "timestamp": "Jun/25/2022 22:15"
   },
+  "CF162573664": {
+    "contest_id": 892,
+    "language": "GNU C++17",
+    "path": "codeforces\\892\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Wrath",
+    "problem_url": "https://codeforces.com/contest/892/problem/B",
+    "submission_id": "CF162573664",
+    "submission_url": "https://codeforces.com/contest/892/submission/162573664",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Jul/02/2022 23:39"
+  },
   "CF162615206": {
     "contest_id": 237,
     "language": "GNU C++17",
