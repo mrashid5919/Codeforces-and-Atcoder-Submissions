@@ -5,21 +5,23 @@ using namespace std;
 int main()
 {
     fastio;
-    int n,i,p=0,a[103],b[103];
+    int n,i,p=0,x[200],y[200];
     cin>>n;
     for(i=0;i<n;i++)
-        cin>>a[i]>>b[i];
+    {
+        cin>>x[i]>>y[i];
+    }
     for(i=0;i<n-2;i++)
     {
-        if(a[i]==b[i] && a[i+1]==b[i+1] && a[i+2]==b[i+2])
+        if(x[i]==y[i] && x[i+1]==y[i+1] && x[i+2]==y[i+2])
         {
             p=1;
             break;
         }
     }
-    if(p==0)
-        cout<<"No";
-    else
+    if(p==1)
         cout<<"Yes";
+    else
+        cout<<"No";
     return 0;
 }

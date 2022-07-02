@@ -3279,6 +3279,22 @@
     ],
     "timestamp": "Jul/02/2022 23:41"
   },
+  "AC32944547": {
+    "contest_id": "abc179",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc179\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Go to Jail",
+    "problem_url": "https://atcoder.jp/contests/abc179/tasks/abc179_b",
+    "submission_id": "AC32944547",
+    "submission_url": "https://atcoder.jp/contests/abc179/submissions/32944547",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/02/2022 23:42"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
