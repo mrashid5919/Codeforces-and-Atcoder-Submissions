@@ -3231,6 +3231,22 @@
     ],
     "timestamp": "Jun/25/2022 18:53"
   },
+  "AC32931125": {
+    "contest_id": "abc258",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc258\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Rotation",
+    "problem_url": "https://atcoder.jp/contests/abc258/tasks/abc258_c",
+    "submission_id": "AC32931125",
+    "submission_url": "https://atcoder.jp/contests/abc258/submissions/32931125",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/02/2022 19:36"
+  },
   "AC32944538": {
     "contest_id": "abc153",
     "language": "C++ (GCC 9.2.1)",
