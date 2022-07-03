@@ -8356,6 +8356,24 @@
     ],
     "timestamp": "Jun/25/2022 22:15"
   },
+  "CF162627888": {
+    "contest_id": 1698,
+    "language": "GNU C++17",
+    "path": "codeforces\\1698\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rising Sand",
+    "problem_url": "https://codeforces.com/contest/1698/problem/B",
+    "submission_id": "CF162627888",
+    "submission_url": "https://codeforces.com/contest/1698/submission/162627888",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/03/2022 15:57"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
