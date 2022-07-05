@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+807 | [C - The Third Problem](https://codeforces.com/contest/1699/problem/C) | [GNU C++17](./codeforces/1699/C.cpp) | `combinatorics` `constructive algorithms` `math` `two pointers` `*1700` | Jul/05/2022 12:00 | 
 806 | [B - Rising Sand](https://codeforces.com/contest/1698/problem/B) | [GNU C++17](./codeforces/1698/B.cpp) | `constructive algorithms` `greedy` `implementation` `*800` | Jul/03/2022 15:57 | 
 805 | [C - Primes on Interval](https://codeforces.com/contest/237/problem/C) | [GNU C++17](./codeforces/237/C.cpp) | `binary search` `number theory` `two pointers` `*1600` | Jul/03/2022 13:30 | 
 804 | [B - Common Raccoon vs Monster](https://atcoder.jp/contests/abc153/tasks/abc153_b) | [C++ (GCC 9.2.1)](./atcoder/abc153/B.cpp) | `AtCoder` `*200` | Jul/02/2022 23:41 | 

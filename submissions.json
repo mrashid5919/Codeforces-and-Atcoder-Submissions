@@ -8427,6 +8427,25 @@
     ],
     "timestamp": "Jul/03/2022 15:57"
   },
+  "CF162854984": {
+    "contest_id": 1699,
+    "language": "GNU C++17",
+    "path": "codeforces\\1699\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Third Problem",
+    "problem_url": "https://codeforces.com/contest/1699/problem/C",
+    "submission_id": "CF162854984",
+    "submission_url": "https://codeforces.com/contest/1699/submission/162854984",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Jul/05/2022 12:00"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
