@@ -8497,6 +8497,23 @@
     ],
     "timestamp": "Jul/05/2022 12:00"
   },
+  "CF163528730": {
+    "contest_id": 1702,
+    "language": "GNU C++17",
+    "path": "codeforces\\1702\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Train and Queries",
+    "problem_url": "https://codeforces.com/contest/1702/problem/C",
+    "submission_id": "CF163528730",
+    "submission_url": "https://codeforces.com/contest/1702/submission/163528730",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Jul/10/2022 21:29"
+  },
   "CF163537624": {
     "contest_id": 1702,
     "language": "GNU C++17",
