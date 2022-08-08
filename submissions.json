@@ -3295,6 +3295,22 @@
     ],
     "timestamp": "Jul/02/2022 23:42"
   },
+  "AC33884517": {
+    "contest_id": "abc160",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc160\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Red and Green Apples",
+    "problem_url": "https://atcoder.jp/contests/abc160/tasks/abc160_e",
+    "submission_id": "AC33884517",
+    "submission_url": "https://atcoder.jp/contests/abc160/submissions/33884517",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Aug/08/2022 20:05"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
