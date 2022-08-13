@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+826 | [D - Choose Me](https://atcoder.jp/contests/abc187/tasks/abc187_d) | [C++ (GCC 9.2.1)](./atcoder/abc187/D.cpp) | `AtCoder` `*400` | Aug/13/2022 22:33 | 
 825 | [B - ABC](https://atcoder.jp/contests/agc034/tasks/agc034_b) | [C++ (GCC 9.2.1)](./atcoder/agc034/B.cpp) | `AtCoder` `*600` | Aug/13/2022 22:06 | 
 824 | [E - Red and Green Apples](https://atcoder.jp/contests/abc160/tasks/abc160_e) | [C++ (GCC 9.2.1)](./atcoder/abc160/E.cpp) | `AtCoder` `*500` | Aug/08/2022 20:05 | 
 823 | [B - Summer sell-off](https://codeforces.com/contest/810/problem/B) | [GNU C++17](./codeforces/810/B.cpp) | `greedy` `sortings` `*1300` | Aug/06/2022 22:42 | 
