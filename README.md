@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-828 | [D - Iroha and Haiku (New ABC Edition)](https://atcoder.jp/contests/abc265/tasks/abc265_d) | [C++ (GCC 9.2.1)](./atcoder/abc265/D.cpp) | `AtCoder` `*400` | Aug/21/2022 19:24 | 
-827 | [C - Belt Conveyor](https://atcoder.jp/contests/abc265/tasks/abc265_c) | [C++ (GCC 9.2.1)](./atcoder/abc265/C.cpp) | `AtCoder` `*300` | Aug/21/2022 18:53 | 
+829 | [D - Iroha and Haiku (New ABC Edition)](https://atcoder.jp/contests/abc265/tasks/abc265_d) | [C++ (GCC 9.2.1)](./atcoder/abc265/D.cpp) | `AtCoder` `*400` | Aug/21/2022 19:24 | 
+828 | [C - Belt Conveyor](https://atcoder.jp/contests/abc265/tasks/abc265_c) | [C++ (GCC 9.2.1)](./atcoder/abc265/C.cpp) | `AtCoder` `*300` | Aug/21/2022 18:53 | 
+827 | [B - Explore](https://atcoder.jp/contests/abc265/tasks/abc265_b) | [C++ (GCC 9.2.1)](./atcoder/abc265/B.cpp) | `AtCoder` `*200` | Aug/21/2022 18:13 | 
 826 | [D - Choose Me](https://atcoder.jp/contests/abc187/tasks/abc187_d) | [C++ (GCC 9.2.1)](./atcoder/abc187/D.cpp) | `AtCoder` `*400` | Aug/13/2022 22:33 | 
 825 | [B - ABC](https://atcoder.jp/contests/agc034/tasks/agc034_b) | [C++ (GCC 9.2.1)](./atcoder/agc034/B.cpp) | `AtCoder` `*600` | Aug/13/2022 22:06 | 
 824 | [E - Red and Green Apples](https://atcoder.jp/contests/abc160/tasks/abc160_e) | [C++ (GCC 9.2.1)](./atcoder/abc160/E.cpp) | `AtCoder` `*500` | Aug/08/2022 20:05 | 
