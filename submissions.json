@@ -3343,6 +3343,22 @@
     ],
     "timestamp": "Aug/13/2022 22:33"
   },
+  "AC34231825": {
+    "contest_id": "abc265",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc265\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Belt Conveyor",
+    "problem_url": "https://atcoder.jp/contests/abc265/tasks/abc265_c",
+    "submission_id": "AC34231825",
+    "submission_url": "https://atcoder.jp/contests/abc265/submissions/34231825",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/21/2022 18:53"
+  },
   "AC34240923": {
     "contest_id": "abc265",
     "language": "C++ (GCC 9.2.1)",
