@@ -3343,6 +3343,22 @@
     ],
     "timestamp": "Aug/13/2022 22:33"
   },
+  "AC34240923": {
+    "contest_id": "abc265",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc265\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Iroha and Haiku (New ABC Edition)",
+    "problem_url": "https://atcoder.jp/contests/abc265/tasks/abc265_d",
+    "submission_id": "AC34240923",
+    "submission_url": "https://atcoder.jp/contests/abc265/submissions/34240923",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Aug/21/2022 19:24"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
