@@ -8860,6 +8860,23 @@
     ],
     "timestamp": "Aug/06/2022 22:42"
   },
+  "CF169629326": {
+    "contest_id": 368,
+    "language": "GNU C++17",
+    "path": "codeforces\\368\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja and Suffixes",
+    "problem_url": "https://codeforces.com/contest/368/problem/B",
+    "submission_id": "CF169629326",
+    "submission_url": "https://codeforces.com/contest/368/submission/169629326",
+    "tags": [
+      "data structures",
+      "dp",
+      "*1100"
+    ],
+    "timestamp": "Aug/25/2022 22:18"
+  },
   "CF169629438": {
     "contest_id": 660,
     "language": "GNU C++17",
