@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-836 | [C - Madoka and Formal Statement](https://codeforces.com/contest/1717/problem/C) | [GNU C++17](./codeforces/1717/C.cpp) | `greedy` `math` `*1300` | Sep/02/2022 21:29 | 
-835 | [B - Madoka and Underground Competitions](https://codeforces.com/contest/1717/problem/B) | [GNU C++17](./codeforces/1717/B.cpp) | `constructive algorithms` `greedy` `*1100` | Sep/02/2022 21:12 | 
+837 | [C - Madoka and Formal Statement](https://codeforces.com/contest/1717/problem/C) | [GNU C++17](./codeforces/1717/C.cpp) | `greedy` `math` `*1300` | Sep/02/2022 21:29 | 
+836 | [B - Madoka and Underground Competitions](https://codeforces.com/contest/1717/problem/B) | [GNU C++17](./codeforces/1717/B.cpp) | `constructive algorithms` `greedy` `*1100` | Sep/02/2022 21:12 | 
+835 | [A - Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | [GNU C++17](./codeforces/1717/A.cpp) | `math` `number theory` `*800` | Sep/02/2022 20:45 | 
 834 | [B - Sea and Islands](https://codeforces.com/contest/544/problem/B) | [GNU C++17](./codeforces/544/B.cpp) | `constructive algorithms` `implementation` `*1400` | Aug/25/2022 22:20 | 
 833 | [A - Co-prime Array](https://codeforces.com/contest/660/problem/A) | [GNU C++17](./codeforces/660/A.cpp) | `greedy` `implementation` `math` `number theory` `*1200` | Aug/25/2022 22:19 | 
 832 | [B - Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | [GNU C++17](./codeforces/368/B.cpp) | `data structures` `dp` `*1100` | Aug/25/2022 22:18 | 
