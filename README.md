@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-838 | [B - AtCoder Alloy](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_b) | [C++ (GCC 9.2.1)](./atcoder/caddi2018b/B.cpp) | `AtCoder` `*200` | Sep/05/2022 23:03 | 
+839 | [B - AtCoder Alloy](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_b) | [C++ (GCC 9.2.1)](./atcoder/caddi2018b/B.cpp) | `AtCoder` `*200` | Sep/05/2022 23:03 | 
+838 | [B - Different Distribution](https://atcoder.jp/contests/tenka1-2017-beginner/tasks/tenka1_2017_b) | [C++ (GCC 9.2.1)](./atcoder/tenka1-2017-beginner/B.cpp) | `AtCoder` `*200` | Sep/05/2022 23:01 | 
 837 | [C - Madoka and Formal Statement](https://codeforces.com/contest/1717/problem/C) | [GNU C++17](./codeforces/1717/C.cpp) | `greedy` `math` `*1300` | Sep/02/2022 21:29 | 
 836 | [B - Madoka and Underground Competitions](https://codeforces.com/contest/1717/problem/B) | [GNU C++17](./codeforces/1717/B.cpp) | `constructive algorithms` `greedy` `*1100` | Sep/02/2022 21:12 | 
 835 | [A - Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | [GNU C++17](./codeforces/1717/A.cpp) | `math` `number theory` `*800` | Sep/02/2022 20:45 | 

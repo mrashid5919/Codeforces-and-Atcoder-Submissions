@@ -3423,6 +3423,22 @@
     ],
     "timestamp": "Aug/25/2022 22:15"
   },
+  "AC34643099": {
+    "contest_id": "tenka1-2017-beginner",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\tenka1-2017-beginner\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Different Distribution",
+    "problem_url": "https://atcoder.jp/contests/tenka1-2017-beginner/tasks/tenka1_2017_b",
+    "submission_id": "AC34643099",
+    "submission_url": "https://atcoder.jp/contests/tenka1-2017-beginner/submissions/34643099",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/05/2022 23:01"
+  },
   "AC34643114": {
     "contest_id": "caddi2018b",
     "language": "C++ (GCC 9.2.1)",
