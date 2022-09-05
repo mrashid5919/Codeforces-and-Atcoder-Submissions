@@ -3423,6 +3423,22 @@
     ],
     "timestamp": "Aug/25/2022 22:15"
   },
+  "AC34643114": {
+    "contest_id": "caddi2018b",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\caddi2018b\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "AtCoder Alloy",
+    "problem_url": "https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_b",
+    "submission_id": "AC34643114",
+    "submission_url": "https://atcoder.jp/contests/caddi2018b/submissions/34643114",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/05/2022 23:03"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
