@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-841 | [B - Mainak and Interesting Sequence](https://codeforces.com/contest/1726/problem/B) | [GNU C++17](./codeforces/1726/B.cpp) | `bitmasks` `constructive algorithms` `math` `*1100` | Sep/06/2022 22:07 | 
+842 | [B - Mainak and Interesting Sequence](https://codeforces.com/contest/1726/problem/B) | [GNU C++17](./codeforces/1726/B.cpp) | `bitmasks` `constructive algorithms` `math` `*1100` | Sep/06/2022 22:07 | 
+841 | [A - Mainak and Array](https://codeforces.com/contest/1726/problem/A) | [GNU C++17](./codeforces/1726/A.cpp) | `greedy` `math` `*900` | Sep/06/2022 21:48 | 
 840 | [B - Hate "A"](https://codeforces.com/contest/1146/problem/B) | [GNU C++17](./codeforces/1146/B.cpp) | `implementation` `strings` `*1100` | Sep/05/2022 23:06 | 
 839 | [B - AtCoder Alloy](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_b) | [C++ (GCC 9.2.1)](./atcoder/caddi2018b/B.cpp) | `AtCoder` `*200` | Sep/05/2022 23:03 | 
 838 | [B - Different Distribution](https://atcoder.jp/contests/tenka1-2017-beginner/tasks/tenka1_2017_b) | [C++ (GCC 9.2.1)](./atcoder/tenka1-2017-beginner/B.cpp) | `AtCoder` `*200` | Sep/05/2022 23:01 | 
