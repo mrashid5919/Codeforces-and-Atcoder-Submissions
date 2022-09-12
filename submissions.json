@@ -9048,6 +9048,23 @@
     ],
     "timestamp": "Sep/06/2022 22:07"
   },
+  "CF171884792": {
+    "contest_id": 1729,
+    "language": "GNU C++17",
+    "path": "codeforces\\1729\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Jumping on Tiles",
+    "problem_url": "https://codeforces.com/contest/1729/problem/C",
+    "submission_id": "CF171884792",
+    "submission_url": "https://codeforces.com/contest/1729/submission/171884792",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Sep/12/2022 21:24"
+  },
   "CF171902563": {
     "contest_id": 1729,
     "language": "GNU C++17",
