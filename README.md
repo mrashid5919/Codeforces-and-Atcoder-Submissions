@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-846 | [E - Guess the Cycle Size](https://codeforces.com/contest/1729/problem/E) | [GNU C++17](./codeforces/1729/E.cpp) | `interactive` `probabilities` `*1800` | Sep/14/2022 14:35 | 
-845 | [D - Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D) | [GNU C++17](./codeforces/1729/D.cpp) | `greedy` `two pointers` `*1200` | Sep/12/2022 21:48 | 
-844 | [C - Jumping on Tiles](https://codeforces.com/contest/1729/problem/C) | [GNU C++17](./codeforces/1729/C.cpp) | `constructive algorithms` `strings` `*1100` | Sep/12/2022 21:24 | 
-843 | [B - Decode String](https://codeforces.com/contest/1729/problem/B) | [GNU C++17](./codeforces/1729/B.cpp) | `greedy` `strings` `*800` | Sep/12/2022 20:48 | 
+847 | [E - Guess the Cycle Size](https://codeforces.com/contest/1729/problem/E) | [GNU C++17](./codeforces/1729/E.cpp) | `interactive` `probabilities` `*1800` | Sep/14/2022 14:35 | 
+846 | [D - Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D) | [GNU C++17](./codeforces/1729/D.cpp) | `greedy` `two pointers` `*1200` | Sep/12/2022 21:48 | 
+845 | [C - Jumping on Tiles](https://codeforces.com/contest/1729/problem/C) | [GNU C++17](./codeforces/1729/C.cpp) | `constructive algorithms` `strings` `*1100` | Sep/12/2022 21:24 | 
+844 | [B - Decode String](https://codeforces.com/contest/1729/problem/B) | [GNU C++17](./codeforces/1729/B.cpp) | `greedy` `strings` `*800` | Sep/12/2022 20:48 | 
+843 | [A - Two Elevators](https://codeforces.com/contest/1729/problem/A) | [GNU C++17](./codeforces/1729/A.cpp) | `math` `*800` | Sep/12/2022 20:39 | 
 842 | [B - Mainak and Interesting Sequence](https://codeforces.com/contest/1726/problem/B) | [GNU C++17](./codeforces/1726/B.cpp) | `bitmasks` `constructive algorithms` `math` `*1100` | Sep/06/2022 22:07 | 
 841 | [A - Mainak and Array](https://codeforces.com/contest/1726/problem/A) | [GNU C++17](./codeforces/1726/A.cpp) | `greedy` `math` `*900` | Sep/06/2022 21:48 | 
 840 | [B - Hate "A"](https://codeforces.com/contest/1146/problem/B) | [GNU C++17](./codeforces/1146/B.cpp) | `implementation` `strings` `*1100` | Sep/05/2022 23:06 | 
