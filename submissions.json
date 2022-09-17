@@ -3455,6 +3455,22 @@
     ],
     "timestamp": "Sep/05/2022 23:03"
   },
+  "AC34927114": {
+    "contest_id": "abc269",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc269\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Rectangle Detection",
+    "problem_url": "https://atcoder.jp/contests/abc269/tasks/abc269_b",
+    "submission_id": "AC34927114",
+    "submission_url": "https://atcoder.jp/contests/abc269/submissions/34927114",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/17/2022 18:10"
+  },
   "AC34943256": {
     "contest_id": "abc269",
     "language": "C++ (GCC 9.2.1)",
