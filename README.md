@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-849 | [C - Submask](https://atcoder.jp/contests/abc269/tasks/abc269_c) | [C++ (GCC 9.2.1)](./atcoder/abc269/C.cpp) | `AtCoder` `*300` | Sep/17/2022 18:56 | 
-848 | [B - Rectangle Detection](https://atcoder.jp/contests/abc269/tasks/abc269_b) | [C++ (GCC 9.2.1)](./atcoder/abc269/B.cpp) | `AtCoder` `*200` | Sep/17/2022 18:10 | 
+850 | [C - Submask](https://atcoder.jp/contests/abc269/tasks/abc269_c) | [C++ (GCC 9.2.1)](./atcoder/abc269/C.cpp) | `AtCoder` `*300` | Sep/17/2022 18:56 | 
+849 | [B - Rectangle Detection](https://atcoder.jp/contests/abc269/tasks/abc269_b) | [C++ (GCC 9.2.1)](./atcoder/abc269/B.cpp) | `AtCoder` `*200` | Sep/17/2022 18:10 | 
+848 | [A - Anyway Takahashi](https://atcoder.jp/contests/abc269/tasks/abc269_a) | [C++ (GCC 9.2.1)](./atcoder/abc269/A.cpp) | `AtCoder` `*100` | Sep/17/2022 18:01 | 
 847 | [E - Guess the Cycle Size](https://codeforces.com/contest/1729/problem/E) | [GNU C++17](./codeforces/1729/E.cpp) | `interactive` `probabilities` `*1800` | Sep/14/2022 14:35 | 
 846 | [D - Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D) | [GNU C++17](./codeforces/1729/D.cpp) | `greedy` `two pointers` `*1200` | Sep/12/2022 21:48 | 
 845 | [C - Jumping on Tiles](https://codeforces.com/contest/1729/problem/C) | [GNU C++17](./codeforces/1729/C.cpp) | `constructive algorithms` `strings` `*1100` | Sep/12/2022 21:24 | 
