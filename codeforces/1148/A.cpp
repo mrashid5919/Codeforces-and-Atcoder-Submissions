@@ -1,14 +1,23 @@
-#include<stdio.h>
-int main()
-{
-    unsigned long long int a,b,c,ans;
-    scanf("%llu%llu%llu",&a,&b,&c);
+// Online C++ compiler to run C++ program online
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    // Write C++ code here
+    long long a,b,c;
+    cin>>a>>b>>c;
     if(a==b)
-        ans=a+b+2*c;
+        cout<<a+b+2*c<<"\n";
     else if(a>b)
-        ans=2*c+b+b+1;
+    {
+        if(a==b+1)
+            cout<<a+b+2*c<<"\n";
+        else
+            cout<<2*b+2*c+1<<"\n";
+    }
     else
-        ans=2*c+a+a+1;
-    printf("%llu",ans);
+    {
+        cout<<2*a+2*c+1<<"\n";
+    }
     return 0;
 }
