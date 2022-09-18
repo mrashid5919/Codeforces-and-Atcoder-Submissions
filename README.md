@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+852 | [C - Daydream](https://atcoder.jp/contests/arc065/tasks/arc065_a) | [C++ (GCC 9.2.1)](./atcoder/arc065/C.cpp) | `AtCoder` `*300` | Sep/19/2022 01:10 | 
 851 | [A - Marks](https://codeforces.com/contest/152/problem/A) | [GNU C++17](./codeforces/152/A.cpp) | `implementation` `*900` | Sep/19/2022 01:09 | 
 850 | [A - Another One Bites The Dust](https://codeforces.com/contest/1148/problem/A) | [GNU C++17](./codeforces/1148/A.cpp) | `greedy` `*800` | Sep/19/2022 01:08 | 
 849 | [C - Submask](https://atcoder.jp/contests/abc269/tasks/abc269_c) | [C++ (GCC 9.2.1)](./atcoder/abc269/C.cpp) | `AtCoder` `*300` | Sep/17/2022 18:56 | 
