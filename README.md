@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-858 | [B - Meeting on the Line](https://codeforces.com/contest/1730/problem/B) | [GNU C++17](./codeforces/1730/B.cpp) | `binary search` `greedy` `implementation` `math` `ternary search` `*1600` | Sep/25/2022 23:30 | 
-857 | [C - Minimum Notation](https://codeforces.com/contest/1730/problem/C) | [GNU C++17](./codeforces/1730/C.cpp) | `data structures` `greedy` `math` `sortings` `*1200` | Sep/25/2022 22:01 | 
+859 | [B - Meeting on the Line](https://codeforces.com/contest/1730/problem/B) | [GNU C++17](./codeforces/1730/B.cpp) | `binary search` `greedy` `implementation` `math` `ternary search` `*1600` | Sep/25/2022 23:30 | 
+858 | [C - Minimum Notation](https://codeforces.com/contest/1730/problem/C) | [GNU C++17](./codeforces/1730/C.cpp) | `data structures` `greedy` `math` `sortings` `*1200` | Sep/25/2022 22:01 | 
+857 | [A - Planets](https://codeforces.com/contest/1730/problem/A) | [GNU C++17](./codeforces/1730/A.cpp) | `data structures` `data structures` `greedy` `sortings` `*800` | Sep/25/2022 20:39 | 
 856 | [B - Subsequence Hate](https://codeforces.com/contest/1363/problem/B) | [GNU C++17](./codeforces/1363/B.cpp) | `implementation` `strings` `*1400` | Sep/23/2022 01:13 | 
 855 | [C - Yet Another Counting Problem](https://codeforces.com/contest/1342/problem/C) | [GNU C++17](./codeforces/1342/C.cpp) | `math` `number theory` `*1600` | Sep/22/2022 18:24 | 
 854 | [B - Balanced Substring](https://codeforces.com/contest/873/problem/B) | [GNU C++17](./codeforces/873/B.cpp) | `dp` `implementation` `*1500` | Sep/21/2022 01:31 | 
