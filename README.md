@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+861 | [B - Uniqueness](https://codeforces.com/contest/1208/problem/B) | [GNU C++17](./codeforces/1208/B.cpp) | `binary search` `brute force` `implementation` `two pointers` `*1500` | Sep/27/2022 00:34 | 
 860 | [B - Ugly Pairs](https://codeforces.com/contest/1156/problem/B) | [GNU C++17](./codeforces/1156/B.cpp) | `dfs and similar` `greedy` `implementation` `sortings` `strings` `*1800` | Sep/26/2022 22:19 | 
 859 | [B - Meeting on the Line](https://codeforces.com/contest/1730/problem/B) | [GNU C++17](./codeforces/1730/B.cpp) | `binary search` `greedy` `implementation` `math` `ternary search` `*1600` | Sep/25/2022 23:30 | 
 858 | [C - Minimum Notation](https://codeforces.com/contest/1730/problem/C) | [GNU C++17](./codeforces/1730/C.cpp) | `data structures` `greedy` `math` `sortings` `*1200` | Sep/25/2022 22:01 | 
