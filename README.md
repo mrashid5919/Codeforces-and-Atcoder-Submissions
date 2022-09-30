@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+866 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++17](./codeforces/1/A.cpp) | `math` `*1000` | Sep/30/2022 10:24 | 
 865 | [D - Madoka and The Corruption Scheme](https://codeforces.com/contest/1717/problem/D) | [GNU C++17](./codeforces/1717/D.cpp) | `combinatorics` `constructive algorithms` `greedy` `math` `*1900` | Sep/29/2022 14:15 | 
 864 | [F - Interesting Function](https://codeforces.com/contest/1538/problem/F) | [GNU C++17](./codeforces/1538/F.cpp) | `binary search` `dp` `math` `number theory` `*1500` | Sep/28/2022 13:31 | 
 863 | [G - Path Prefixes](https://codeforces.com/contest/1714/problem/G) | [GNU C++17](./codeforces/1714/G.cpp) | `binary search` `data structures` `dfs and similar` `trees` `*1700` | Sep/28/2022 01:59 | 
