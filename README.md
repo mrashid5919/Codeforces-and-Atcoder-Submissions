@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-868 | [C - Manga](https://atcoder.jp/contests/abc271/tasks/abc271_c) | [C++ (GCC 9.2.1)](./atcoder/abc271/C.cpp) | `AtCoder` `*300` | Oct/01/2022 20:50 | 
-867 | [B - Maintain Multiple Sequences](https://atcoder.jp/contests/abc271/tasks/abc271_b) | [C++ (GCC 9.2.1)](./atcoder/abc271/B.cpp) | `AtCoder` `*200` | Oct/01/2022 18:21 | 
+869 | [C - Manga](https://atcoder.jp/contests/abc271/tasks/abc271_c) | [C++ (GCC 9.2.1)](./atcoder/abc271/C.cpp) | `AtCoder` `*300` | Oct/01/2022 20:50 | 
+868 | [B - Maintain Multiple Sequences](https://atcoder.jp/contests/abc271/tasks/abc271_b) | [C++ (GCC 9.2.1)](./atcoder/abc271/B.cpp) | `AtCoder` `*200` | Oct/01/2022 18:21 | 
+867 | [A - 484558](https://atcoder.jp/contests/abc271/tasks/abc271_a) | [C++ (GCC 9.2.1)](./atcoder/abc271/A.cpp) | `AtCoder` `*100` | Oct/01/2022 18:13 | 
 866 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++17](./codeforces/1/A.cpp) | `math` `*1000` | Sep/30/2022 10:24 | 
 865 | [D - Madoka and The Corruption Scheme](https://codeforces.com/contest/1717/problem/D) | [GNU C++17](./codeforces/1717/D.cpp) | `combinatorics` `constructive algorithms` `greedy` `math` `*1900` | Sep/29/2022 14:15 | 
 864 | [F - Interesting Function](https://codeforces.com/contest/1538/problem/F) | [GNU C++17](./codeforces/1538/F.cpp) | `binary search` `dp` `math` `number theory` `*1500` | Sep/28/2022 13:31 | 
