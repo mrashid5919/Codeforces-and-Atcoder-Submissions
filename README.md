@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+870 | [C - Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | [GNU C++17](./codeforces/276/C.cpp) | `data structures` `greedy` `implementation` `sortings` `*1500` | Oct/01/2022 21:41 | 
 869 | [C - Manga](https://atcoder.jp/contests/abc271/tasks/abc271_c) | [C++ (GCC 9.2.1)](./atcoder/abc271/C.cpp) | `AtCoder` `*300` | Oct/01/2022 20:50 | 
 868 | [B - Maintain Multiple Sequences](https://atcoder.jp/contests/abc271/tasks/abc271_b) | [C++ (GCC 9.2.1)](./atcoder/abc271/B.cpp) | `AtCoder` `*200` | Oct/01/2022 18:21 | 
 867 | [A - 484558](https://atcoder.jp/contests/abc271/tasks/abc271_a) | [C++ (GCC 9.2.1)](./atcoder/abc271/A.cpp) | `AtCoder` `*100` | Oct/01/2022 18:13 | 
