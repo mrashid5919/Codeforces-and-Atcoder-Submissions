@@ -9549,6 +9549,23 @@
     ],
     "timestamp": "Oct/01/2022 21:41"
   },
+  "CF174398010": {
+    "contest_id": 1735,
+    "language": "GNU C++17",
+    "path": "codeforces\\1735\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tea with Tangerines",
+    "problem_url": "https://codeforces.com/contest/1735/problem/B",
+    "submission_id": "CF174398010",
+    "submission_url": "https://codeforces.com/contest/1735/submission/174398010",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/02/2022 21:13"
+  },
   "CF174498404": {
     "contest_id": 1368,
     "language": "GNU C++17",
