@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+885 | [E - Polygon](https://codeforces.com/contest/1360/problem/E) | [GNU C++17](./codeforces/1360/E.cpp) | `dp` `graphs` `implementation` `shortest paths` `*1300` | Oct/10/2022 16:50 | 
 884 | [B - Counting of Trees](https://atcoder.jp/contests/nikkei2019-2-qual/tasks/nikkei2019_2_qual_b) | [C++ (GCC 9.2.1)](./atcoder/nikkei2019-2-qual/B.cpp) | `AtCoder` `*300` | Oct/10/2022 01:02 | 
 883 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [GNU C++17](./codeforces/20/C.cpp) | `graphs` `shortest paths` `*1900` | Oct/09/2022 17:33 | 
 882 | [B - Ela's Fitness and the Luxury Number](https://codeforces.com/contest/1737/problem/B) | [GNU C++17](./codeforces/1737/B.cpp) | `binary search` `implementation` `math` `*1300` | Oct/08/2022 15:06 | 
