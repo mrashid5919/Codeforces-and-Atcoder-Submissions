@@ -9841,6 +9841,26 @@
     ],
     "timestamp": "Oct/10/2022 19:50"
   },
+  "CF175627686": {
+    "contest_id": 1741,
+    "language": "GNU C++17",
+    "path": "codeforces\\1741\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Masha and a Beautiful Tree",
+    "problem_url": "https://codeforces.com/contest/1741/problem/D",
+    "submission_id": "CF175627686",
+    "submission_url": "https://codeforces.com/contest/1741/submission/175627686",
+    "tags": [
+      "dfs and similar",
+      "divide and conquer",
+      "graphs",
+      "sortings",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Oct/11/2022 21:43"
+  },
   "CF175754707": {
     "contest_id": 460,
     "language": "GNU C++17",
