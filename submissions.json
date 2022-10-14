@@ -9841,6 +9841,24 @@
     ],
     "timestamp": "Oct/10/2022 19:50"
   },
+  "CF176103375": {
+    "contest_id": 1742,
+    "language": "GNU C++17",
+    "path": "codeforces\\1742\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Smaller",
+    "problem_url": "https://codeforces.com/contest/1742/problem/F",
+    "submission_id": "CF176103375",
+    "submission_url": "https://codeforces.com/contest/1742/submission/176103375",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Oct/14/2022 11:53"
+  },
   "CF176250100": {
     "contest_id": 1296,
     "language": "GNU C++17",
