@@ -3599,6 +3599,22 @@
     ],
     "timestamp": "Oct/10/2022 01:02"
   },
+  "AC35757177": {
+    "contest_id": "dp",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\dp\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "LCS",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_f",
+    "submission_id": "AC35757177",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/35757177",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/17/2022 20:58"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
