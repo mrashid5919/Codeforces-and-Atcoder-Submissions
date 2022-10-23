@@ -3615,6 +3615,22 @@
     ],
     "timestamp": "Oct/17/2022 20:58"
   },
+  "AC35928998": {
+    "contest_id": "diverta2019",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\diverta2019\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "AB Substrings",
+    "problem_url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_c",
+    "submission_id": "AC35928998",
+    "submission_url": "https://atcoder.jp/contests/diverta2019/submissions/35928998",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/24/2022 02:19"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
