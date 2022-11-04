@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+904 | [C - Swap Game](https://codeforces.com/contest/1747/problem/C) | [GNU C++17](./codeforces/1747/C.cpp) | `games` `*1200` | Nov/04/2022 21:34 | 
 903 | [C - AB Substrings](https://atcoder.jp/contests/diverta2019/tasks/diverta2019_c) | [C++ (GCC 9.2.1)](./atcoder/diverta2019/C.cpp) | `AtCoder` `*400` | Oct/24/2022 02:19 | 
 902 | [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [C++ (GCC 9.2.1)](./atcoder/dp/F.cpp) | `AtCoder` `*100` | Oct/17/2022 20:58 | 
 901 | [A - Splitting into digits](https://codeforces.com/contest/1104/problem/A) | [GNU C++17](./codeforces/1104/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Oct/17/2022 19:59 | 
