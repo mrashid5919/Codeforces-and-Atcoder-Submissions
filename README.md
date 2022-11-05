@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+909 | [D - Divide by 2 or 3](https://atcoder.jp/contests/abc276/tasks/abc276_d) | [C++ (GCC 9.2.1)](./atcoder/abc276/D.cpp) | `AtCoder` `*400` | Nov/05/2022 19:27 | 
 908 | [C - Swap Game](https://codeforces.com/contest/1747/problem/C) | [GNU C++17](./codeforces/1747/C.cpp) | `games` `*1200` | Nov/04/2022 21:34 | 
 907 | [B - BAN BAN](https://codeforces.com/contest/1747/problem/B) | [GNU C++17](./codeforces/1747/B.cpp) | `constructive algorithms` `*900` | Nov/04/2022 21:16 | 
 906 | [A - Two Groups](https://codeforces.com/contest/1747/problem/A) | [GNU C++17](./codeforces/1747/A.cpp) | `constructive algorithms` `greedy` `*800` | Nov/04/2022 20:43 | 
