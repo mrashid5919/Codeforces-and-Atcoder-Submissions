@@ -10470,6 +10470,23 @@
     ],
     "timestamp": "Nov/17/2022 22:55"
   },
+  "CF181428998": {
+    "contest_id": 1759,
+    "language": "GNU C++17",
+    "path": "codeforces\\1759\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yes-Yes?",
+    "problem_url": "https://codeforces.com/contest/1759/problem/A",
+    "submission_id": "CF181428998",
+    "submission_url": "https://codeforces.com/contest/1759/submission/181428998",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/18/2022 20:40"
+  },
   "CF181437822": {
     "contest_id": 1759,
     "language": "GNU C++17",
