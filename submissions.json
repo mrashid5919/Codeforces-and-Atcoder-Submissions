@@ -10470,6 +10470,22 @@
     ],
     "timestamp": "Nov/17/2022 22:55"
   },
+  "CF182381293": {
+    "contest_id": 835,
+    "language": "GNU C++17",
+    "path": "codeforces\\835\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The number on the board",
+    "problem_url": "https://codeforces.com/contest/835/problem/B",
+    "submission_id": "CF182381293",
+    "submission_url": "https://codeforces.com/contest/835/submission/182381293",
+    "tags": [
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Nov/24/2022 22:33"
+  },
   "CF182484148": {
     "contest_id": 1758,
     "language": "GNU C++17",
