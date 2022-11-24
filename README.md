@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-922 | [B - OddString](https://atcoder.jp/contests/abc072/tasks/abc072_b) | [C++ (GCC 9.2.1)](./atcoder/abc072/B.cpp) | `AtCoder` `*200` | Nov/24/2022 22:34 | 
+923 | [B - OddString](https://atcoder.jp/contests/abc072/tasks/abc072_b) | [C++ (GCC 9.2.1)](./atcoder/abc072/B.cpp) | `AtCoder` `*200` | Nov/24/2022 22:34 | 
+922 | [B - Collecting Balls (Easy Version)](https://atcoder.jp/contests/abc074/tasks/abc074_b) | [C++ (GCC 9.2.1)](./atcoder/abc074/B.cpp) | `AtCoder` `*200` | Nov/24/2022 22:33 | 
 921 | [A - Children and Candies (ABC Edit)](https://atcoder.jp/contests/abc043/tasks/abc043_a) | [C++ (GCC 9.2.1)](./atcoder/abc043/A.cpp) | `AtCoder` `*100` | Nov/17/2022 22:58 | 
 920 | [C - Scc Puzzle](https://atcoder.jp/contests/arc069/tasks/arc069_a) | [C++ (GCC 9.2.1)](./atcoder/arc069/C.cpp) | `AtCoder` `*300` | Nov/17/2022 22:57 | 
 919 | [A - Purification](https://codeforces.com/contest/329/problem/A) | [GNU C++17](./codeforces/329/A.cpp) | `constructive algorithms` `greedy` `*1500` | Nov/17/2022 22:55 | 

@@ -3743,6 +3743,22 @@
     ],
     "timestamp": "Nov/17/2022 22:58"
   },
+  "AC36761627": {
+    "contest_id": "abc074",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc074\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Collecting Balls (Easy Version)",
+    "problem_url": "https://atcoder.jp/contests/abc074/tasks/abc074_b",
+    "submission_id": "AC36761627",
+    "submission_url": "https://atcoder.jp/contests/abc074/submissions/36761627",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/24/2022 22:33"
+  },
   "AC36761632": {
     "contest_id": "abc072",
     "language": "C++ (GCC 9.2.1)",
