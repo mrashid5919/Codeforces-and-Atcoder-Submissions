@@ -10470,6 +10470,26 @@
     ],
     "timestamp": "Nov/17/2022 22:55"
   },
+  "CF182557962": {
+    "contest_id": 1758,
+    "language": "GNU C++17",
+    "path": "codeforces\\1758\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Range = \u221aSum",
+    "problem_url": "https://codeforces.com/contest/1758/problem/D",
+    "submission_id": "CF182557962",
+    "submission_url": "https://codeforces.com/contest/1758/submission/182557962",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Nov/26/2022 01:15"
+  },
   "CF182658377": {
     "contest_id": 1764,
     "language": "GNU C++17",
