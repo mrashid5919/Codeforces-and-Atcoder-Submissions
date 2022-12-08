@@ -1,15 +1,12 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL)
 
-int main()
-{
-    fastio;
-    int x,y;
-    cin>>x>>y;
-    if(max(x,y)-min(x,y)<3)
-        cout<<"Yes";
+int main() {
+    int a,b;
+    cin>>a>>b;
+    if(max(a,b)-min(a,b)<3)
+        cout<<"Yes\n";
     else
-        cout<<"No";
+        cout<<"No\n";
     return 0;
 }
