@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+943 | [B - Groups](https://codeforces.com/contest/1598/problem/B) | [GNU C++17](./codeforces/1598/B.cpp) | `brute force` `implementation` `*1000` | Dec/10/2022 19:06 | 
 942 | [C - Doremy's City Construction](https://codeforces.com/contest/1764/problem/C) | [GNU C++17](./codeforces/1764/C.cpp) | `graphs` `greedy` `*1400` | Nov/26/2022 20:41 | 
 941 | [B - Doremy's Perfect Math Class](https://codeforces.com/contest/1764/problem/B) | [GNU C++17](./codeforces/1764/B.cpp) | `math` `number theory` `*900` | Nov/26/2022 20:21 | 
 940 | [A - Doremy's Paint](https://codeforces.com/contest/1764/problem/A) | [GNU C++17](./codeforces/1764/A.cpp) | `greedy` `*800` | Nov/26/2022 20:14 | 
