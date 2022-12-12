@@ -10815,6 +10815,23 @@
     ],
     "timestamp": "Dec/10/2022 19:06"
   },
+  "CF184909869": {
+    "contest_id": 1766,
+    "language": "GNU C++17",
+    "path": "codeforces\\1766\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Extremely Round",
+    "problem_url": "https://codeforces.com/contest/1766/problem/A",
+    "submission_id": "CF184909869",
+    "submission_url": "https://codeforces.com/contest/1766/submission/184909869",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/12/2022 20:40"
+  },
   "CF184925231": {
     "contest_id": 1766,
     "language": "GNU C++17",
