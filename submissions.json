@@ -10815,6 +10815,22 @@
     ],
     "timestamp": "Dec/10/2022 19:06"
   },
+  "CF184925231": {
+    "contest_id": 1766,
+    "language": "GNU C++17",
+    "path": "codeforces\\1766\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Notepad#",
+    "problem_url": "https://codeforces.com/contest/1766/problem/B",
+    "submission_id": "CF184925231",
+    "submission_url": "https://codeforces.com/contest/1766/submission/184925231",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/12/2022 20:57"
+  },
   "CF184968339": {
     "contest_id": 1766,
     "language": "GNU C++17",
