@@ -11031,6 +11031,23 @@
     ],
     "timestamp": "Dec/19/2022 21:47"
   },
+  "CF187065178": {
+    "contest_id": 730,
+    "language": "GNU C++17",
+    "path": "codeforces\\730\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimum and Maximum",
+    "problem_url": "https://codeforces.com/contest/730/problem/B",
+    "submission_id": "CF187065178",
+    "submission_url": "https://codeforces.com/contest/730/submission/187065178",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "*1800"
+    ],
+    "timestamp": "Dec/28/2022 23:43"
+  },
   "CF187127185": {
     "contest_id": 986,
     "language": "GNU C++17",
