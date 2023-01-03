@@ -11031,6 +11031,24 @@
     ],
     "timestamp": "Dec/19/2022 21:47"
   },
+  "CF187812998": {
+    "contest_id": 1779,
+    "language": "GNU C++17",
+    "path": "codeforces\\1779\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hall of Fame",
+    "problem_url": "https://codeforces.com/contest/1779/problem/A",
+    "submission_id": "CF187812998",
+    "submission_url": "https://codeforces.com/contest/1779/submission/187812998",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/03/2023 22:18"
+  },
   "CF187820485": {
     "contest_id": 1779,
     "language": "GNU C++17",
