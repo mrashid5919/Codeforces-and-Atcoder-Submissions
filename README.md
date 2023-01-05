@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-950 | [D - Floor Function](https://atcoder.jp/contests/abc165/tasks/abc165_d) | [C++ (GCC 9.2.1)](./atcoder/abc165/D.cpp) | `AtCoder` `*400` | Jan/05/2023 15:09 | 
+951 | [D - Floor Function](https://atcoder.jp/contests/abc165/tasks/abc165_d) | [C++ (GCC 9.2.1)](./atcoder/abc165/D.cpp) | `AtCoder` `*400` | Jan/05/2023 15:09 | 
+950 | [B - 1%](https://atcoder.jp/contests/abc165/tasks/abc165_b) | [C++ (GCC 9.2.1)](./atcoder/abc165/B.cpp) | `AtCoder` `*200` | Jan/05/2023 14:54 | 
 949 | [A - Digits Sum](https://atcoder.jp/contests/agc025/tasks/agc025_a) | [C++ (GCC 9.2.1)](./atcoder/agc025/A.cpp) | `AtCoder` `*200` | Dec/31/2022 22:07 | 
 948 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [GNU C++17](./codeforces/1763/B.cpp) | `binary search` `brute force` `data structures` `implementation` `math` `sortings` | Dec/19/2022 21:47 | 
 947 | [A - Absolute Maximization](https://codeforces.com/contest/1763/problem/A) | [GNU C++17](./codeforces/1763/A.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` | Dec/19/2022 20:55 | 
