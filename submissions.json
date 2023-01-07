@@ -3839,6 +3839,22 @@
     ],
     "timestamp": "Jan/05/2023 15:09"
   },
+  "AC37801461": {
+    "contest_id": "abc284",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc284\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sequence of Strings",
+    "problem_url": "https://atcoder.jp/contests/abc284/tasks/abc284_a",
+    "submission_id": "AC37801461",
+    "submission_url": "https://atcoder.jp/contests/abc284/submissions/37801461",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/07/2023 18:05"
+  },
   "AC37804467": {
     "contest_id": "abc284",
     "language": "C++ (GCC 9.2.1)",

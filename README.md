@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-954 | [D - Happy New Year 2023](https://atcoder.jp/contests/abc284/tasks/abc284_d) | [C++ (GCC 9.2.1)](./atcoder/abc284/D.cpp) | `AtCoder` `*400` | Jan/07/2023 18:53 | 
-953 | [C - Count Connected Components](https://atcoder.jp/contests/abc284/tasks/abc284_c) | [C++ (GCC 9.2.1)](./atcoder/abc284/C.cpp) | `AtCoder` `*300` | Jan/07/2023 18:37 | 
-952 | [B - Multi Test Cases](https://atcoder.jp/contests/abc284/tasks/abc284_b) | [C++ (GCC 9.2.1)](./atcoder/abc284/B.cpp) | `AtCoder` `*200` | Jan/07/2023 18:07 | 
+955 | [D - Happy New Year 2023](https://atcoder.jp/contests/abc284/tasks/abc284_d) | [C++ (GCC 9.2.1)](./atcoder/abc284/D.cpp) | `AtCoder` `*400` | Jan/07/2023 18:53 | 
+954 | [C - Count Connected Components](https://atcoder.jp/contests/abc284/tasks/abc284_c) | [C++ (GCC 9.2.1)](./atcoder/abc284/C.cpp) | `AtCoder` `*300` | Jan/07/2023 18:37 | 
+953 | [B - Multi Test Cases](https://atcoder.jp/contests/abc284/tasks/abc284_b) | [C++ (GCC 9.2.1)](./atcoder/abc284/B.cpp) | `AtCoder` `*200` | Jan/07/2023 18:07 | 
+952 | [A - Sequence of Strings](https://atcoder.jp/contests/abc284/tasks/abc284_a) | [C++ (GCC 9.2.1)](./atcoder/abc284/A.cpp) | `AtCoder` `*100` | Jan/07/2023 18:05 | 
 951 | [D - Floor Function](https://atcoder.jp/contests/abc165/tasks/abc165_d) | [C++ (GCC 9.2.1)](./atcoder/abc165/D.cpp) | `AtCoder` `*400` | Jan/05/2023 15:09 | 
 950 | [B - 1%](https://atcoder.jp/contests/abc165/tasks/abc165_b) | [C++ (GCC 9.2.1)](./atcoder/abc165/B.cpp) | `AtCoder` `*200` | Jan/05/2023 14:54 | 
 949 | [A - Digits Sum](https://atcoder.jp/contests/agc025/tasks/agc025_a) | [C++ (GCC 9.2.1)](./atcoder/agc025/A.cpp) | `AtCoder` `*200` | Dec/31/2022 22:07 | 
