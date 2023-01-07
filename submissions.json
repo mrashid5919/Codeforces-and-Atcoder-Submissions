@@ -3839,6 +3839,22 @@
     ],
     "timestamp": "Jan/05/2023 15:09"
   },
+  "AC37829999": {
+    "contest_id": "abc284",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc284\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Happy New Year 2023",
+    "problem_url": "https://atcoder.jp/contests/abc284/tasks/abc284_d",
+    "submission_id": "AC37829999",
+    "submission_url": "https://atcoder.jp/contests/abc284/submissions/37829999",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/07/2023 18:53"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
