@@ -11031,6 +11031,23 @@
     ],
     "timestamp": "Dec/19/2022 21:47"
   },
+  "CF188697465": {
+    "contest_id": 1775,
+    "language": "GNU C++17",
+    "path": "codeforces\\1775\\A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Gardener and the Capybaras (hard version)",
+    "problem_url": "https://codeforces.com/contest/1775/problem/A2",
+    "submission_id": "CF188697465",
+    "submission_url": "https://codeforces.com/contest/1775/submission/188697465",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jan/10/2023 17:34"
+  },
   "CF188697623": {
     "contest_id": 1775,
     "language": "GNU C++17",
