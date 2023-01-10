@@ -11031,6 +11031,23 @@
     ],
     "timestamp": "Dec/19/2022 21:47"
   },
+  "CF188730163": {
+    "contest_id": 1775,
+    "language": "GNU C++17",
+    "path": "codeforces\\1775\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gardener and the Array",
+    "problem_url": "https://codeforces.com/contest/1775/problem/B",
+    "submission_id": "CF188730163",
+    "submission_url": "https://codeforces.com/contest/1775/submission/188730163",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Jan/10/2023 18:30"
+  },
   "CF188975224": {
     "contest_id": 1735,
     "language": "GNU C++17",
