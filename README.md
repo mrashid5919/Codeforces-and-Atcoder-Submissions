@@ -13,21 +13,22 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-986 | [A - Frog Jumping](https://codeforces.com/contest/1077/problem/A) | [GNU C++17](./codeforces/1077/A.cpp) | `math` `*800` | Feb/16/2023 19:18 | 
-985 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++17](./codeforces/705/A.cpp) | `implementation` `*800` | Feb/16/2023 19:18 | 
-984 | [B - Letters Shop](https://codeforces.com/contest/1187/problem/B) | [GNU C++17](./codeforces/1187/B.cpp) | `binary search` `implementation` `strings` `*1300` | Feb/16/2023 19:16 | 
-983 | [B - Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | [GNU C++17](./codeforces/1788/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `probabilities` | Feb/09/2023 21:58 | 
-982 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [GNU C++17](./codeforces/1788/A.cpp) | `brute force` `implementation` `math` | Feb/09/2023 20:41 | 
-981 | [C - Color Stripe](https://codeforces.com/contest/219/problem/C) | [GNU C++17](./codeforces/219/C.cpp) | `brute force` `dp` `greedy` `*1600` | Feb/09/2023 12:24 | 
-980 | [C - Flexible String](https://codeforces.com/contest/1778/problem/C) | [GNU C++17](./codeforces/1778/C.cpp) | `bitmasks` `brute force` `strings` `*1600` | Feb/01/2023 23:29 | 
-979 | [B - The Forbidden Permutation](https://codeforces.com/contest/1778/problem/B) | [GNU C++17](./codeforces/1778/B.cpp) | `greedy` `math` `*1300` | Feb/01/2023 21:05 | 
-978 | [A - Flip Flop Sum](https://codeforces.com/contest/1778/problem/A) | [GNU C++17](./codeforces/1778/A.cpp) | `greedy` `implementation` `*800` | Feb/01/2023 20:41 | 
-977 | [B - Number Factorization](https://codeforces.com/contest/1787/problem/B) | [GNU C++17](./codeforces/1787/B.cpp) | `greedy` `math` `number theory` `*1100` | Jan/29/2023 21:07 | 
-976 | [A - Exponential Equation](https://codeforces.com/contest/1787/problem/A) | [GNU C++17](./codeforces/1787/A.cpp) | `constructive algorithms` `math` `*800` | Jan/29/2023 20:38 | 
-975 | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ (GCC 9.2.1)](./atcoder/abc287/D.cpp) | `AtCoder` `*400` | Jan/28/2023 19:19 | 
-974 | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ (GCC 9.2.1)](./atcoder/abc287/C.cpp) | `AtCoder` `*300` | Jan/28/2023 18:44 | 
-973 | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/abc287/B.cpp) | `AtCoder` `*200` | Jan/28/2023 18:09 | 
-972 | [A - Majority](https://atcoder.jp/contests/abc287/tasks/abc287_a) | [C++ (GCC 9.2.1)](./atcoder/abc287/A.cpp) | `AtCoder` `*100` | Jan/28/2023 18:04 | 
+987 | [A - Frog Jumping](https://codeforces.com/contest/1077/problem/A) | [GNU C++17](./codeforces/1077/A.cpp) | `math` `*800` | Feb/16/2023 19:18 | 
+986 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++17](./codeforces/705/A.cpp) | `implementation` `*800` | Feb/16/2023 19:18 | 
+985 | [B - Letters Shop](https://codeforces.com/contest/1187/problem/B) | [GNU C++17](./codeforces/1187/B.cpp) | `binary search` `implementation` `strings` `*1300` | Feb/16/2023 19:16 | 
+984 | [B - Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | [GNU C++17](./codeforces/1788/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `probabilities` | Feb/09/2023 21:58 | 
+983 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [GNU C++17](./codeforces/1788/A.cpp) | `brute force` `implementation` `math` | Feb/09/2023 20:41 | 
+982 | [C - Color Stripe](https://codeforces.com/contest/219/problem/C) | [GNU C++17](./codeforces/219/C.cpp) | `brute force` `dp` `greedy` `*1600` | Feb/09/2023 12:24 | 
+981 | [C - Flexible String](https://codeforces.com/contest/1778/problem/C) | [GNU C++17](./codeforces/1778/C.cpp) | `bitmasks` `brute force` `strings` `*1600` | Feb/01/2023 23:29 | 
+980 | [B - The Forbidden Permutation](https://codeforces.com/contest/1778/problem/B) | [GNU C++17](./codeforces/1778/B.cpp) | `greedy` `math` `*1300` | Feb/01/2023 21:05 | 
+979 | [A - Flip Flop Sum](https://codeforces.com/contest/1778/problem/A) | [GNU C++17](./codeforces/1778/A.cpp) | `greedy` `implementation` `*800` | Feb/01/2023 20:41 | 
+978 | [B - Number Factorization](https://codeforces.com/contest/1787/problem/B) | [GNU C++17](./codeforces/1787/B.cpp) | `greedy` `math` `number theory` `*1100` | Jan/29/2023 21:07 | 
+977 | [A - Exponential Equation](https://codeforces.com/contest/1787/problem/A) | [GNU C++17](./codeforces/1787/A.cpp) | `constructive algorithms` `math` `*800` | Jan/29/2023 20:38 | 
+976 | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ (GCC 9.2.1)](./atcoder/abc287/D.cpp) | `AtCoder` `*400` | Jan/28/2023 19:19 | 
+975 | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ (GCC 9.2.1)](./atcoder/abc287/C.cpp) | `AtCoder` `*300` | Jan/28/2023 18:44 | 
+974 | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/abc287/B.cpp) | `AtCoder` `*200` | Jan/28/2023 18:09 | 
+973 | [A - Majority](https://atcoder.jp/contests/abc287/tasks/abc287_a) | [C++ (GCC 9.2.1)](./atcoder/abc287/A.cpp) | `AtCoder` `*100` | Jan/28/2023 18:04 | 
+972 | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++17](./codeforces/1790/E.cpp) | `bitmasks` `constructive algorithms` `*1400` | Jan/27/2023 21:57 | 
 971 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [GNU C++17](./codeforces/1735/C.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Jan/12/2023 16:21 | 
 970 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [GNU C++17](./codeforces/1775/B.cpp) | `bitmasks` `constructive algorithms` `*1300` | Jan/10/2023 18:30 | 
 969 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [GNU C++17](./codeforces/1775/A2.cpp) | `constructive algorithms` `greedy` `*900` | Jan/10/2023 17:34 | 
