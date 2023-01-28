@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-974 | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ (GCC 9.2.1)](./atcoder/abc287/D.cpp) | `AtCoder` `*400` | Jan/28/2023 19:19 | 
-973 | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ (GCC 9.2.1)](./atcoder/abc287/C.cpp) | `AtCoder` `*300` | Jan/28/2023 18:44 | 
-972 | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/abc287/B.cpp) | `AtCoder` `*200` | Jan/28/2023 18:09 | 
+975 | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ (GCC 9.2.1)](./atcoder/abc287/D.cpp) | `AtCoder` `*400` | Jan/28/2023 19:19 | 
+974 | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ (GCC 9.2.1)](./atcoder/abc287/C.cpp) | `AtCoder` `*300` | Jan/28/2023 18:44 | 
+973 | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/abc287/B.cpp) | `AtCoder` `*200` | Jan/28/2023 18:09 | 
+972 | [A - Majority](https://atcoder.jp/contests/abc287/tasks/abc287_a) | [C++ (GCC 9.2.1)](./atcoder/abc287/A.cpp) | `AtCoder` `*100` | Jan/28/2023 18:04 | 
 971 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [GNU C++17](./codeforces/1735/C.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Jan/12/2023 16:21 | 
 970 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [GNU C++17](./codeforces/1775/B.cpp) | `bitmasks` `constructive algorithms` `*1300` | Jan/10/2023 18:30 | 
 969 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [GNU C++17](./codeforces/1775/A2.cpp) | `constructive algorithms` `greedy` `*900` | Jan/10/2023 17:34 | 
