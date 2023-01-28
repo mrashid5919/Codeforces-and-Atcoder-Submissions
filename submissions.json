@@ -3903,6 +3903,22 @@
     ],
     "timestamp": "Jan/07/2023 18:53"
   },
+  "AC38405398": {
+    "contest_id": "abc287",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc287\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Path Graph?",
+    "problem_url": "https://atcoder.jp/contests/abc287/tasks/abc287_c",
+    "submission_id": "AC38405398",
+    "submission_url": "https://atcoder.jp/contests/abc287/submissions/38405398",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/28/2023 18:44"
+  },
   "AC38416585": {
     "contest_id": "abc287",
     "language": "C++ (GCC 9.2.1)",
