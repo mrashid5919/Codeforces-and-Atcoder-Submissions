@@ -11377,6 +11377,24 @@
     ],
     "timestamp": "Jan/12/2023 16:21"
   },
+  "CF191125513": {
+    "contest_id": 1787,
+    "language": "GNU C++17",
+    "path": "codeforces\\1787\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Number Factorization",
+    "problem_url": "https://codeforces.com/contest/1787/problem/B",
+    "submission_id": "CF191125513",
+    "submission_url": "https://codeforces.com/contest/1787/submission/191125513",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Jan/29/2023 21:07"
+  },
   "CF191551318": {
     "contest_id": 1778,
     "language": "GNU C++17",
