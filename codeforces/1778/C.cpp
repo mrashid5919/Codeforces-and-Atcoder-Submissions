@@ -1,0 +1,173 @@
+//Incomplete
+#include<bits/stdc++.h>
+#include<string>
+using namespace std;
+#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL)
+
+long long match[100005];
+
+int main()
+{
+    fastio;
+    long long t,n,k,i,mx,ara[40],choice[20],j,l,r,sm;
+    string a,b;
+    cin>>t;
+    while(t--)
+    {
+        mx=INT_MIN;
+        cin>>n>>k;
+        cin>>a>>b;
+        for(i=0;i<26;i++)
+        {
+            ara[i]=0;
+        }
+        for(i=0;i<n;i++)
+        {
+            ara[a[i]-'a']=1;
+        }
+        vector<char> dist;
+        for(i=0;i<26;i++)
+        {
+            if(ara[i]>0)
+                dist.push_back((char)('a'+i));
+        }
+        if(k>=dist.size())
+        {
+            cout<<(n*(n+1)/2)<<"\n";
+            continue;
+        }
+        for(i=0;i<k;i++)
+            choice[i]=i;
+        for(i=0;i<n;i++)
+        {
+            if(a[i]==b[i])
+                match[i]=1;
+            else
+                match[i]=0;
+        }
+        if(k==0)
+        {
+            if(n==1)
+            {
+                if(match[0]==1)
+                    sm=1;
+                else
+                    sm=0;
+                cout<<sm<<"\n";
+                continue;
+            }
+            sm=0;
+            l=0;
+            r=0;
+            for(i=1;i<n;i++)
+            {
+                if(match[i]==1)
+                {
+                    if(match[i-1]==1)
+                        r++;
+                    else
+                    {
+                        l=i;
+                        r=i;
+                    }
+                }
+                else
+                {
+                    if(match[i-1]==1)
+                    {
+                        sm+=((r-l+1)*(r-l+2))/2;
+                    }
+                }
+                if(i==n-1)
+                {
+                    if(match[i]==1)
+                    {
+                        if(match[i-1]==0)
+                            sm++;
+                        else
+                            sm+=((r-l+1)*(r-l+2))/2;
+                    }
+                }
+            }
+            mx=max(mx,sm);
+            cout<<mx<<"\n";
+            continue;
+        }
+        while(choice[0]<=dist.size()-k)
+        {
+            /*for(i=0;i<k;i++)
+                cout<<choice[i]<<" ";
+            cout<<"\n";*/
+            for(j=0;j<k;j++)
+            {
+                for(i=0;i<n;i++)
+                {
+                    if(a[i]==dist[choice[j]])
+                        match[i]=1;
+                }
+            }
+            sm=0;
+            l=0;
+            r=0;
+            for(i=1;i<n;i++)
+            {
+                if(match[i]==1)
+                {
+                    if(match[i-1]==1)
+                        r++;
+                    else
+                    {
+                        l=i;
+                        r=i;
+                    }
+                }
+                else
+                {
+                    if(match[i-1]==1)
+                    {
+                        sm+=((r-l+1)*(r-l+2))/2;
+                    }
+                }
+                if(i==n-1)
+                {
+                    if(match[i]==1)
+                    {
+                        if(match[i-1]==0)
+                            sm++;
+                        else
+                            sm+=((r-l+1)*(r-l+2))/2;
+                    }
+                }
+            }
+            /*if(sm>mx)
+            {
+                for(long long c=0;c<k;c++)
+                    cout<<dist[choice[c]]<<" ";
+                cout<<"\n";
+            }*/
+            mx=max(mx,sm);
+            for(j=0;j<k;j++)
+            {
+                for(i=0;i<n;i++)
+                {
+                    if(a[i]==dist[choice[j]] && a[i]!=b[i])
+                        match[i]=0;
+                }
+            }
+            for(long long x=k-1;x>=0;x--)
+            {
+                if(choice[x]<dist.size()-(k-x))
+                {
+                    choice[x]++;
+                    for(long long y=x+1;y<k;y++)
+                        choice[y]=choice[y-1]+1;
+                    break;
+                }
+                else
+                    choice[x]++;
+            }
+        }
+        cout<<mx<<"\n";
+    }
+    return 0;
+}
