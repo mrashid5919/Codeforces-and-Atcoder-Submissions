@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-982 | [A - Frog Jumping](https://codeforces.com/contest/1077/problem/A) | [GNU C++17](./codeforces/1077/A.cpp) | `math` `*800` | Feb/16/2023 19:18 | 
-981 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++17](./codeforces/705/A.cpp) | `implementation` `*800` | Feb/16/2023 19:18 | 
-980 | [B - Letters Shop](https://codeforces.com/contest/1187/problem/B) | [GNU C++17](./codeforces/1187/B.cpp) | `binary search` `implementation` `strings` `*1300` | Feb/16/2023 19:16 | 
-979 | [B - Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | [GNU C++17](./codeforces/1788/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `probabilities` | Feb/09/2023 21:58 | 
-978 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [GNU C++17](./codeforces/1788/A.cpp) | `brute force` `implementation` `math` | Feb/09/2023 20:41 | 
-977 | [C - Color Stripe](https://codeforces.com/contest/219/problem/C) | [GNU C++17](./codeforces/219/C.cpp) | `brute force` `dp` `greedy` `*1600` | Feb/09/2023 12:24 | 
-976 | [C - Flexible String](https://codeforces.com/contest/1778/problem/C) | [GNU C++17](./codeforces/1778/C.cpp) | `bitmasks` `brute force` `strings` `*1600` | Feb/01/2023 23:29 | 
+983 | [A - Frog Jumping](https://codeforces.com/contest/1077/problem/A) | [GNU C++17](./codeforces/1077/A.cpp) | `math` `*800` | Feb/16/2023 19:18 | 
+982 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++17](./codeforces/705/A.cpp) | `implementation` `*800` | Feb/16/2023 19:18 | 
+981 | [B - Letters Shop](https://codeforces.com/contest/1187/problem/B) | [GNU C++17](./codeforces/1187/B.cpp) | `binary search` `implementation` `strings` `*1300` | Feb/16/2023 19:16 | 
+980 | [B - Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | [GNU C++17](./codeforces/1788/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `probabilities` | Feb/09/2023 21:58 | 
+979 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [GNU C++17](./codeforces/1788/A.cpp) | `brute force` `implementation` `math` | Feb/09/2023 20:41 | 
+978 | [C - Color Stripe](https://codeforces.com/contest/219/problem/C) | [GNU C++17](./codeforces/219/C.cpp) | `brute force` `dp` `greedy` `*1600` | Feb/09/2023 12:24 | 
+977 | [C - Flexible String](https://codeforces.com/contest/1778/problem/C) | [GNU C++17](./codeforces/1778/C.cpp) | `bitmasks` `brute force` `strings` `*1600` | Feb/01/2023 23:29 | 
+976 | [B - The Forbidden Permutation](https://codeforces.com/contest/1778/problem/B) | [GNU C++17](./codeforces/1778/B.cpp) | `greedy` `math` `*1300` | Feb/01/2023 21:05 | 
 975 | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ (GCC 9.2.1)](./atcoder/abc287/D.cpp) | `AtCoder` `*400` | Jan/28/2023 19:19 | 
 974 | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ (GCC 9.2.1)](./atcoder/abc287/C.cpp) | `AtCoder` `*300` | Jan/28/2023 18:44 | 
 973 | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/abc287/B.cpp) | `AtCoder` `*200` | Jan/28/2023 18:09 | 
