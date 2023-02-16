@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+976 | [A - Frog Jumping](https://codeforces.com/contest/1077/problem/A) | [GNU C++17](./codeforces/1077/A.cpp) | `math` `*800` | Feb/16/2023 19:18 | 
 975 | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ (GCC 9.2.1)](./atcoder/abc287/D.cpp) | `AtCoder` `*400` | Jan/28/2023 19:19 | 
 974 | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ (GCC 9.2.1)](./atcoder/abc287/C.cpp) | `AtCoder` `*300` | Jan/28/2023 18:44 | 
 973 | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/abc287/B.cpp) | `AtCoder` `*200` | Jan/28/2023 18:09 | 
