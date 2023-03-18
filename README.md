@@ -6,15 +6,15 @@ Submissions
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/mrashid_5919.svg)](https://codeforces.com/profile/mrashid_5919)
-* AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/mrashid_5919.svg)](https://atcoder.jp/users/mrashid_5919)
 
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-991 | [A - Frog Jumping](https://codeforces.com/contest/1077/problem/A) | [GNU C++17](./codeforces/1077/A.cpp) | `math` `*800` | Feb/16/2023 19:18 | 
-990 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++17](./codeforces/705/A.cpp) | `implementation` `*800` | Feb/16/2023 19:18 | 
+992 | [B - Mex Master](https://codeforces.com/contest/1806/problem/B) | [GNU C++17](./codeforces/1806/B.cpp) | `constructive algorithms` `greedy` `*900` | Mar/18/2023 18:29 | 
+991 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++17](./codeforces/705/A.cpp) | `implementation` `*800` | Feb/16/2023 19:18 | 
+990 | [A - Frog Jumping](https://codeforces.com/contest/1077/problem/A) | [GNU C++17](./codeforces/1077/A.cpp) | `math` `*800` | Feb/16/2023 19:18 | 
 989 | [B - Letters Shop](https://codeforces.com/contest/1187/problem/B) | [GNU C++17](./codeforces/1187/B.cpp) | `binary search` `implementation` `strings` `*1300` | Feb/16/2023 19:16 | 
 988 | [B - Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | [GNU C++17](./codeforces/1788/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `probabilities` | Feb/09/2023 21:58 | 
 987 | [A - One and Two](https://codeforces.com/contest/1788/problem/A) | [GNU C++17](./codeforces/1788/A.cpp) | `brute force` `implementation` `math` | Feb/09/2023 20:41 | 
