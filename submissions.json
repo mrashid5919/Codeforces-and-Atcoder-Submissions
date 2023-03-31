@@ -11798,6 +11798,24 @@
     ],
     "timestamp": "Mar/18/2023 18:29"
   },
+  "CF199981569": {
+    "contest_id": 1810,
+    "language": "GNU C++17",
+    "path": "codeforces\\1810\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Make It Permutation",
+    "problem_url": "https://codeforces.com/contest/1810/problem/C",
+    "submission_id": "CF199981569",
+    "submission_url": "https://codeforces.com/contest/1810/submission/199981569",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Mar/31/2023 21:06"
+  },
   "CF200025840": {
     "contest_id": 1810,
     "language": "GNU C++17",
