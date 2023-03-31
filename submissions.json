@@ -11798,6 +11798,23 @@
     ],
     "timestamp": "Mar/18/2023 18:29"
   },
+  "CF200025840": {
+    "contest_id": 1810,
+    "language": "GNU C++17",
+    "path": "codeforces\\1810\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Climbing the Tree",
+    "problem_url": "https://codeforces.com/contest/1810/problem/D",
+    "submission_id": "CF200025840",
+    "submission_url": "https://codeforces.com/contest/1810/submission/200025840",
+    "tags": [
+      "binary search",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Mar/31/2023 23:24"
+  },
   "CF200148440": {
     "contest_id": 1812,
     "language": "GNU C++17",
