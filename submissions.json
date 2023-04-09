@@ -11904,6 +11904,23 @@
     ],
     "timestamp": "Apr/01/2023 21:31"
   },
+  "CF201532825": {
+    "contest_id": 1816,
+    "language": "GNU C++17",
+    "path": "codeforces\\1816\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Grid Reconstruction",
+    "problem_url": "https://codeforces.com/contest/1816/problem/B",
+    "submission_id": "CF201532825",
+    "submission_url": "https://codeforces.com/contest/1816/submission/201532825",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Apr/09/2023 21:51"
+  },
   "CF201557660": {
     "contest_id": 1816,
     "language": "GNU C++17",
