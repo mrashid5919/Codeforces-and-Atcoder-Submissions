@@ -1,0 +1,127 @@
+#include<bits/stdc++.h>
+#include<string>
+using namespace std;
+#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL)
+
+long long ara[200005],b[200005];
+
+int main()
+{
+    fastio;
+    long long t,n,i,mex,gr,f,gs,s;
+    cin>>t;
+    while(t--)
+    {
+        cin>>n;
+        s=0;
+        map<long long,long long> mp;
+        for(i=0;i<n;i++)
+        {
+            cin>>ara[i];
+            b[i]=ara[i];
+            mp[ara[i]]++;
+        }
+        sort(b,b+n);
+        if(b[0]>0)
+        {
+            mex=0;
+            gr=n;
+            s=1;
+        }
+        else
+        {
+            for(i=1;i<n;i++)
+            {
+                if(b[i]>b[i-1]+1)
+                {
+                    mex=b[i-1]+1;
+                    gr=n-i+1;
+                    s=1;
+                    break;
+                }
+            }
+        }
+        if(s==0)
+        {
+            mex=b[n-1]+1;
+            gr=0;
+        }
+        if(n==1 && ara[0]==0)
+        {
+            cout<<"NO\n";
+            continue;
+        }
+        if(mp[mex+1]==1)
+        {
+            cout<<"YES\n";
+            continue;
+        }
+        if(mp[mex+1]==0)
+        {
+            if(b[n-1]>mex+1)
+            {
+                cout<<"YES\n";
+                continue;
+            }
+            s=0;
+            for(i=0;i<n;i++)
+            {
+                if(mp[b[i]]>1)
+                {
+                    s=1;
+                    break;
+                }
+            }
+            if(s==1)
+            {
+                cout<<"YES\n";
+                continue;
+            }
+            else
+            {
+                cout<<"NO\n";
+                continue;
+            }
+        }
+        gs=-1;
+        f=0;
+        for(i=0;i<n;i++)
+        {
+            if(ara[i]==mex+1)
+            {
+                if(gs==-1)
+                {
+                    gs=0;
+                }
+                mp[mex+1]--;
+                if(mp[mex+1]==0)
+                    break;
+            }
+            else if(ara[i]>mex+1)
+            {
+                continue;
+            }
+            else
+            {
+                if(gs==0)
+                {
+                    if(mp[mex+1]>0)
+                    {
+                        if(mp[ara[i]]>1)
+                            mp[ara[i]]--;
+                        else
+                        {
+                            f=1;
+                            break;
+                        }
+                    }
+                }
+            }
+        }
+        if(f==1)
+            cout<<"NO\n";
+        else
+            cout<<"YES\n";
+    }
+    return 0;
+}
