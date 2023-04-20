@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1015 | [C - Strongly Composite](https://codeforces.com/contest/1823/problem/C) | [GNU C++17](./codeforces/1823/C.cpp) | `greedy` `math` `number theory` `*1300` | Apr/27/2023 21:25 | 
-1014 | [B - Sort with Step](https://codeforces.com/contest/1823/problem/B) | [GNU C++17](./codeforces/1823/B.cpp) | `brute force` `math` `sortings` `*900` | Apr/27/2023 20:56 | 
-1013 | [A - A-characteristic](https://codeforces.com/contest/1823/problem/A) | [GNU C++17](./codeforces/1823/A.cpp) | `combinatorics` `constructive algorithms` `math` `*800` | Apr/27/2023 20:46 | 
-1012 | [C - Good Subarrays](https://codeforces.com/contest/1398/problem/C) | [GNU C++17](./codeforces/1398/C.cpp) | `data structures` `dp` `math` `*1600` | Apr/26/2023 20:20 | 
-1011 | [G1 - Magic Triples (Easy Version)](https://codeforces.com/contest/1822/problem/G1) | [GNU C++17](./codeforces/1822/G1.cpp) | `brute force` `data structures` `math` `number theory` `*1700` | Apr/25/2023 21:47 | 
-1010 | [D - Super-Permutation](https://codeforces.com/contest/1822/problem/D) | [GNU C++17](./codeforces/1822/D.cpp) | `constructive algorithms` `math` `*1200` | Apr/24/2023 22:33 | 
-1009 | [C - Bun Lover](https://codeforces.com/contest/1822/problem/C) | [GNU C++17](./codeforces/1822/C.cpp) | `math` `*800` | Apr/24/2023 20:58 | 
-1008 | [B - Karina and Array](https://codeforces.com/contest/1822/problem/B) | [GNU C++17](./codeforces/1822/B.cpp) | `greedy` `math` `sortings` `*800` | Apr/24/2023 20:47 | 
-1007 | [A - TubeTube Feed](https://codeforces.com/contest/1822/problem/A) | [GNU C++17](./codeforces/1822/A.cpp) | `brute force` `implementation` `*800` | Apr/24/2023 20:42 | 
-1006 | [C - Tear It Apart](https://codeforces.com/contest/1821/problem/C) | [GNU C++17](./codeforces/1821/C.cpp) | `brute force` `implementation` `math` `strings` `*1300` | Apr/23/2023 17:39 | 
+1016 | [C - Strongly Composite](https://codeforces.com/contest/1823/problem/C) | [GNU C++17](./codeforces/1823/C.cpp) | `greedy` `math` `number theory` `*1300` | Apr/27/2023 21:25 | 
+1015 | [B - Sort with Step](https://codeforces.com/contest/1823/problem/B) | [GNU C++17](./codeforces/1823/B.cpp) | `brute force` `math` `sortings` `*900` | Apr/27/2023 20:56 | 
+1014 | [A - A-characteristic](https://codeforces.com/contest/1823/problem/A) | [GNU C++17](./codeforces/1823/A.cpp) | `combinatorics` `constructive algorithms` `math` `*800` | Apr/27/2023 20:46 | 
+1013 | [C - Good Subarrays](https://codeforces.com/contest/1398/problem/C) | [GNU C++17](./codeforces/1398/C.cpp) | `data structures` `dp` `math` `*1600` | Apr/26/2023 20:20 | 
+1012 | [G1 - Magic Triples (Easy Version)](https://codeforces.com/contest/1822/problem/G1) | [GNU C++17](./codeforces/1822/G1.cpp) | `brute force` `data structures` `math` `number theory` `*1700` | Apr/25/2023 21:47 | 
+1011 | [D - Super-Permutation](https://codeforces.com/contest/1822/problem/D) | [GNU C++17](./codeforces/1822/D.cpp) | `constructive algorithms` `math` `*1200` | Apr/24/2023 22:33 | 
+1010 | [C - Bun Lover](https://codeforces.com/contest/1822/problem/C) | [GNU C++17](./codeforces/1822/C.cpp) | `math` `*800` | Apr/24/2023 20:58 | 
+1009 | [B - Karina and Array](https://codeforces.com/contest/1822/problem/B) | [GNU C++17](./codeforces/1822/B.cpp) | `greedy` `math` `sortings` `*800` | Apr/24/2023 20:47 | 
+1008 | [A - TubeTube Feed](https://codeforces.com/contest/1822/problem/A) | [GNU C++17](./codeforces/1822/A.cpp) | `brute force` `implementation` `*800` | Apr/24/2023 20:42 | 
+1007 | [C - Tear It Apart](https://codeforces.com/contest/1821/problem/C) | [GNU C++17](./codeforces/1821/C.cpp) | `brute force` `implementation` `math` `strings` `*1300` | Apr/23/2023 17:39 | 
+1006 | [B - Obtain Two Zeroes](https://codeforces.com/contest/1260/problem/B) | [GNU C++17](./codeforces/1260/B.cpp) | `binary search` `math` `*1300` | Apr/20/2023 16:33 | 
 1005 | [D - Trivial Conjecture](https://codeforces.com/contest/1812/problem/D) | [GNU C++17](./codeforces/1812/D.cpp) | `*special problem` `constructive algorithms` `math` `number theory` | Apr/01/2023 21:31 | 
 1004 | [A - Are You a Robot?](https://codeforces.com/contest/1812/problem/A) | [GNU C++17](./codeforces/1812/A.cpp) | `*special problem` `*special problem` `*special problem` `expression parsing` | Apr/01/2023 20:47 | 
 1003 | [D - Climbing the Tree](https://codeforces.com/contest/1810/problem/D) | [GNU C++17](./codeforces/1810/D.cpp) | `binary search` `math` `*1700` | Mar/31/2023 23:24 | 
