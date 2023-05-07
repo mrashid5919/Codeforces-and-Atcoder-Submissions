@@ -3967,6 +3967,22 @@
     ],
     "timestamp": "Jan/28/2023 19:19"
   },
+  "AC41237662": {
+    "contest_id": "abc085",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc085\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Katana Thrower",
+    "problem_url": "https://atcoder.jp/contests/abc085/tasks/abc085_d",
+    "submission_id": "AC41237662",
+    "submission_url": "https://atcoder.jp/contests/abc085/submissions/41237662",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/07/2023 22:44"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",

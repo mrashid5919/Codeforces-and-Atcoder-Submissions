@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1045 | [D - Katana Thrower](https://atcoder.jp/contests/abc085/tasks/abc085_d) | [C++ (GCC 9.2.1)](./atcoder/abc085/D.cpp) | `AtCoder` `*400` | May/07/2023 22:44 | 
 1044 | [B - File List](https://codeforces.com/contest/174/problem/B) | [GNU C++17](./codeforces/174/B.cpp) | `dp` `greedy` `implementation` `*1400` | May/07/2023 22:14 | 
 1043 | [C - Strongly Composite](https://codeforces.com/contest/1823/problem/C) | [GNU C++17](./codeforces/1823/C.cpp) | `greedy` `math` `number theory` `*1300` | Apr/27/2023 21:25 | 
 1042 | [B - Sort with Step](https://codeforces.com/contest/1823/problem/B) | [GNU C++17](./codeforces/1823/B.cpp) | `brute force` `math` `sortings` `*900` | Apr/27/2023 20:56 | 
