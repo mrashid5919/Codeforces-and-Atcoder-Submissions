@@ -12573,6 +12573,24 @@
     ],
     "timestamp": "Apr/27/2023 21:25"
   },
+  "CF204997191": {
+    "contest_id": 174,
+    "language": "GNU C++17",
+    "path": "codeforces\\174\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "File List",
+    "problem_url": "https://codeforces.com/contest/174/problem/B",
+    "submission_id": "CF204997191",
+    "submission_url": "https://codeforces.com/contest/174/submission/204997191",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/07/2023 22:14"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
