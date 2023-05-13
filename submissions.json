@@ -3983,6 +3983,22 @@
     ],
     "timestamp": "May/07/2023 22:44"
   },
+  "AC41377297": {
+    "contest_id": "abc301",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc301\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Bitmask",
+    "problem_url": "https://atcoder.jp/contests/abc301/tasks/abc301_d",
+    "submission_id": "AC41377297",
+    "submission_url": "https://atcoder.jp/contests/abc301/submissions/41377297",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/13/2023 19:02"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
