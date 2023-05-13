@@ -12741,6 +12741,23 @@
     ],
     "timestamp": "May/12/2023 20:06"
   },
+  "CF205735806": {
+    "contest_id": 771,
+    "language": "GNU C++17",
+    "path": "codeforces\\771\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bear and Different Names",
+    "problem_url": "https://codeforces.com/contest/771/problem/B",
+    "submission_id": "CF205735806",
+    "submission_url": "https://codeforces.com/contest/771/submission/205735806",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "May/13/2023 21:29"
+  },
   "CF205844922": {
     "contest_id": 1828,
     "language": "GNU C++17",
