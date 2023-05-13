@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1051 | [D - Bitmask](https://atcoder.jp/contests/abc301/tasks/abc301_d) | [C++ (GCC 9.2.1)](./atcoder/abc301/D.cpp) | `AtCoder` `*400` | May/13/2023 19:02 | 
-1050 | [C - AtCoder Cards](https://atcoder.jp/contests/abc301/tasks/abc301_c) | [C++ (GCC 9.2.1)](./atcoder/abc301/C.cpp) | `AtCoder` `*300` | May/13/2023 18:34 | 
-1049 | [B - Fill the Gaps](https://atcoder.jp/contests/abc301/tasks/abc301_b) | [C++ (GCC 9.2.1)](./atcoder/abc301/B.cpp) | `AtCoder` `*200` | May/13/2023 18:09 | 
+1052 | [D - Bitmask](https://atcoder.jp/contests/abc301/tasks/abc301_d) | [C++ (GCC 9.2.1)](./atcoder/abc301/D.cpp) | `AtCoder` `*400` | May/13/2023 19:02 | 
+1051 | [C - AtCoder Cards](https://atcoder.jp/contests/abc301/tasks/abc301_c) | [C++ (GCC 9.2.1)](./atcoder/abc301/C.cpp) | `AtCoder` `*300` | May/13/2023 18:34 | 
+1050 | [B - Fill the Gaps](https://atcoder.jp/contests/abc301/tasks/abc301_b) | [C++ (GCC 9.2.1)](./atcoder/abc301/B.cpp) | `AtCoder` `*200` | May/13/2023 18:09 | 
+1049 | [A - Overall Winner](https://atcoder.jp/contests/abc301/tasks/abc301_a) | [C++ (GCC 9.2.1)](./atcoder/abc301/A.cpp) | `AtCoder` `*100` | May/13/2023 18:03 | 
 1048 | [A - Pride](https://codeforces.com/contest/891/problem/A) | [GNU C++17](./codeforces/891/A.cpp) | `brute force` `dp` `greedy` `math` `number theory` `*1500` | May/12/2023 20:06 | 
 1047 | [B - RPG Protagonist](https://codeforces.com/contest/1400/problem/B) | [GNU C++17](./codeforces/1400/B.cpp) | `brute force` `greedy` `math` `*1700` | May/11/2023 17:25 | 
 1046 | [A - Nastya and Rice](https://codeforces.com/contest/1341/problem/A) | [GNU C++17](./codeforces/1341/A.cpp) | `math` `*900` | May/08/2023 22:02 | 

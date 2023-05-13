@@ -3983,6 +3983,22 @@
     ],
     "timestamp": "May/07/2023 22:44"
   },
+  "AC41346368": {
+    "contest_id": "abc301",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc301\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Overall Winner",
+    "problem_url": "https://atcoder.jp/contests/abc301/tasks/abc301_a",
+    "submission_id": "AC41346368",
+    "submission_url": "https://atcoder.jp/contests/abc301/submissions/41346368",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/13/2023 18:03"
+  },
   "AC41351002": {
     "contest_id": "abc301",
     "language": "C++ (GCC 9.2.1)",
