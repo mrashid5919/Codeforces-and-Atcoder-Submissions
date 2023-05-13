@@ -3983,6 +3983,22 @@
     ],
     "timestamp": "May/07/2023 22:44"
   },
+  "AC41351002": {
+    "contest_id": "abc301",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc301\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Fill the Gaps",
+    "problem_url": "https://atcoder.jp/contests/abc301/tasks/abc301_b",
+    "submission_id": "AC41351002",
+    "submission_url": "https://atcoder.jp/contests/abc301/submissions/41351002",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/13/2023 18:09"
+  },
   "AC41366366": {
     "contest_id": "abc301",
     "language": "C++ (GCC 9.2.1)",
