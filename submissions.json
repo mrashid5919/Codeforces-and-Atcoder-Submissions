@@ -4047,6 +4047,22 @@
     ],
     "timestamp": "May/13/2023 19:02"
   },
+  "AC41467124": {
+    "contest_id": "tenka1-2019",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\tenka1-2019\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Stones",
+    "problem_url": "https://atcoder.jp/contests/tenka1-2019/tasks/tenka1_2019_c",
+    "submission_id": "AC41467124",
+    "submission_url": "https://atcoder.jp/contests/tenka1-2019/submissions/41467124",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/16/2023 22:48"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
