@@ -12741,6 +12741,25 @@
     ],
     "timestamp": "May/12/2023 20:06"
   },
+  "CF206135367": {
+    "contest_id": 817,
+    "language": "GNU C++17",
+    "path": "codeforces\\817\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Makes And The Product",
+    "problem_url": "https://codeforces.com/contest/817/problem/B",
+    "submission_id": "CF206135367",
+    "submission_url": "https://codeforces.com/contest/817/submission/206135367",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/16/2023 22:50"
+  },
   "CF206265992": {
     "contest_id": 1461,
     "language": "GNU C++17",
