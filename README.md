@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1054 | [D - Flipper](https://codeforces.com/contest/1833/problem/D) | [GNU C++17](./codeforces/1833/D.cpp) | `brute force` `constructive algorithms` `greedy` `*1400` | May/19/2023 21:24 | 
 1053 | [C - Stones](https://atcoder.jp/contests/tenka1-2019/tasks/tenka1_2019_c) | [C++ (GCC 9.2.1)](./atcoder/tenka1-2019/C.cpp) | `AtCoder` `*300` | May/16/2023 22:48 | 
 1052 | [D - Bitmask](https://atcoder.jp/contests/abc301/tasks/abc301_d) | [C++ (GCC 9.2.1)](./atcoder/abc301/D.cpp) | `AtCoder` `*400` | May/13/2023 19:02 | 
 1051 | [C - AtCoder Cards](https://atcoder.jp/contests/abc301/tasks/abc301_c) | [C++ (GCC 9.2.1)](./atcoder/abc301/C.cpp) | `AtCoder` `*300` | May/13/2023 18:34 | 
