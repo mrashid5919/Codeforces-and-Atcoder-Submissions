@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1069 | [E - Round Dance](https://codeforces.com/contest/1833/problem/E) | [GNU C++17](./codeforces/1833/E.cpp) | `dsu` `graphs` `shortest paths` `*1600` | May/22/2023 17:54 | 
 1068 | [D - Flipper](https://codeforces.com/contest/1833/problem/D) | [GNU C++17](./codeforces/1833/D.cpp) | `brute force` `constructive algorithms` `greedy` `*1400` | May/19/2023 21:24 | 
 1067 | [C - Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | [GNU C++17](./codeforces/1833/C.cpp) | `greedy` `math` `*800` | May/19/2023 20:54 | 
 1066 | [B - Restore the Weather](https://codeforces.com/contest/1833/problem/B) | [GNU C++17](./codeforces/1833/B.cpp) | `greedy` `sortings` `*900` | May/19/2023 20:46 | 
