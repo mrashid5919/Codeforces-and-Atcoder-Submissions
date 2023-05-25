@@ -13131,6 +13131,22 @@
     ],
     "timestamp": "May/22/2023 17:54"
   },
+  "CF207226139": {
+    "contest_id": 1837,
+    "language": "GNU C++17",
+    "path": "codeforces\\1837\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Comparison String",
+    "problem_url": "https://codeforces.com/contest/1837/problem/B",
+    "submission_id": "CF207226139",
+    "submission_url": "https://codeforces.com/contest/1837/submission/207226139",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "May/25/2023 21:38"
+  },
   "CF207266534": {
     "contest_id": 1837,
     "language": "GNU C++17",
