@@ -4063,6 +4063,22 @@
     ],
     "timestamp": "May/16/2023 22:48"
   },
+  "AC41741807": {
+    "contest_id": "abc303",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc303\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Similar String",
+    "problem_url": "https://atcoder.jp/contests/abc303/tasks/abc303_a",
+    "submission_id": "AC41741807",
+    "submission_url": "https://atcoder.jp/contests/abc303/submissions/41741807",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/27/2023 18:20"
+  },
   "AC41746691": {
     "contest_id": "abc303",
     "language": "C++ (GCC 9.2.1)",
