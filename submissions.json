@@ -4063,6 +4063,22 @@
     ],
     "timestamp": "May/16/2023 22:48"
   },
+  "AC41746691": {
+    "contest_id": "abc303",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc303\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Discord",
+    "problem_url": "https://atcoder.jp/contests/abc303/tasks/abc303_b",
+    "submission_id": "AC41746691",
+    "submission_url": "https://atcoder.jp/contests/abc303/submissions/41746691",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/27/2023 18:28"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
