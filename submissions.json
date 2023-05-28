@@ -13131,6 +13131,25 @@
     ],
     "timestamp": "May/22/2023 17:54"
   },
+  "CF207642415": {
+    "contest_id": 1831,
+    "language": "GNU C++17",
+    "path": "codeforces\\1831\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Copil Copac Draws Trees",
+    "problem_url": "https://codeforces.com/contest/1831/problem/C",
+    "submission_id": "CF207642415",
+    "submission_url": "https://codeforces.com/contest/1831/submission/207642415",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*1400"
+    ],
+    "timestamp": "May/28/2023 22:01"
+  },
   "CF208437769": {
     "contest_id": 1838,
     "language": "GNU C++17",
