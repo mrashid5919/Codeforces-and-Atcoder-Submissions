@@ -4111,6 +4111,22 @@
     ],
     "timestamp": "Jun/01/2023 22:13"
   },
+  "AC41896897": {
+    "contest_id": "caddi2018",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\caddi2018\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Product and GCD",
+    "problem_url": "https://atcoder.jp/contests/caddi2018/tasks/caddi2018_a",
+    "submission_id": "AC41896897",
+    "submission_url": "https://atcoder.jp/contests/caddi2018/submissions/41896897",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/01/2023 22:14"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
