@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1072 | [B - *e**** ********e* *e****e* ****e**](https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_b) | [C++ (GCC 9.2.1)](./atcoder/tenka1-2019-beginner/B.cpp) | `AtCoder` `*200` | Jun/01/2023 22:13 | 
 1071 | [B - Discord](https://atcoder.jp/contests/abc303/tasks/abc303_b) | [C++ (GCC 9.2.1)](./atcoder/abc303/B.cpp) | `AtCoder` `*200` | May/27/2023 18:28 | 
 1070 | [A - Similar String](https://atcoder.jp/contests/abc303/tasks/abc303_a) | [C++ (GCC 9.2.1)](./atcoder/abc303/A.cpp) | `AtCoder` `*100` | May/27/2023 18:20 | 
 1069 | [E - Round Dance](https://codeforces.com/contest/1833/problem/E) | [GNU C++17](./codeforces/1833/E.cpp) | `dsu` `graphs` `shortest paths` `*1600` | May/22/2023 17:54 | 

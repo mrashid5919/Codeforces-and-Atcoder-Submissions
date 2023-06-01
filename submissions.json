@@ -4095,6 +4095,22 @@
     ],
     "timestamp": "May/27/2023 18:28"
   },
+  "AC41896889": {
+    "contest_id": "tenka1-2019-beginner",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\tenka1-2019-beginner\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "*e**** ********e* *e****e* ****e**",
+    "problem_url": "https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_b",
+    "submission_id": "AC41896889",
+    "submission_url": "https://atcoder.jp/contests/tenka1-2019-beginner/submissions/41896889",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/01/2023 22:13"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
