@@ -13131,6 +13131,23 @@
     ],
     "timestamp": "May/22/2023 17:54"
   },
+  "CF208437769": {
+    "contest_id": 1838,
+    "language": "GNU C++17",
+    "path": "codeforces\\1838\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackboard List",
+    "problem_url": "https://codeforces.com/contest/1838/problem/A",
+    "submission_id": "CF208437769",
+    "submission_url": "https://codeforces.com/contest/1838/submission/208437769",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/04/2023 20:50"
+  },
   "CF208493207": {
     "contest_id": 1838,
     "language": "GNU C++17",
