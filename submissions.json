@@ -13131,6 +13131,24 @@
     ],
     "timestamp": "May/22/2023 17:54"
   },
+  "CF208741605": {
+    "contest_id": 1840,
+    "language": "GNU C++17",
+    "path": "codeforces\\1840\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ski Resort",
+    "problem_url": "https://codeforces.com/contest/1840/problem/C",
+    "submission_id": "CF208741605",
+    "submission_url": "https://codeforces.com/contest/1840/submission/208741605",
+    "tags": [
+      "combinatorics",
+      "math",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Jun/06/2023 21:00"
+  },
   "CF208781825": {
     "contest_id": 1840,
     "language": "GNU C++17",
