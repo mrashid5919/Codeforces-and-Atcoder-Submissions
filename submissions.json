@@ -4127,6 +4127,22 @@
     ],
     "timestamp": "Jun/01/2023 22:14"
   },
+  "AC42135882": {
+    "contest_id": "abc305",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc305\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Snuke the Cookie Picker",
+    "problem_url": "https://atcoder.jp/contests/abc305/tasks/abc305_c",
+    "submission_id": "AC42135882",
+    "submission_url": "https://atcoder.jp/contests/abc305/submissions/42135882",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/10/2023 18:18"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
