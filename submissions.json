@@ -4127,6 +4127,22 @@
     ],
     "timestamp": "Jun/01/2023 22:14"
   },
+  "AC42129630": {
+    "contest_id": "abc305",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc305\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "ABCDEFG",
+    "problem_url": "https://atcoder.jp/contests/abc305/tasks/abc305_b",
+    "submission_id": "AC42129630",
+    "submission_url": "https://atcoder.jp/contests/abc305/submissions/42129630",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/10/2023 18:09"
+  },
   "AC42135882": {
     "contest_id": "abc305",
     "language": "C++ (GCC 9.2.1)",
