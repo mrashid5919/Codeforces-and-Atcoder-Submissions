@@ -4127,6 +4127,22 @@
     ],
     "timestamp": "Jun/01/2023 22:14"
   },
+  "AC42122316": {
+    "contest_id": "abc305",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc305\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Water Station",
+    "problem_url": "https://atcoder.jp/contests/abc305/tasks/abc305_a",
+    "submission_id": "AC42122316",
+    "submission_url": "https://atcoder.jp/contests/abc305/submissions/42122316",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/10/2023 18:03"
+  },
   "AC42129630": {
     "contest_id": "abc305",
     "language": "C++ (GCC 9.2.1)",
