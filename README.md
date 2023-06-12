@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1093 | [B - Keep it Beautiful](https://codeforces.com/contest/1841/problem/B) | [GNU C++17](./codeforces/1841/B.cpp) | `implementation` `*1000` | Jun/12/2023 21:01 | 
+1094 | [B - Keep it Beautiful](https://codeforces.com/contest/1841/problem/B) | [GNU C++17](./codeforces/1841/B.cpp) | `implementation` `*1000` | Jun/12/2023 21:01 | 
+1093 | [A - Game with Board](https://codeforces.com/contest/1841/problem/A) | [GNU C++17](./codeforces/1841/A.cpp) | `constructive algorithms` `games` `*800` | Jun/12/2023 20:43 | 
 1092 | [D - Two Divisors](https://codeforces.com/contest/1366/problem/D) | [GNU C++17](./codeforces/1366/D.cpp) | `constructive algorithms` `math` `number theory` `*2000` | Jun/11/2023 18:12 | 
 1091 | [C - Snuke the Cookie Picker](https://atcoder.jp/contests/abc305/tasks/abc305_c) | [C++ (GCC 9.2.1)](./atcoder/abc305/C.cpp) | `AtCoder` `*300` | Jun/10/2023 18:18 | 
 1090 | [B - ABCDEFG](https://atcoder.jp/contests/abc305/tasks/abc305_b) | [C++ (GCC 9.2.1)](./atcoder/abc305/B.cpp) | `AtCoder` `*200` | Jun/10/2023 18:09 | 
