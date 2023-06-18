@@ -13444,6 +13444,25 @@
     ],
     "timestamp": "Jun/12/2023 21:01"
   },
+  "CF210067249": {
+    "contest_id": 1834,
+    "language": "GNU C++17",
+    "path": "codeforces\\1834\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game with Reversing",
+    "problem_url": "https://codeforces.com/contest/1834/problem/C",
+    "submission_id": "CF210067249",
+    "submission_url": "https://codeforces.com/contest/1834/submission/210067249",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jun/18/2023 15:19"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
