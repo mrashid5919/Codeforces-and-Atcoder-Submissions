@@ -13497,6 +13497,23 @@
     ],
     "timestamp": "Jun/18/2023 15:19"
   },
+  "CF210876214": {
+    "contest_id": 1842,
+    "language": "GNU C++17",
+    "path": "codeforces\\1842\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tenzing and Tsondu",
+    "problem_url": "https://codeforces.com/contest/1842/problem/A",
+    "submission_id": "CF210876214",
+    "submission_url": "https://codeforces.com/contest/1842/submission/210876214",
+    "tags": [
+      "games",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/24/2023 20:09"
+  },
   "CF210891709": {
     "contest_id": 1842,
     "language": "GNU C++17",
