@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1098 | [B - Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | [GNU C++17](./codeforces/1842/B.cpp) | `bitmasks` `greedy` `math` `*1100` | Jun/24/2023 20:27 | 
 1097 | [C - Game with Reversing](https://codeforces.com/contest/1834/problem/C) | [GNU C++17](./codeforces/1834/C.cpp) | `games` `greedy` `math` `strings` `*1200` | Jun/18/2023 15:19 | 
 1096 | [B - Maximum Strength](https://codeforces.com/contest/1834/problem/B) | [GNU C++17](./codeforces/1834/B.cpp) | `greedy` `math` `*1000` | Jun/18/2023 14:47 | 
 1095 | [A - Unit Array](https://codeforces.com/contest/1834/problem/A) | [GNU C++17](./codeforces/1834/A.cpp) | `greedy` `math` `*800` | Jun/18/2023 14:15 | 
