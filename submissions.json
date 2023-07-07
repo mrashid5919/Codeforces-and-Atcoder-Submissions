@@ -13564,6 +13564,23 @@
     ],
     "timestamp": "Jun/24/2023 20:27"
   },
+  "CF212577252": {
+    "contest_id": 1846,
+    "language": "GNU C++17",
+    "path": "codeforces\\1846\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rudolph and Cut the Rope ",
+    "problem_url": "https://codeforces.com/contest/1846/problem/A",
+    "submission_id": "CF212577252",
+    "submission_url": "https://codeforces.com/contest/1846/submission/212577252",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/07/2023 20:43"
+  },
   "CF212588547": {
     "contest_id": 1846,
     "language": "GNU C++17",
