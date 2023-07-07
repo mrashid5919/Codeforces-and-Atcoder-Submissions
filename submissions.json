@@ -13564,6 +13564,26 @@
     ],
     "timestamp": "Jun/24/2023 20:27"
   },
+  "CF212609517": {
+    "contest_id": 1846,
+    "language": "GNU C++17",
+    "path": "codeforces\\1846\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Rudolf and the Another Competition",
+    "problem_url": "https://codeforces.com/contest/1846/problem/C",
+    "submission_id": "CF212609517",
+    "submission_url": "https://codeforces.com/contest/1846/submission/212609517",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jul/07/2023 21:10"
+  },
   "CF212651549": {
     "contest_id": 1846,
     "language": "GNU C++17",
