@@ -13706,6 +13706,23 @@
     ],
     "timestamp": "Jul/07/2023 22:19"
   },
+  "CF214435976": {
+    "contest_id": 1848,
+    "language": "GNU C++17",
+    "path": "codeforces\\1848\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vika and Her Friends",
+    "problem_url": "https://codeforces.com/contest/1848/problem/A",
+    "submission_id": "CF214435976",
+    "submission_url": "https://codeforces.com/contest/1848/submission/214435976",
+    "tags": [
+      "games",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/19/2023 11:24"
+  },
   "CF214894980": {
     "contest_id": 1850,
     "language": "GNU C++17",
