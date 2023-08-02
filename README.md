@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1114 | [C - Berry Jam](https://codeforces.com/contest/1278/problem/C) | [GNU C++17](./codeforces/1278/C.cpp) | `data structures` `dp` `greedy` `implementation` `*1700` | Aug/12/2023 20:02 | 
-1113 | [D - Strong Vertices](https://codeforces.com/contest/1857/problem/D) | [GNU C++17](./codeforces/1857/D.cpp) | `math` `sortings` `trees` `*1300` | Aug/07/2023 22:26 | 
-1112 | [C - Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | [GNU C++17](./codeforces/1857/C.cpp) | `greedy` `sortings` `*1200` | Aug/07/2023 21:55 | 
-1111 | [B - Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | [GNU C++17](./codeforces/1857/B.cpp) | `greedy` `implementation` `math` `*1100` | Aug/07/2023 21:17 | 
-1110 | [A - Array Coloring](https://codeforces.com/contest/1857/problem/A) | [GNU C++17](./codeforces/1857/A.cpp) | `greedy` `math` `*800` | Aug/07/2023 20:44 | 
-1109 | [C - Christmas Eve](https://atcoder.jp/contests/abc115/tasks/abc115_c) | [C++ (GCC 9.2.1)](./atcoder/abc115/C.cpp) | `AtCoder` `*300` | Aug/02/2023 22:03 | 
-1108 | [C - Balanced Team](https://codeforces.com/contest/1133/problem/C) | [GNU C++17](./codeforces/1133/C.cpp) | `sortings` `two pointers` `*1200` | Aug/02/2023 22:03 | 
+1115 | [C - Berry Jam](https://codeforces.com/contest/1278/problem/C) | [GNU C++17](./codeforces/1278/C.cpp) | `data structures` `dp` `greedy` `implementation` `*1700` | Aug/12/2023 20:02 | 
+1114 | [D - Strong Vertices](https://codeforces.com/contest/1857/problem/D) | [GNU C++17](./codeforces/1857/D.cpp) | `math` `sortings` `trees` `*1300` | Aug/07/2023 22:26 | 
+1113 | [C - Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | [GNU C++17](./codeforces/1857/C.cpp) | `greedy` `sortings` `*1200` | Aug/07/2023 21:55 | 
+1112 | [B - Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | [GNU C++17](./codeforces/1857/B.cpp) | `greedy` `implementation` `math` `*1100` | Aug/07/2023 21:17 | 
+1111 | [A - Array Coloring](https://codeforces.com/contest/1857/problem/A) | [GNU C++17](./codeforces/1857/A.cpp) | `greedy` `math` `*800` | Aug/07/2023 20:44 | 
+1110 | [C - Christmas Eve](https://atcoder.jp/contests/abc115/tasks/abc115_c) | [C++ (GCC 9.2.1)](./atcoder/abc115/C.cpp) | `AtCoder` `*300` | Aug/02/2023 22:03 | 
+1109 | [C - Balanced Team](https://codeforces.com/contest/1133/problem/C) | [GNU C++17](./codeforces/1133/C.cpp) | `sortings` `two pointers` `*1200` | Aug/02/2023 22:03 | 
+1108 | [A - Ntarsis' Set](https://codeforces.com/contest/1852/problem/A) | [GNU C++17](./codeforces/1852/A.cpp) | `binary search` `math` `number theory` `*1800` | Aug/02/2023 16:44 | 
 1107 | [C - Tour](https://atcoder.jp/contests/abc204/tasks/abc204_c) | [C++ (GCC 9.2.1)](./atcoder/abc204/C.cpp) | `AtCoder` `*300` | Jul/13/2023 22:03 | 
 1106 | [E1 - Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | [GNU C++17](./codeforces/1846/E1.cpp) | `brute force` `implementation` `math` `*1300` | Jul/07/2023 22:19 | 
 1105 | [D - Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | [GNU C++17](./codeforces/1846/D.cpp) | `constructive algorithms` `geometry` `math` `*1200` | Jul/07/2023 21:55 | 

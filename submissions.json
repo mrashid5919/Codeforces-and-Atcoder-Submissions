@@ -13706,6 +13706,24 @@
     ],
     "timestamp": "Jul/07/2023 22:19"
   },
+  "CF216833576": {
+    "contest_id": 1852,
+    "language": "GNU C++17",
+    "path": "codeforces\\1852\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ntarsis' Set",
+    "problem_url": "https://codeforces.com/contest/1852/problem/A",
+    "submission_id": "CF216833576",
+    "submission_url": "https://codeforces.com/contest/1852/submission/216833576",
+    "tags": [
+      "binary search",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Aug/02/2023 16:44"
+  },
   "CF216874387": {
     "contest_id": 1133,
     "language": "GNU C++17",
