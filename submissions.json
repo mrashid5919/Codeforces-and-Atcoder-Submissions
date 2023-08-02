@@ -4207,6 +4207,22 @@
     ],
     "timestamp": "Jul/13/2023 22:03"
   },
+  "AC44191025": {
+    "contest_id": "abc115",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc115\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Christmas Eve",
+    "problem_url": "https://atcoder.jp/contests/abc115/tasks/abc115_c",
+    "submission_id": "AC44191025",
+    "submission_url": "https://atcoder.jp/contests/abc115/submissions/44191025",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/02/2023 22:03"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
