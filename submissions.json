@@ -14066,6 +14066,25 @@
     ],
     "timestamp": "Aug/12/2023 20:02"
   },
+  "CF220164240": {
+    "contest_id": 1862,
+    "language": "GNU C++17",
+    "path": "codeforces\\1862\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gift Carpet",
+    "problem_url": "https://codeforces.com/contest/1862/problem/A",
+    "submission_id": "CF220164240",
+    "submission_url": "https://codeforces.com/contest/1862/submission/220164240",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/24/2023 20:40"
+  },
   "CF220171220": {
     "contest_id": 1862,
     "language": "GNU C++17",
