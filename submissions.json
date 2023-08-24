@@ -14066,6 +14066,22 @@
     ],
     "timestamp": "Aug/12/2023 20:02"
   },
+  "CF220171220": {
+    "contest_id": 1862,
+    "language": "GNU C++17",
+    "path": "codeforces\\1862\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sequence Game",
+    "problem_url": "https://codeforces.com/contest/1862/problem/B",
+    "submission_id": "CF220171220",
+    "submission_url": "https://codeforces.com/contest/1862/submission/220171220",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Aug/24/2023 20:45"
+  },
   "CF220210980": {
     "contest_id": 1862,
     "language": "GNU C++17",
