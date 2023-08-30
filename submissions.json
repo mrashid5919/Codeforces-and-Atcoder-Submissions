@@ -14066,6 +14066,23 @@
     ],
     "timestamp": "Aug/12/2023 20:02"
   },
+  "CF221153281": {
+    "contest_id": 1863,
+    "language": "GNU C++17",
+    "path": "codeforces\\1863\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "MEX Repetition",
+    "problem_url": "https://codeforces.com/contest/1863/problem/C",
+    "submission_id": "CF221153281",
+    "submission_url": "https://codeforces.com/contest/1863/submission/221153281",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Aug/30/2023 22:13"
+  },
   "CF221281870": {
     "contest_id": 1861,
     "language": "GNU C++17",
