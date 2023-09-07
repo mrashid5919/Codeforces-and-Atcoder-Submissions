@@ -14066,6 +14066,23 @@
     ],
     "timestamp": "Aug/12/2023 20:02"
   },
+  "CF222255324": {
+    "contest_id": 1872,
+    "language": "GNU C++17",
+    "path": "codeforces\\1872\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Non-coprime Split",
+    "problem_url": "https://codeforces.com/contest/1872/problem/C",
+    "submission_id": "CF222255324",
+    "submission_url": "https://codeforces.com/contest/1872/submission/222255324",
+    "tags": [
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Sep/07/2023 21:05"
+  },
   "CF222276542": {
     "contest_id": 1872,
     "language": "GNU C++17",
