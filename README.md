@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1125 | [C - Traveling Plan](https://atcoder.jp/contests/abc092/tasks/arc093_a) | [C++ 17 (gcc 12.2)](./atcoder/abc092/C.cpp) | `AtCoder` `*300` | Sep/14/2023 23:27 | 
 1124 | [C - Prison](https://atcoder.jp/contests/abc127/tasks/abc127_c) | [C++ 17 (gcc 12.2)](./atcoder/abc127/C.cpp) | `AtCoder` `*300` | Sep/14/2023 19:55 | 
 1123 | [C - Berry Jam](https://codeforces.com/contest/1278/problem/C) | [GNU C++17](./codeforces/1278/C.cpp) | `data structures` `dp` `greedy` `implementation` `*1700` | Aug/12/2023 20:02 | 
 1122 | [D - Strong Vertices](https://codeforces.com/contest/1857/problem/D) | [GNU C++17](./codeforces/1857/D.cpp) | `math` `sortings` `trees` `*1300` | Aug/07/2023 22:26 | 
