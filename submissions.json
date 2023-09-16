@@ -4255,6 +4255,22 @@
     ],
     "timestamp": "Sep/14/2023 23:27"
   },
+  "AC45611189": {
+    "contest_id": "abc320",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc320\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Slot Strategy 2 (Easy)",
+    "problem_url": "https://atcoder.jp/contests/abc320/tasks/abc320_c",
+    "submission_id": "AC45611189",
+    "submission_url": "https://atcoder.jp/contests/abc320/submissions/45611189",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/16/2023 18:31"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
