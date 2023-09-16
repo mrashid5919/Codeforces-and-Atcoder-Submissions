@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1127 | [C - Slot Strategy 2 (Easy)](https://atcoder.jp/contests/abc320/tasks/abc320_c) | [C++ 17 (gcc 12.2)](./atcoder/abc320/C.cpp) | `AtCoder` `*300` | Sep/16/2023 18:31 | 
-1126 | [B - Longest Palindrome](https://atcoder.jp/contests/abc320/tasks/abc320_b) | [C++ 17 (gcc 12.2)](./atcoder/abc320/B.cpp) | `AtCoder` `*200` | Sep/16/2023 18:08 | 
+1128 | [C - Slot Strategy 2 (Easy)](https://atcoder.jp/contests/abc320/tasks/abc320_c) | [C++ 17 (gcc 12.2)](./atcoder/abc320/C.cpp) | `AtCoder` `*300` | Sep/16/2023 18:31 | 
+1127 | [B - Longest Palindrome](https://atcoder.jp/contests/abc320/tasks/abc320_b) | [C++ 17 (gcc 12.2)](./atcoder/abc320/B.cpp) | `AtCoder` `*200` | Sep/16/2023 18:08 | 
+1126 | [A - Leyland Number](https://atcoder.jp/contests/abc320/tasks/abc320_a) | [C++ 17 (gcc 12.2)](./atcoder/abc320/A.cpp) | `AtCoder` `*100` | Sep/16/2023 18:01 | 
 1125 | [C - Traveling Plan](https://atcoder.jp/contests/abc092/tasks/arc093_a) | [C++ 17 (gcc 12.2)](./atcoder/abc092/C.cpp) | `AtCoder` `*300` | Sep/14/2023 23:27 | 
 1124 | [C - Prison](https://atcoder.jp/contests/abc127/tasks/abc127_c) | [C++ 17 (gcc 12.2)](./atcoder/abc127/C.cpp) | `AtCoder` `*300` | Sep/14/2023 19:55 | 
 1123 | [C - Berry Jam](https://codeforces.com/contest/1278/problem/C) | [GNU C++17](./codeforces/1278/C.cpp) | `data structures` `dp` `greedy` `implementation` `*1700` | Aug/12/2023 20:02 | 
