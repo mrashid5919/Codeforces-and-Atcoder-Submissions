@@ -4303,6 +4303,22 @@
     ],
     "timestamp": "Sep/16/2023 18:31"
   },
+  "AC45689150": {
+    "contest_id": "abc320",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc320\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Relative Position",
+    "problem_url": "https://atcoder.jp/contests/abc320/tasks/abc320_d",
+    "submission_id": "AC45689150",
+    "submission_url": "https://atcoder.jp/contests/abc320/submissions/45689150",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/17/2023 22:37"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
