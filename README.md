@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1130 | [C - Make it Alternating](https://codeforces.com/contest/1879/problem/C) | [GNU C++17](./codeforces/1879/C.cpp) | `combinatorics` `dp` `greedy` `*1300` | Sep/24/2023 21:21 | 
+1131 | [C - Make it Alternating](https://codeforces.com/contest/1879/problem/C) | [GNU C++17](./codeforces/1879/C.cpp) | `combinatorics` `dp` `greedy` `*1300` | Sep/24/2023 21:21 | 
+1130 | [B - Chips on the Board](https://codeforces.com/contest/1879/problem/B) | [GNU C++17](./codeforces/1879/B.cpp) | `constructive algorithms` `greedy` `*900` | Sep/24/2023 20:50 | 
 1129 | [D - Relative Position](https://atcoder.jp/contests/abc320/tasks/abc320_d) | [C++ 17 (gcc 12.2)](./atcoder/abc320/D.cpp) | `AtCoder` `*400` | Sep/17/2023 22:37 | 
 1128 | [C - Slot Strategy 2 (Easy)](https://atcoder.jp/contests/abc320/tasks/abc320_c) | [C++ 17 (gcc 12.2)](./atcoder/abc320/C.cpp) | `AtCoder` `*300` | Sep/16/2023 18:31 | 
 1127 | [B - Longest Palindrome](https://atcoder.jp/contests/abc320/tasks/abc320_b) | [C++ 17 (gcc 12.2)](./atcoder/abc320/B.cpp) | `AtCoder` `*200` | Sep/16/2023 18:08 | 
