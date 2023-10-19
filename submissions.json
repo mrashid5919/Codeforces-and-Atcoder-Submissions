@@ -4335,6 +4335,22 @@
     ],
     "timestamp": "Oct/05/2023 22:37"
   },
+  "AC46747427": {
+    "contest_id": "abc167",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc167\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Teleporter",
+    "problem_url": "https://atcoder.jp/contests/abc167/tasks/abc167_d",
+    "submission_id": "AC46747427",
+    "submission_url": "https://atcoder.jp/contests/abc167/submissions/46747427",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/19/2023 22:11"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
