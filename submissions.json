@@ -14758,6 +14758,24 @@
     ],
     "timestamp": "Sep/24/2023 21:21"
   },
+  "CF228946235": {
+    "contest_id": 1140,
+    "language": "GNU C++17",
+    "path": "codeforces\\1140\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Playlist",
+    "problem_url": "https://codeforces.com/contest/1140/problem/C",
+    "submission_id": "CF228946235",
+    "submission_url": "https://codeforces.com/contest/1140/submission/228946235",
+    "tags": [
+      "brute force",
+      "data structures",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Oct/20/2023 21:32"
+  },
   "CF229071601": {
     "contest_id": 1670,
     "language": "GNU C++17",
