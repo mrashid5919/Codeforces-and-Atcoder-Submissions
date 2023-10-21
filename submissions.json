@@ -4351,6 +4351,22 @@
     ],
     "timestamp": "Oct/19/2023 22:11"
   },
+  "AC46818409": {
+    "contest_id": "abc325",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc325\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sensors",
+    "problem_url": "https://atcoder.jp/contests/abc325/tasks/abc325_c",
+    "submission_id": "AC46818409",
+    "submission_url": "https://atcoder.jp/contests/abc325/submissions/46818409",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/21/2023 18:56"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
