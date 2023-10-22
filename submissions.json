@@ -14758,6 +14758,25 @@
     ],
     "timestamp": "Sep/24/2023 21:21"
   },
+  "CF229160988": {
+    "contest_id": 1884,
+    "language": "GNU C++17",
+    "path": "codeforces\\1884\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Haunted House",
+    "problem_url": "https://codeforces.com/contest/1884/problem/B",
+    "submission_id": "CF229160988",
+    "submission_url": "https://codeforces.com/contest/1884/submission/229160988",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Oct/22/2023 13:33"
+  },
   "CF229208887": {
     "contest_id": 1883,
     "language": "GNU C++17",
