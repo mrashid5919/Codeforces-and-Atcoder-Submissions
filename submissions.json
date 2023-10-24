@@ -4399,6 +4399,22 @@
     ],
     "timestamp": "Oct/21/2023 18:56"
   },
+  "AC46907307": {
+    "contest_id": "abc167",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc167\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Easy Linear Programming",
+    "problem_url": "https://atcoder.jp/contests/abc167/tasks/abc167_b",
+    "submission_id": "AC46907307",
+    "submission_url": "https://atcoder.jp/contests/abc167/submissions/46907307",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/24/2023 20:43"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
