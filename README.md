@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1168 | [B - Number Box](https://atcoder.jp/contests/abc258/tasks/abc258_b) | [C++ 17 (gcc 12.2)](./atcoder/abc258/B.cpp) | `AtCoder` `*200` | Oct/25/2023 12:48 | 
 1167 | [B - Easy Linear Programming](https://atcoder.jp/contests/abc167/tasks/abc167_b) | [C++ 17 (gcc 12.2)](./atcoder/abc167/B.cpp) | `AtCoder` `*200` | Oct/24/2023 20:43 | 
 1166 | [C - Sensors](https://atcoder.jp/contests/abc325/tasks/abc325_c) | [C++ 17 (gcc 12.2)](./atcoder/abc325/C.cpp) | `AtCoder` `*300` | Oct/21/2023 18:56 | 
 1165 | [B - World Meeting](https://atcoder.jp/contests/abc325/tasks/abc325_b) | [C++ 17 (gcc 12.2)](./atcoder/abc325/B.cpp) | `AtCoder` `*250` | Oct/21/2023 18:07 | 

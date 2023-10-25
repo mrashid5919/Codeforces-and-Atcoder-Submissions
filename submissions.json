@@ -4415,6 +4415,22 @@
     ],
     "timestamp": "Oct/24/2023 20:43"
   },
+  "AC46917574": {
+    "contest_id": "abc258",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc258\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Number Box",
+    "problem_url": "https://atcoder.jp/contests/abc258/tasks/abc258_b",
+    "submission_id": "AC46917574",
+    "submission_url": "https://atcoder.jp/contests/abc258/submissions/46917574",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/25/2023 12:48"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
