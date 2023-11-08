@@ -14758,6 +14758,25 @@
     ],
     "timestamp": "Sep/24/2023 21:21"
   },
+  "CF231907539": {
+    "contest_id": 1894,
+    "language": "GNU C++17",
+    "path": "codeforces\\1894\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Neutral Tonality",
+    "problem_url": "https://codeforces.com/contest/1894/problem/D",
+    "submission_id": "CF231907539",
+    "submission_url": "https://codeforces.com/contest/1894/submission/231907539",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Nov/08/2023 14:44"
+  },
   "CF232038561": {
     "contest_id": 1336,
     "language": "GNU C++17",
