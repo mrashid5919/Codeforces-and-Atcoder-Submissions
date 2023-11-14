@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1221 | [C - Circle of Monsters](https://codeforces.com/contest/1334/problem/C) | [GNU C++17](./codeforces/1334/C.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*1600` | Nov/14/2023 12:03 | 
 1220 | [A - Simple Math](https://atcoder.jp/contests/arc107/tasks/arc107_a) | [C++ 17 (gcc 12.2)](./atcoder/arc107/A.cpp) | `AtCoder` `*300` | Nov/13/2023 21:15 | 
 1219 | [C - Round Corridor](https://codeforces.com/contest/1200/problem/C) | [GNU C++17](./codeforces/1200/C.cpp) | `math` `number theory` `*1400` | Nov/13/2023 18:40 | 
 1218 | [C - Enlarge GCD](https://codeforces.com/contest/1047/problem/C) | [GNU C++17](./codeforces/1047/C.cpp) | `number theory` `*1800` | Nov/12/2023 21:44 | 
