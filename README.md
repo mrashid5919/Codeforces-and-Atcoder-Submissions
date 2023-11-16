@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1223 | [A - Maze](https://codeforces.com/contest/377/problem/A) | [GNU C++17](./codeforces/377/A.cpp) | `dfs and similar` `*1600` | Nov/16/2023 13:33 | 
 1222 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [GNU C++17](./codeforces/977/F.cpp) | `dp` `*1700` | Nov/15/2023 19:32 | 
 1221 | [C - Circle of Monsters](https://codeforces.com/contest/1334/problem/C) | [GNU C++17](./codeforces/1334/C.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*1600` | Nov/14/2023 12:03 | 
 1220 | [A - Simple Math](https://atcoder.jp/contests/arc107/tasks/arc107_a) | [C++ 17 (gcc 12.2)](./atcoder/arc107/A.cpp) | `AtCoder` `*300` | Nov/13/2023 21:15 | 
