@@ -15802,6 +15802,24 @@
     ],
     "timestamp": "Nov/17/2023 14:11"
   },
+  "CF233148595": {
+    "contest_id": 1899,
+    "language": "GNU C++17",
+    "path": "codeforces\\1899\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yarik and Array",
+    "problem_url": "https://codeforces.com/contest/1899/problem/C",
+    "submission_id": "CF233148595",
+    "submission_url": "https://codeforces.com/contest/1899/submission/233148595",
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Nov/17/2023 21:35"
+  },
   "CF233166199": {
     "contest_id": 1899,
     "language": "GNU C++17",
