@@ -15802,6 +15802,24 @@
     ],
     "timestamp": "Nov/17/2023 14:11"
   },
+  "CF233166199": {
+    "contest_id": 1899,
+    "language": "GNU C++17",
+    "path": "codeforces\\1899\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yarik and Musical Notes",
+    "problem_url": "https://codeforces.com/contest/1899/problem/D",
+    "submission_id": "CF233166199",
+    "submission_url": "https://codeforces.com/contest/1899/submission/233166199",
+    "tags": [
+      "hashing",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Nov/17/2023 22:01"
+  },
   "CF233174577": {
     "contest_id": 1899,
     "language": "GNU C++17",
