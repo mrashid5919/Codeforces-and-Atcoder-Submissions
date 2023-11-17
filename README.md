@@ -13,17 +13,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1235 | [A - Multiples of Length](https://codeforces.com/contest/1396/problem/A) | [GNU C++17](./codeforces/1396/A.cpp) | `constructive algorithms` `greedy` `number theory` `*1600` | Nov/22/2023 14:26 | 
-1234 | [D - Another Problem About Dividing Numbers](https://codeforces.com/contest/1538/problem/D) | [GNU C++17](./codeforces/1538/D.cpp) | `constructive algorithms` `math` `number theory` `*1700` | Nov/21/2023 19:31 | 
-1233 | [A - Perfect Pair](https://codeforces.com/contest/317/problem/A) | [GNU C++17](./codeforces/317/A.cpp) | `brute force` `*1600` | Nov/20/2023 22:57 | 
-1232 | [A - Distance](https://codeforces.com/contest/1612/problem/A) | [GNU C++17](./codeforces/1612/A.cpp) | `brute force` `constructive algorithms` `*800` | Nov/20/2023 22:10 | 
-1231 | [B - Milena and Admirer](https://codeforces.com/contest/1898/problem/B) | [GNU C++17](./codeforces/1898/B.cpp) | `greedy` `math` `*1500` | Nov/19/2023 21:33 | 
-1230 | [A - Milica and String](https://codeforces.com/contest/1898/problem/A) | [GNU C++17](./codeforces/1898/A.cpp) | `brute force` `implementation` `strings` `*800` | Nov/19/2023 20:41 | 
-1229 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 17 (gcc 12.2)](./atcoder/abc329/D.cpp) | `AtCoder` `*350` | Nov/18/2023 18:15 | 
-1228 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [C++ 17 (gcc 12.2)](./atcoder/abc329/C.cpp) | `AtCoder` `*300` | Nov/18/2023 18:09 | 
-1227 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 17 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Nov/18/2023 18:03 | 
-1226 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 17 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Nov/18/2023 18:01 | 
-1225 | [C - Beautiful Numbers](https://codeforces.com/contest/300/problem/C) | [GNU C++17](./codeforces/300/C.cpp) | `brute force` `combinatorics` `*1800` | Nov/18/2023 12:52 | 
+1236 | [A - Multiples of Length](https://codeforces.com/contest/1396/problem/A) | [GNU C++17](./codeforces/1396/A.cpp) | `constructive algorithms` `greedy` `number theory` `*1600` | Nov/22/2023 14:26 | 
+1235 | [D - Another Problem About Dividing Numbers](https://codeforces.com/contest/1538/problem/D) | [GNU C++17](./codeforces/1538/D.cpp) | `constructive algorithms` `math` `number theory` `*1700` | Nov/21/2023 19:31 | 
+1234 | [A - Perfect Pair](https://codeforces.com/contest/317/problem/A) | [GNU C++17](./codeforces/317/A.cpp) | `brute force` `*1600` | Nov/20/2023 22:57 | 
+1233 | [A - Distance](https://codeforces.com/contest/1612/problem/A) | [GNU C++17](./codeforces/1612/A.cpp) | `brute force` `constructive algorithms` `*800` | Nov/20/2023 22:10 | 
+1232 | [B - Milena and Admirer](https://codeforces.com/contest/1898/problem/B) | [GNU C++17](./codeforces/1898/B.cpp) | `greedy` `math` `*1500` | Nov/19/2023 21:33 | 
+1231 | [A - Milica and String](https://codeforces.com/contest/1898/problem/A) | [GNU C++17](./codeforces/1898/A.cpp) | `brute force` `implementation` `strings` `*800` | Nov/19/2023 20:41 | 
+1230 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 17 (gcc 12.2)](./atcoder/abc329/D.cpp) | `AtCoder` `*350` | Nov/18/2023 18:15 | 
+1229 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [C++ 17 (gcc 12.2)](./atcoder/abc329/C.cpp) | `AtCoder` `*300` | Nov/18/2023 18:09 | 
+1228 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 17 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Nov/18/2023 18:03 | 
+1227 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 17 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Nov/18/2023 18:01 | 
+1226 | [C - Beautiful Numbers](https://codeforces.com/contest/300/problem/C) | [GNU C++17](./codeforces/300/C.cpp) | `brute force` `combinatorics` `*1800` | Nov/18/2023 12:52 | 
+1225 | [F - Alex's whims](https://codeforces.com/contest/1899/problem/F) | [GNU C++17](./codeforces/1899/F.cpp) | `constructive algorithms` `graphs` `greedy` `shortest paths` `trees` `*1600` | Nov/17/2023 22:48 | 
 1224 | [D - Carousel](https://codeforces.com/contest/1328/problem/D) | [GNU C++17](./codeforces/1328/D.cpp) | `constructive algorithms` `dp` `graphs` `greedy` `math` `*1800` | Nov/17/2023 14:11 | 
 1223 | [A - Maze](https://codeforces.com/contest/377/problem/A) | [GNU C++17](./codeforces/377/A.cpp) | `dfs and similar` `*1600` | Nov/16/2023 13:33 | 
 1222 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [GNU C++17](./codeforces/977/F.cpp) | `dp` `*1700` | Nov/15/2023 19:32 | 

@@ -15802,6 +15802,26 @@
     ],
     "timestamp": "Nov/17/2023 14:11"
   },
+  "CF233194325": {
+    "contest_id": 1899,
+    "language": "GNU C++17",
+    "path": "codeforces\\1899\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Alex's whims",
+    "problem_url": "https://codeforces.com/contest/1899/problem/F",
+    "submission_id": "CF233194325",
+    "submission_url": "https://codeforces.com/contest/1899/submission/233194325",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Nov/17/2023 22:48"
+  },
   "CF233255765": {
     "contest_id": 300,
     "language": "GNU C++17",
