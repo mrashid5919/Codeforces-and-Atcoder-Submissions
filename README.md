@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1227 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 17 (gcc 12.2)](./atcoder/abc329/D.cpp) | `AtCoder` `*350` | Nov/18/2023 18:15 | 
-1226 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [C++ 17 (gcc 12.2)](./atcoder/abc329/C.cpp) | `AtCoder` `*300` | Nov/18/2023 18:09 | 
-1225 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 17 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Nov/18/2023 18:03 | 
+1228 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 17 (gcc 12.2)](./atcoder/abc329/D.cpp) | `AtCoder` `*350` | Nov/18/2023 18:15 | 
+1227 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [C++ 17 (gcc 12.2)](./atcoder/abc329/C.cpp) | `AtCoder` `*300` | Nov/18/2023 18:09 | 
+1226 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 17 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Nov/18/2023 18:03 | 
+1225 | [A - Spread](https://atcoder.jp/contests/abc329/tasks/abc329_a) | [C++ 17 (gcc 12.2)](./atcoder/abc329/A.cpp) | `AtCoder` `*100` | Nov/18/2023 18:01 | 
 1224 | [D - Carousel](https://codeforces.com/contest/1328/problem/D) | [GNU C++17](./codeforces/1328/D.cpp) | `constructive algorithms` `dp` `graphs` `greedy` `math` `*1800` | Nov/17/2023 14:11 | 
 1223 | [A - Maze](https://codeforces.com/contest/377/problem/A) | [GNU C++17](./codeforces/377/A.cpp) | `dfs and similar` `*1600` | Nov/16/2023 13:33 | 
 1222 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [GNU C++17](./codeforces/977/F.cpp) | `dp` `*1700` | Nov/15/2023 19:32 | 
