@@ -15802,6 +15802,24 @@
     ],
     "timestamp": "Nov/17/2023 14:11"
   },
+  "CF233431744": {
+    "contest_id": 1898,
+    "language": "GNU C++17",
+    "path": "codeforces\\1898\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Milica and String",
+    "problem_url": "https://codeforces.com/contest/1898/problem/A",
+    "submission_id": "CF233431744",
+    "submission_url": "https://codeforces.com/contest/1898/submission/233431744",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2023 20:41"
+  },
   "CF233453267": {
     "contest_id": 1898,
     "language": "GNU C++17",
