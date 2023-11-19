@@ -15802,6 +15802,23 @@
     ],
     "timestamp": "Nov/17/2023 14:11"
   },
+  "CF233453267": {
+    "contest_id": 1898,
+    "language": "GNU C++17",
+    "path": "codeforces\\1898\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Milena and Admirer",
+    "problem_url": "https://codeforces.com/contest/1898/problem/B",
+    "submission_id": "CF233453267",
+    "submission_url": "https://codeforces.com/contest/1898/submission/233453267",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Nov/19/2023 21:33"
+  },
   "CF233592612": {
     "contest_id": 1612,
     "language": "GNU C++17",
