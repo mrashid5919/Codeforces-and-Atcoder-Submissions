@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1229 | [A - Multiples of Length](https://codeforces.com/contest/1396/problem/A) | [GNU C++17](./codeforces/1396/A.cpp) | `constructive algorithms` `greedy` `number theory` `*1600` | Nov/22/2023 14:26 | 
 1228 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 17 (gcc 12.2)](./atcoder/abc329/D.cpp) | `AtCoder` `*350` | Nov/18/2023 18:15 | 
 1227 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [C++ 17 (gcc 12.2)](./atcoder/abc329/C.cpp) | `AtCoder` `*300` | Nov/18/2023 18:09 | 
 1226 | [B - Next](https://atcoder.jp/contests/abc329/tasks/abc329_b) | [C++ 17 (gcc 12.2)](./atcoder/abc329/B.cpp) | `AtCoder` `*200` | Nov/18/2023 18:03 | 
