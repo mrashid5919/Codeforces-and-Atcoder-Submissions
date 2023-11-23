@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1243 | [B - Mister B and Angle in Polygon](https://codeforces.com/contest/820/problem/B) | [GNU C++17](./codeforces/820/B.cpp) | `constructive algorithms` `geometry` `math` `*1300` | Nov/23/2023 14:05 | 
-1242 | [B - Okabe and Banana Trees](https://codeforces.com/contest/821/problem/B) | [GNU C++17](./codeforces/821/B.cpp) | `brute force` `math` `*1300` | Nov/23/2023 14:04 | 
+1244 | [B - Mister B and Angle in Polygon](https://codeforces.com/contest/820/problem/B) | [GNU C++17](./codeforces/820/B.cpp) | `constructive algorithms` `geometry` `math` `*1300` | Nov/23/2023 14:05 | 
+1243 | [B - Okabe and Banana Trees](https://codeforces.com/contest/821/problem/B) | [GNU C++17](./codeforces/821/B.cpp) | `brute force` `math` `*1300` | Nov/23/2023 14:04 | 
+1242 | [A - Mike and palindrome](https://codeforces.com/contest/798/problem/A) | [GNU C++17](./codeforces/798/A.cpp) | `brute force` `constructive algorithms` `strings` `*1000` | Nov/23/2023 14:04 | 
 1241 | [A - Multiples of Length](https://codeforces.com/contest/1396/problem/A) | [GNU C++17](./codeforces/1396/A.cpp) | `constructive algorithms` `greedy` `number theory` `*1600` | Nov/22/2023 14:26 | 
 1240 | [D - Another Problem About Dividing Numbers](https://codeforces.com/contest/1538/problem/D) | [GNU C++17](./codeforces/1538/D.cpp) | `constructive algorithms` `math` `number theory` `*1700` | Nov/21/2023 19:31 | 
 1239 | [A - Perfect Pair](https://codeforces.com/contest/317/problem/A) | [GNU C++17](./codeforces/317/A.cpp) | `brute force` `*1600` | Nov/20/2023 22:57 | 
