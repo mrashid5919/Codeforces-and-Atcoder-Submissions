@@ -16150,6 +16150,22 @@
     ],
     "timestamp": "Nov/23/2023 14:05"
   },
+  "CF234265889": {
+    "contest_id": 1896,
+    "language": "GNU C++17",
+    "path": "codeforces\\1896\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Jagged Swaps",
+    "problem_url": "https://codeforces.com/contest/1896/problem/A",
+    "submission_id": "CF234265889",
+    "submission_url": "https://codeforces.com/contest/1896/submission/234265889",
+    "tags": [
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2023 21:16"
+  },
   "CF234278380": {
     "contest_id": 1896,
     "language": "GNU C++17",
