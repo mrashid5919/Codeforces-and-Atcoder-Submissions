@@ -16150,6 +16150,25 @@
     ],
     "timestamp": "Nov/23/2023 14:05"
   },
+  "CF234462628": {
+    "contest_id": 1900,
+    "language": "GNU C++17",
+    "path": "codeforces\\1900\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Anji's Binary Tree",
+    "problem_url": "https://codeforces.com/contest/1900/problem/C",
+    "submission_id": "CF234462628",
+    "submission_url": "https://codeforces.com/contest/1900/submission/234462628",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "shortest paths",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Nov/26/2023 21:32"
+  },
   "CF234616342": {
     "contest_id": 915,
     "language": "GNU C++17",
