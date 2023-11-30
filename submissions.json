@@ -16452,6 +16452,23 @@
     ],
     "timestamp": "Nov/29/2023 22:45"
   },
+  "CF235086171": {
+    "contest_id": 1903,
+    "language": "GNU C++17",
+    "path": "codeforces\\1903\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Halloumi Boxes",
+    "problem_url": "https://codeforces.com/contest/1903/problem/A",
+    "submission_id": "CF235086171",
+    "submission_url": "https://codeforces.com/contest/1903/submission/235086171",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2023 22:41"
+  },
   "CF235096430": {
     "contest_id": 1903,
     "language": "GNU C++17",
