@@ -16452,6 +16452,24 @@
     ],
     "timestamp": "Nov/29/2023 22:45"
   },
+  "CF235110278": {
+    "contest_id": 1903,
+    "language": "GNU C++17",
+    "path": "codeforces\\1903\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Theofanis' Nightmare",
+    "problem_url": "https://codeforces.com/contest/1903/problem/C",
+    "submission_id": "CF235110278",
+    "submission_url": "https://codeforces.com/contest/1903/submission/235110278",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Nov/30/2023 23:38"
+  },
   "CF235363217": {
     "contest_id": 733,
     "language": "GNU C++17",
