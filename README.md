@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1271 | [E - Set Meal](https://atcoder.jp/contests/abc331/tasks/abc331_e) | [C++ 17 (gcc 12.2)](./atcoder/abc331/E.cpp) | `AtCoder` `*450` | Dec/02/2023 19:58 | 
+1272 | [E - Set Meal](https://atcoder.jp/contests/abc331/tasks/abc331_e) | [C++ 17 (gcc 12.2)](./atcoder/abc331/E.cpp) | `AtCoder` `*450` | Dec/02/2023 19:58 | 
+1271 | [C - Sum of Numbers Greater Than Me](https://atcoder.jp/contests/abc331/tasks/abc331_c) | [C++ 17 (gcc 12.2)](./atcoder/abc331/C.cpp) | `AtCoder` `*300` | Dec/02/2023 18:19 | 
 1270 | [E - Advertising Agency](https://codeforces.com/contest/1475/problem/E) | [GNU C++17](./codeforces/1475/E.cpp) | `combinatorics` `math` `sortings` `*1600` | Dec/02/2023 16:29 | 
 1269 | [A - Grasshopper And the String](https://codeforces.com/contest/733/problem/A) | [GNU C++17](./codeforces/733/A.cpp) | `implementation` `*1000` | Dec/02/2023 16:05 | 
 1268 | [C - Theofanis' Nightmare](https://codeforces.com/contest/1903/problem/C) | [GNU C++17](./codeforces/1903/C.cpp) | `constructive algorithms` `dp` `greedy` `*1400` | Nov/30/2023 23:38 | 

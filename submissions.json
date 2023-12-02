@@ -4559,6 +4559,22 @@
     ],
     "timestamp": "Nov/23/2023 14:03"
   },
+  "AC48114879": {
+    "contest_id": "abc331",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc331\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sum of Numbers Greater Than Me",
+    "problem_url": "https://atcoder.jp/contests/abc331/tasks/abc331_c",
+    "submission_id": "AC48114879",
+    "submission_url": "https://atcoder.jp/contests/abc331/submissions/48114879",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/02/2023 18:19"
+  },
   "AC48147678": {
     "contest_id": "abc331",
     "language": "C++ 17 (gcc 12.2)",
