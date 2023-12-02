@@ -4559,6 +4559,22 @@
     ],
     "timestamp": "Nov/23/2023 14:03"
   },
+  "AC48147678": {
+    "contest_id": "abc331",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc331\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Set Meal",
+    "problem_url": "https://atcoder.jp/contests/abc331/tasks/abc331_e",
+    "submission_id": "AC48147678",
+    "submission_url": "https://atcoder.jp/contests/abc331/submissions/48147678",
+    "tags": [
+      "AtCoder",
+      "*450"
+    ],
+    "timestamp": "Dec/02/2023 19:58"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
