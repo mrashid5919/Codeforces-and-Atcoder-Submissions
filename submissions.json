@@ -16452,6 +16452,24 @@
     ],
     "timestamp": "Nov/29/2023 22:45"
   },
+  "CF235366218": {
+    "contest_id": 1475,
+    "language": "GNU C++17",
+    "path": "codeforces\\1475\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Advertising Agency",
+    "problem_url": "https://codeforces.com/contest/1475/problem/E",
+    "submission_id": "CF235366218",
+    "submission_url": "https://codeforces.com/contest/1475/submission/235366218",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Dec/02/2023 16:29"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
