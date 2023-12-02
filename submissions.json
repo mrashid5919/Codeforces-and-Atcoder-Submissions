@@ -4559,6 +4559,22 @@
     ],
     "timestamp": "Nov/23/2023 14:03"
   },
+  "AC48109633": {
+    "contest_id": "abc331",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc331\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Buy One Carton of Milk",
+    "problem_url": "https://atcoder.jp/contests/abc331/tasks/abc331_b",
+    "submission_id": "AC48109633",
+    "submission_url": "https://atcoder.jp/contests/abc331/submissions/48109633",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/02/2023 18:11"
+  },
   "AC48114879": {
     "contest_id": "abc331",
     "language": "C++ 17 (gcc 12.2)",
