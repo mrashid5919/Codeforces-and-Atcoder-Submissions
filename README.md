@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1276 | [A - Metro](https://codeforces.com/contest/1055/problem/A) | [GNU C++17](./codeforces/1055/A.cpp) | `graphs` `*900` | Dec/08/2023 22:22 | 
 1275 | [C - Insert and Equalize](https://codeforces.com/contest/1902/problem/C) | [GNU C++17](./codeforces/1902/C.cpp) | `brute force` `constructive algorithms` `greedy` `math` `number theory` `*1300` | Dec/03/2023 23:08 | 
 1274 | [E - Set Meal](https://atcoder.jp/contests/abc331/tasks/abc331_e) | [C++ 17 (gcc 12.2)](./atcoder/abc331/E.cpp) | `AtCoder` `*450` | Dec/02/2023 19:58 | 
 1273 | [C - Sum of Numbers Greater Than Me](https://atcoder.jp/contests/abc331/tasks/abc331_c) | [C++ 17 (gcc 12.2)](./atcoder/abc331/C.cpp) | `AtCoder` `*300` | Dec/02/2023 18:19 | 
