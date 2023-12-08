@@ -4623,6 +4623,22 @@
     ],
     "timestamp": "Dec/02/2023 19:58"
   },
+  "AC48279024": {
+    "contest_id": "agc002",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\agc002\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Box and Ball",
+    "problem_url": "https://atcoder.jp/contests/agc002/tasks/agc002_b",
+    "submission_id": "AC48279024",
+    "submission_url": "https://atcoder.jp/contests/agc002/submissions/48279024",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/08/2023 22:26"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
