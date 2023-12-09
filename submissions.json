@@ -16672,6 +16672,22 @@
     ],
     "timestamp": "Dec/08/2023 22:22"
   },
+  "CF236508642": {
+    "contest_id": 282,
+    "language": "GNU C++17",
+    "path": "codeforces\\282\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bit++",
+    "problem_url": "https://codeforces.com/contest/282/problem/A",
+    "submission_id": "CF236508642",
+    "submission_url": "https://codeforces.com/contest/282/submission/236508642",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/09/2023 19:59"
+  },
   "CF236508744": {
     "contest_id": 478,
     "language": "GNU C++17",
