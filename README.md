@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1281 | [D - Spider's Web](https://codeforces.com/contest/216/problem/D) | [GNU C++17](./codeforces/216/D.cpp) | `binary search` `sortings` `two pointers` `*1700` | Dec/09/2023 20:03 | 
-1280 | [B - Discounts](https://codeforces.com/contest/161/problem/B) | [GNU C++17](./codeforces/161/B.cpp) | `constructive algorithms` `greedy` `sortings` `*1700` | Dec/09/2023 20:02 | 
-1279 | [A - Trains](https://codeforces.com/contest/87/problem/A) | [GNU C++17](./codeforces/87/A.cpp) | `implementation` `math` `*1500` | Dec/09/2023 20:01 | 
+1282 | [D - Spider's Web](https://codeforces.com/contest/216/problem/D) | [GNU C++17](./codeforces/216/D.cpp) | `binary search` `sortings` `two pointers` `*1700` | Dec/09/2023 20:03 | 
+1281 | [B - Discounts](https://codeforces.com/contest/161/problem/B) | [GNU C++17](./codeforces/161/B.cpp) | `constructive algorithms` `greedy` `sortings` `*1700` | Dec/09/2023 20:02 | 
+1280 | [A - Trains](https://codeforces.com/contest/87/problem/A) | [GNU C++17](./codeforces/87/A.cpp) | `implementation` `math` `*1500` | Dec/09/2023 20:01 | 
+1279 | [A - Lucky Permutation Triple](https://codeforces.com/contest/303/problem/A) | [GNU C++17](./codeforces/303/A.cpp) | `constructive algorithms` `implementation` `math` `*1300` | Dec/09/2023 20:00 | 
 1278 | [B - Box and Ball](https://atcoder.jp/contests/agc002/tasks/agc002_b) | [C++ 17 (gcc 12.2)](./atcoder/agc002/B.cpp) | `AtCoder` `*400` | Dec/08/2023 22:26 | 
 1277 | [A - Metro](https://codeforces.com/contest/1055/problem/A) | [GNU C++17](./codeforces/1055/A.cpp) | `graphs` `*900` | Dec/08/2023 22:22 | 
 1276 | [C - Polycarp Restores Permutation](https://codeforces.com/contest/1141/problem/C) | [GNU C++17](./codeforces/1141/C.cpp) | `math` `*1500` | Dec/08/2023 22:21 | 
