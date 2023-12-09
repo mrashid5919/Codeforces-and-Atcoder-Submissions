@@ -16672,6 +16672,24 @@
     ],
     "timestamp": "Dec/08/2023 22:22"
   },
+  "CF236509003": {
+    "contest_id": 161,
+    "language": "GNU C++17",
+    "path": "codeforces\\161\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Discounts",
+    "problem_url": "https://codeforces.com/contest/161/problem/B",
+    "submission_id": "CF236509003",
+    "submission_url": "https://codeforces.com/contest/161/submission/236509003",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Dec/09/2023 20:02"
+  },
   "CF236509085": {
     "contest_id": 216,
     "language": "GNU C++17",
