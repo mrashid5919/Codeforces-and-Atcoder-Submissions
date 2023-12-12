@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1290 | [A - Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) | [GNU C++17](./codeforces/757/A.cpp) | `implementation` `*1000` | Dec/12/2023 22:07 | 
+1291 | [A - Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) | [GNU C++17](./codeforces/757/A.cpp) | `implementation` `*1000` | Dec/12/2023 22:07 | 
+1290 | [A - Equality](https://codeforces.com/contest/1038/problem/A) | [GNU C++17](./codeforces/1038/A.cpp) | `implementation` `strings` `*800` | Dec/12/2023 22:06 | 
 1289 | [D - Spider's Web](https://codeforces.com/contest/216/problem/D) | [GNU C++17](./codeforces/216/D.cpp) | `binary search` `sortings` `two pointers` `*1700` | Dec/09/2023 20:03 | 
 1288 | [B - Discounts](https://codeforces.com/contest/161/problem/B) | [GNU C++17](./codeforces/161/B.cpp) | `constructive algorithms` `greedy` `sortings` `*1700` | Dec/09/2023 20:02 | 
 1287 | [A - Trains](https://codeforces.com/contest/87/problem/A) | [GNU C++17](./codeforces/87/A.cpp) | `implementation` `math` `*1500` | Dec/09/2023 20:01 | 
