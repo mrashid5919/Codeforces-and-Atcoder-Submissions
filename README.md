@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1292 | [A - Pupils Redistribution](https://codeforces.com/contest/779/problem/A) | [GNU C++17](./codeforces/779/A.cpp) | `constructive algorithms` `math` `*1000` | Dec/14/2023 14:27 | 
+1293 | [A - Pupils Redistribution](https://codeforces.com/contest/779/problem/A) | [GNU C++17](./codeforces/779/A.cpp) | `constructive algorithms` `math` `*1000` | Dec/14/2023 14:27 | 
+1292 | [A - Vasya and Football](https://codeforces.com/contest/493/problem/A) | [GNU C++17](./codeforces/493/A.cpp) | `implementation` `*1300` | Dec/14/2023 14:27 | 
 1291 | [A - Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) | [GNU C++17](./codeforces/757/A.cpp) | `implementation` `*1000` | Dec/12/2023 22:07 | 
 1290 | [A - Equality](https://codeforces.com/contest/1038/problem/A) | [GNU C++17](./codeforces/1038/A.cpp) | `implementation` `strings` `*800` | Dec/12/2023 22:06 | 
 1289 | [D - Spider's Web](https://codeforces.com/contest/216/problem/D) | [GNU C++17](./codeforces/216/D.cpp) | `binary search` `sortings` `two pointers` `*1700` | Dec/09/2023 20:03 | 
