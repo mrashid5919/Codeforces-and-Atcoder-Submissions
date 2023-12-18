@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1302 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [GNU C++17](./codeforces/1917/B.cpp) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Dec/24/2023 21:29 | 
-1301 | [A - Least Product](https://codeforces.com/contest/1917/problem/A) | [GNU C++17](./codeforces/1917/A.cpp) | `constructive algorithms` `math` `*800` | Dec/24/2023 20:43 | 
-1300 | [A - Remainder](https://codeforces.com/contest/1165/problem/A) | [GNU C++17](./codeforces/1165/A.cpp) | `implementation` `math` `*1100` | Dec/21/2023 22:03 | 
-1299 | [C - Powers Of Two](https://codeforces.com/contest/1095/problem/C) | [GNU C++17](./codeforces/1095/C.cpp) | `bitmasks` `greedy` `*1400` | Dec/21/2023 13:15 | 
-1298 | [C - Less or Equal](https://codeforces.com/contest/977/problem/C) | [GNU C++17](./codeforces/977/C.cpp) | `sortings` `*1200` | Dec/21/2023 13:14 | 
-1297 | [A - ACM ICPC](https://codeforces.com/contest/886/problem/A) | [GNU C++17](./codeforces/886/A.cpp) | `brute force` `*1000` | Dec/21/2023 13:14 | 
-1296 | [C - Game with Multiset](https://codeforces.com/contest/1913/problem/C) | [GNU C++17](./codeforces/1913/C.cpp) | `binary search` `bitmasks` `brute force` `greedy` `*1300` | Dec/18/2023 21:29 | 
-1295 | [B - Swap and Delete](https://codeforces.com/contest/1913/problem/B) | [GNU C++17](./codeforces/1913/B.cpp) | `strings` `*1000` | Dec/18/2023 20:53 | 
+1303 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [GNU C++17](./codeforces/1917/B.cpp) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Dec/24/2023 21:29 | 
+1302 | [A - Least Product](https://codeforces.com/contest/1917/problem/A) | [GNU C++17](./codeforces/1917/A.cpp) | `constructive algorithms` `math` `*800` | Dec/24/2023 20:43 | 
+1301 | [A - Remainder](https://codeforces.com/contest/1165/problem/A) | [GNU C++17](./codeforces/1165/A.cpp) | `implementation` `math` `*1100` | Dec/21/2023 22:03 | 
+1300 | [C - Powers Of Two](https://codeforces.com/contest/1095/problem/C) | [GNU C++17](./codeforces/1095/C.cpp) | `bitmasks` `greedy` `*1400` | Dec/21/2023 13:15 | 
+1299 | [C - Less or Equal](https://codeforces.com/contest/977/problem/C) | [GNU C++17](./codeforces/977/C.cpp) | `sortings` `*1200` | Dec/21/2023 13:14 | 
+1298 | [A - ACM ICPC](https://codeforces.com/contest/886/problem/A) | [GNU C++17](./codeforces/886/A.cpp) | `brute force` `*1000` | Dec/21/2023 13:14 | 
+1297 | [C - Game with Multiset](https://codeforces.com/contest/1913/problem/C) | [GNU C++17](./codeforces/1913/C.cpp) | `binary search` `bitmasks` `brute force` `greedy` `*1300` | Dec/18/2023 21:29 | 
+1296 | [B - Swap and Delete](https://codeforces.com/contest/1913/problem/B) | [GNU C++17](./codeforces/1913/B.cpp) | `strings` `*1000` | Dec/18/2023 20:53 | 
+1295 | [A - Rating Increase](https://codeforces.com/contest/1913/problem/A) | [GNU C++17](./codeforces/1913/A.cpp) | `implementation` `*800` | Dec/18/2023 20:41 | 
 1294 | [A - Vasya and Football](https://codeforces.com/contest/493/problem/A) | [GNU C++17](./codeforces/493/A.cpp) | `implementation` `*1300` | Dec/14/2023 14:27 | 
 1293 | [A - Pupils Redistribution](https://codeforces.com/contest/779/problem/A) | [GNU C++17](./codeforces/779/A.cpp) | `constructive algorithms` `math` `*1000` | Dec/14/2023 14:27 | 
 1292 | [B - Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | [GNU C++17](./codeforces/1323/B.cpp) | `binary search` `greedy` `implementation` `*1500` | Dec/14/2023 14:26 | 
