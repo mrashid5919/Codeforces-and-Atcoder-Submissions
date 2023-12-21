@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1297 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [GNU C++17](./codeforces/1917/B.cpp) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Dec/24/2023 21:29 | 
-1296 | [A - Least Product](https://codeforces.com/contest/1917/problem/A) | [GNU C++17](./codeforces/1917/A.cpp) | `constructive algorithms` `math` `*800` | Dec/24/2023 20:43 | 
-1295 | [A - Remainder](https://codeforces.com/contest/1165/problem/A) | [GNU C++17](./codeforces/1165/A.cpp) | `implementation` `math` `*1100` | Dec/21/2023 22:03 | 
+1298 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [GNU C++17](./codeforces/1917/B.cpp) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Dec/24/2023 21:29 | 
+1297 | [A - Least Product](https://codeforces.com/contest/1917/problem/A) | [GNU C++17](./codeforces/1917/A.cpp) | `constructive algorithms` `math` `*800` | Dec/24/2023 20:43 | 
+1296 | [A - Remainder](https://codeforces.com/contest/1165/problem/A) | [GNU C++17](./codeforces/1165/A.cpp) | `implementation` `math` `*1100` | Dec/21/2023 22:03 | 
+1295 | [C - Powers Of Two](https://codeforces.com/contest/1095/problem/C) | [GNU C++17](./codeforces/1095/C.cpp) | `bitmasks` `greedy` `*1400` | Dec/21/2023 13:15 | 
 1294 | [A - Vasya and Football](https://codeforces.com/contest/493/problem/A) | [GNU C++17](./codeforces/493/A.cpp) | `implementation` `*1300` | Dec/14/2023 14:27 | 
 1293 | [A - Pupils Redistribution](https://codeforces.com/contest/779/problem/A) | [GNU C++17](./codeforces/779/A.cpp) | `constructive algorithms` `math` `*1000` | Dec/14/2023 14:27 | 
 1292 | [B - Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | [GNU C++17](./codeforces/1323/B.cpp) | `binary search` `greedy` `implementation` `*1500` | Dec/14/2023 14:26 | 
