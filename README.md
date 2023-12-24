@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1294 | [A - Pupils Redistribution](https://codeforces.com/contest/779/problem/A) | [GNU C++17](./codeforces/779/A.cpp) | `constructive algorithms` `math` `*1000` | Dec/14/2023 14:27 | 
-1293 | [A - Vasya and Football](https://codeforces.com/contest/493/problem/A) | [GNU C++17](./codeforces/493/A.cpp) | `implementation` `*1300` | Dec/14/2023 14:27 | 
+1295 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [GNU C++17](./codeforces/1917/B.cpp) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Dec/24/2023 21:29 | 
+1294 | [A - Vasya and Football](https://codeforces.com/contest/493/problem/A) | [GNU C++17](./codeforces/493/A.cpp) | `implementation` `*1300` | Dec/14/2023 14:27 | 
+1293 | [A - Pupils Redistribution](https://codeforces.com/contest/779/problem/A) | [GNU C++17](./codeforces/779/A.cpp) | `constructive algorithms` `math` `*1000` | Dec/14/2023 14:27 | 
 1292 | [B - Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | [GNU C++17](./codeforces/1323/B.cpp) | `binary search` `greedy` `implementation` `*1500` | Dec/14/2023 14:26 | 
 1291 | [A - Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) | [GNU C++17](./codeforces/757/A.cpp) | `implementation` `*1000` | Dec/12/2023 22:07 | 
 1290 | [A - Equality](https://codeforces.com/contest/1038/problem/A) | [GNU C++17](./codeforces/1038/A.cpp) | `implementation` `strings` `*800` | Dec/12/2023 22:06 | 
