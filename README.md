@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1304 | [B - Mike and strings](https://codeforces.com/contest/798/problem/B) | [GNU C++17](./codeforces/798/B.cpp) | `brute force` `dp` `strings` `*1300` | Dec/29/2023 22:13 | 
 1303 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [GNU C++17](./codeforces/1917/B.cpp) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Dec/24/2023 21:29 | 
 1302 | [A - Least Product](https://codeforces.com/contest/1917/problem/A) | [GNU C++17](./codeforces/1917/A.cpp) | `constructive algorithms` `math` `*800` | Dec/24/2023 20:43 | 
 1301 | [A - Remainder](https://codeforces.com/contest/1165/problem/A) | [GNU C++17](./codeforces/1165/A.cpp) | `implementation` `math` `*1100` | Dec/21/2023 22:03 | 
 1300 | [C - Powers Of Two](https://codeforces.com/contest/1095/problem/C) | [GNU C++17](./codeforces/1095/C.cpp) | `bitmasks` `greedy` `*1400` | Dec/21/2023 13:15 | 
-1299 | [C - Less or Equal](https://codeforces.com/contest/977/problem/C) | [GNU C++17](./codeforces/977/C.cpp) | `sortings` `*1200` | Dec/21/2023 13:14 | 
-1298 | [A - ACM ICPC](https://codeforces.com/contest/886/problem/A) | [GNU C++17](./codeforces/886/A.cpp) | `brute force` `*1000` | Dec/21/2023 13:14 | 
+1299 | [A - ACM ICPC](https://codeforces.com/contest/886/problem/A) | [GNU C++17](./codeforces/886/A.cpp) | `brute force` `*1000` | Dec/21/2023 13:14 | 
+1298 | [C - Less or Equal](https://codeforces.com/contest/977/problem/C) | [GNU C++17](./codeforces/977/C.cpp) | `sortings` `*1200` | Dec/21/2023 13:14 | 
 1297 | [C - Game with Multiset](https://codeforces.com/contest/1913/problem/C) | [GNU C++17](./codeforces/1913/C.cpp) | `binary search` `bitmasks` `brute force` `greedy` `*1300` | Dec/18/2023 21:29 | 
 1296 | [B - Swap and Delete](https://codeforces.com/contest/1913/problem/B) | [GNU C++17](./codeforces/1913/B.cpp) | `strings` `*1000` | Dec/18/2023 20:53 | 
 1295 | [A - Rating Increase](https://codeforces.com/contest/1913/problem/A) | [GNU C++17](./codeforces/1913/A.cpp) | `implementation` `*800` | Dec/18/2023 20:41 | 
