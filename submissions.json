@@ -4639,6 +4639,22 @@
     ],
     "timestamp": "Dec/08/2023 22:26"
   },
+  "AC48921441": {
+    "contest_id": "arc104",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\arc104\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Plus Minus",
+    "problem_url": "https://atcoder.jp/contests/arc104/tasks/arc104_a",
+    "submission_id": "AC48921441",
+    "submission_url": "https://atcoder.jp/contests/arc104/submissions/48921441",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/29/2023 22:15"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",

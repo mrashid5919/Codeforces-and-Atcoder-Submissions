@@ -1,12 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL)
+
+#define fastio ios::sync_with_stdio(0);cin.tie(0)
 
 int main()
 {
     fastio;
-    int a,b;
+    int a,b,x,y;
     cin>>a>>b;
-    cout<<(a+b)/2<<" "<<(a-b)/2<<"\n";
+    x=(a+b)/2;
+    y=a-x;
+    cout<<x<<" "<<y<<"\n";
     return 0;
 }
