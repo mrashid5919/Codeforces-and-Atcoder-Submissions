@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1306 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [GNU C++17](./codeforces/1916/C.cpp) | `constructive algorithms` `games` `greedy` `implementation` `math` `*1200` | Dec/31/2023 11:00 | 
-1305 | [A - 2023](https://codeforces.com/contest/1916/problem/A) | [GNU C++17](./codeforces/1916/A.cpp) | `constructive algorithms` `implementation` `math` `number theory` `*800` | Dec/31/2023 10:50 | 
+1307 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [GNU C++17](./codeforces/1916/C.cpp) | `constructive algorithms` `games` `greedy` `implementation` `math` `*1200` | Dec/31/2023 11:00 | 
+1306 | [A - 2023](https://codeforces.com/contest/1916/problem/A) | [GNU C++17](./codeforces/1916/A.cpp) | `constructive algorithms` `implementation` `math` `number theory` `*800` | Dec/31/2023 10:50 | 
+1305 | [B - Two Divisors](https://codeforces.com/contest/1916/problem/B) | [GNU C++17](./codeforces/1916/B.cpp) | `constructive algorithms` `math` `number theory` `*900` | Dec/30/2023 21:05 | 
 1304 | [A - Plus Minus](https://atcoder.jp/contests/arc104/tasks/arc104_a) | [C++ 17 (gcc 12.2)](./atcoder/arc104/A.cpp) | `AtCoder` `*100` | Dec/29/2023 22:15 | 
 1303 | [B - Mike and strings](https://codeforces.com/contest/798/problem/B) | [GNU C++17](./codeforces/798/B.cpp) | `brute force` `dp` `strings` `*1300` | Dec/29/2023 22:13 | 
 1302 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [GNU C++17](./codeforces/1917/B.cpp) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Dec/24/2023 21:29 | 
