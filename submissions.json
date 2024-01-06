@@ -17196,6 +17196,22 @@
     ],
     "timestamp": "Dec/31/2023 11:00"
   },
+  "CF240510857": {
+    "contest_id": 1919,
+    "language": "GNU C++17",
+    "path": "codeforces\\1919\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Plus-Minus Split",
+    "problem_url": "https://codeforces.com/contest/1919/problem/B",
+    "submission_id": "CF240510857",
+    "submission_url": "https://codeforces.com/contest/1919/submission/240510857",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/06/2024 20:45"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",

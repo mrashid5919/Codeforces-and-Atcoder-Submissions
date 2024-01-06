@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1308 | [B - Plus-Minus Split](https://codeforces.com/contest/1919/problem/B) | [GNU C++17](./codeforces/1919/B.cpp) | `greedy` `*800` | Jan/06/2024 20:45 | 
 1307 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [GNU C++17](./codeforces/1916/C.cpp) | `constructive algorithms` `games` `greedy` `implementation` `math` `*1200` | Dec/31/2023 11:00 | 
 1306 | [A - 2023](https://codeforces.com/contest/1916/problem/A) | [GNU C++17](./codeforces/1916/A.cpp) | `constructive algorithms` `implementation` `math` `number theory` `*800` | Dec/31/2023 10:50 | 
 1305 | [B - Two Divisors](https://codeforces.com/contest/1916/problem/B) | [GNU C++17](./codeforces/1916/B.cpp) | `constructive algorithms` `math` `number theory` `*900` | Dec/30/2023 21:05 | 
