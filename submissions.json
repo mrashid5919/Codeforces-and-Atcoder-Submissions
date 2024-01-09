@@ -17229,6 +17229,22 @@
     ],
     "timestamp": "Jan/06/2024 20:45"
   },
+  "CF240958037": {
+    "contest_id": 842,
+    "language": "GNU C++17",
+    "path": "codeforces\\842\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gleb And Pizza",
+    "problem_url": "https://codeforces.com/contest/842/problem/B",
+    "submission_id": "CF240958037",
+    "submission_url": "https://codeforces.com/contest/842/submission/240958037",
+    "tags": [
+      "geometry",
+      "*1100"
+    ],
+    "timestamp": "Jan/09/2024 22:05"
+  },
   "CF240958139": {
     "contest_id": 424,
     "language": "GNU C++17",
