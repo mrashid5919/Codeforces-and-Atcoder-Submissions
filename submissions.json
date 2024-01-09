@@ -17229,6 +17229,22 @@
     ],
     "timestamp": "Jan/06/2024 20:45"
   },
+  "CF240958139": {
+    "contest_id": 424,
+    "language": "GNU C++17",
+    "path": "codeforces\\424\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Squats",
+    "problem_url": "https://codeforces.com/contest/424/problem/A",
+    "submission_id": "CF240958139",
+    "submission_url": "https://codeforces.com/contest/424/submission/240958139",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/09/2024 22:06"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",

@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1310 | [A - Squats](https://codeforces.com/contest/424/problem/A) | [GNU C++17](./codeforces/424/A.cpp) | `implementation` `*900` | Jan/09/2024 22:06 | 
 1309 | [B - Plus-Minus Split](https://codeforces.com/contest/1919/problem/B) | [GNU C++17](./codeforces/1919/B.cpp) | `greedy` `*800` | Jan/06/2024 20:45 | 
 1308 | [A - Wallet Exchange](https://codeforces.com/contest/1919/problem/A) | [GNU C++17](./codeforces/1919/A.cpp) | `games` `math` `*800` | Jan/06/2024 20:38 | 
 1307 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [GNU C++17](./codeforces/1916/C.cpp) | `constructive algorithms` `games` `greedy` `implementation` `math` `*1200` | Dec/31/2023 11:00 | 
