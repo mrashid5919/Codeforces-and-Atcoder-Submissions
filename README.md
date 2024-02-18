@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1318 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [C++17 (GCC 7-32)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` `*1500` | Feb/19/2024 21:34 | 
-1317 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [C++17 (GCC 7-32)](./codeforces/1926/D.cpp) | `bitmasks` `greedy` `*1300` | Feb/19/2024 21:12 | 
-1316 | [C - Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [C++17 (GCC 7-32)](./codeforces/1926/C.cpp) | `dp` `implementation` `*1200` | Feb/19/2024 20:54 | 
-1315 | [B - Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | [C++17 (GCC 7-32)](./codeforces/1926/B.cpp) | `geometry` `implementation` `*800` | Feb/19/2024 20:46 | 
-1314 | [A - Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | [C++17 (GCC 7-32)](./codeforces/1926/A.cpp) | `implementation` `*800` | Feb/19/2024 20:40 | 
-1313 | [B - Chaya Calendar](https://codeforces.com/contest/1932/problem/B) | [C++17 (GCC 7-32)](./codeforces/1932/B.cpp) | `number theory` `*1100` | Feb/18/2024 18:33 | 
+1319 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [C++17 (GCC 7-32)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` `*1500` | Feb/19/2024 21:34 | 
+1318 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [C++17 (GCC 7-32)](./codeforces/1926/D.cpp) | `bitmasks` `greedy` `*1300` | Feb/19/2024 21:12 | 
+1317 | [C - Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [C++17 (GCC 7-32)](./codeforces/1926/C.cpp) | `dp` `implementation` `*1200` | Feb/19/2024 20:54 | 
+1316 | [B - Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | [C++17 (GCC 7-32)](./codeforces/1926/B.cpp) | `geometry` `implementation` `*800` | Feb/19/2024 20:46 | 
+1315 | [A - Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | [C++17 (GCC 7-32)](./codeforces/1926/A.cpp) | `implementation` `*800` | Feb/19/2024 20:40 | 
+1314 | [B - Chaya Calendar](https://codeforces.com/contest/1932/problem/B) | [C++17 (GCC 7-32)](./codeforces/1932/B.cpp) | `number theory` `*1100` | Feb/18/2024 18:33 | 
+1313 | [A - Thorns and Coins](https://codeforces.com/contest/1932/problem/A) | [C++17 (GCC 7-32)](./codeforces/1932/A.cpp) | `dp` `greedy` `implementation` `*800` | Feb/18/2024 18:13 | 
 1312 | [B - Frodo and pillows](https://codeforces.com/contest/760/problem/B) | [GNU C++17](./codeforces/760/B.cpp) | `binary search` `greedy` `*1500` | Jan/13/2024 23:41 | 
 1311 | [A - Squats](https://codeforces.com/contest/424/problem/A) | [GNU C++17](./codeforces/424/A.cpp) | `implementation` `*900` | Jan/09/2024 22:06 | 
 1310 | [B - Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | [GNU C++17](./codeforces/842/B.cpp) | `geometry` `*1100` | Jan/09/2024 22:05 | 
