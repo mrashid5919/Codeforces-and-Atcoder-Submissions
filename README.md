@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1313 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [C++17 (GCC 7-32)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` `*1500` | Feb/19/2024 21:34 | 
 1312 | [B - Frodo and pillows](https://codeforces.com/contest/760/problem/B) | [GNU C++17](./codeforces/760/B.cpp) | `binary search` `greedy` `*1500` | Jan/13/2024 23:41 | 
 1311 | [A - Squats](https://codeforces.com/contest/424/problem/A) | [GNU C++17](./codeforces/424/A.cpp) | `implementation` `*900` | Jan/09/2024 22:06 | 
 1310 | [B - Gleb And Pizza](https://codeforces.com/contest/842/problem/B) | [GNU C++17](./codeforces/842/B.cpp) | `geometry` `*1100` | Jan/09/2024 22:05 | 
