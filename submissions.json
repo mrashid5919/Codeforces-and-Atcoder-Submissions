@@ -17489,6 +17489,22 @@
     ],
     "timestamp": "Feb/19/2024 21:34"
   },
+  "CF252219246": {
+    "contest_id": 1945,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1945\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Left and Right Houses",
+    "problem_url": "https://codeforces.com/contest/1945/problem/C",
+    "submission_id": "CF252219246",
+    "submission_url": "https://codeforces.com/contest/1945/submission/252219246",
+    "tags": [
+      "brute force",
+      "*1200"
+    ],
+    "timestamp": "Mar/19/2024 14:43"
+  },
   "CF252225521": {
     "contest_id": 1945,
     "language": "C++17 (GCC 7-32)",
