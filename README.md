@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1325 | [D - Seraphim the Owl](https://codeforces.com/contest/1945/problem/D) | [C++17 (GCC 7-32)](./codeforces/1945/D.cpp) | `dp` `greedy` `*1300` | Mar/19/2024 14:53 | 
 1324 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [C++17 (GCC 7-32)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` `*1500` | Feb/19/2024 21:34 | 
 1323 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [C++17 (GCC 7-32)](./codeforces/1926/D.cpp) | `bitmasks` `greedy` `*1300` | Feb/19/2024 21:12 | 
 1322 | [C - Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [C++17 (GCC 7-32)](./codeforces/1926/C.cpp) | `dp` `implementation` `*1200` | Feb/19/2024 20:54 | 
