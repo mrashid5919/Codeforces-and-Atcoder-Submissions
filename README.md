@@ -13,25 +13,26 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1351 | [B - Div Times Mod](https://codeforces.com/contest/1085/problem/B) | [C++17 (GCC 7-32)](./codeforces/1085/B.cpp) | `math` `*1100` | Apr/15/2024 22:04 | 
-1350 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++17 (GCC 7-32)](./codeforces/1956/C.cpp) | `constructive algorithms` `greedy` `math` `*1600` | Apr/14/2024 02:36 | 
-1349 | [B - Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) | [C++17 (GCC 7-32)](./codeforces/1956/B.cpp) | `games` `greedy` `*800` | Apr/13/2024 20:48 | 
-1348 | [A - Nene's Game](https://codeforces.com/contest/1956/problem/A) | [C++17 (GCC 7-32)](./codeforces/1956/A.cpp) | `binary search` `brute force` `data structures` `games` `greedy` `*800` | Apr/13/2024 20:42 | 
-1347 | [D - Inaccurate Subsequence Search](https://codeforces.com/contest/1955/problem/D) | [C++17 (GCC 7-32)](./codeforces/1955/D.cpp) | `data structures` `two pointers` `*1400` | Apr/08/2024 21:39 | 
-1346 | [C - Inhabitant of the Deep Sea](https://codeforces.com/contest/1955/problem/C) | [C++17 (GCC 7-32)](./codeforces/1955/C.cpp) | `greedy` `implementation` `math` `*1300` | Apr/08/2024 21:10 | 
-1345 | [A - Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | [C++17 (GCC 7-32)](./codeforces/1955/A.cpp) | `math` `*800` | Apr/08/2024 20:48 | 
-1344 | [B - Progressive Square](https://codeforces.com/contest/1955/problem/B) | [C++17 (GCC 7-32)](./codeforces/1955/B.cpp) | `constructive algorithms` `data structures` `implementation` `sortings` `*1000` | Apr/08/2024 20:46 | 
-1343 | [C - Ticket Hoarding](https://codeforces.com/contest/1951/problem/C) | [C++17 (GCC 7-32)](./codeforces/1951/C.cpp) | `greedy` `math` `sortings` `*1400` | Apr/06/2024 22:38 | 
-1342 | [B - Battle Cows](https://codeforces.com/contest/1951/problem/B) | [C++17 (GCC 7-32)](./codeforces/1951/B.cpp) | `binary search` `data structures` `greedy` `*1200` | Apr/06/2024 21:15 | 
-1341 | [A - Dual Trigger](https://codeforces.com/contest/1951/problem/A) | [C++17 (GCC 7-32)](./codeforces/1951/A.cpp) | `constructive algorithms` `greedy` `math` `*900` | Apr/06/2024 20:48 | 
-1340 | [F - Kirill and Mushrooms](https://codeforces.com/contest/1945/problem/F) | [C++17 (GCC 7-32)](./codeforces/1945/F.cpp) | `data structures` `sortings` `*1900` | Apr/06/2024 16:40 | 
-1339 | [C2 - Bessie's Birthday Cake (Hard Version)](https://codeforces.com/contest/1942/problem/C2) | [C++17 (GCC 7-32)](./codeforces/1942/C2.cpp) | `geometry` `greedy` `math` `*1700` | Mar/30/2024 23:33 | 
-1338 | [C1 - Bessie's Birthday Cake (Easy Version)](https://codeforces.com/contest/1942/problem/C1) | [C++17 (GCC 7-32)](./codeforces/1942/C1.cpp) | `geometry` `greedy` `math` `*1300` | Mar/30/2024 22:12 | 
-1337 | [B - Bessie and MEX](https://codeforces.com/contest/1942/problem/B) | [C++17 (GCC 7-32)](./codeforces/1942/B.cpp) | `constructive algorithms` `math` `*1100` | Mar/30/2024 21:00 | 
-1336 | [A - Farmer John's Challenge](https://codeforces.com/contest/1942/problem/A) | [C++17 (GCC 7-32)](./codeforces/1942/A.cpp) | `constructive algorithms` `math` `*800` | Mar/30/2024 20:43 | 
-1335 | [D - Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D) | [C++17 (GCC 7-32)](./codeforces/1950/D.cpp) | `brute force` `dp` `implementation` `number theory` `*1100` | Mar/29/2024 21:18 | 
-1334 | [C - Clock Conversion](https://codeforces.com/contest/1950/problem/C) | [C++17 (GCC 7-32)](./codeforces/1950/C.cpp) | `implementation` `math` `*800` | Mar/28/2024 21:04 | 
-1333 | [B - Upscaling](https://codeforces.com/contest/1950/problem/B) | [C++17 (GCC 7-32)](./codeforces/1950/B.cpp) | `implementation` `*800` | Mar/28/2024 20:55 | 
+1352 | [B - Div Times Mod](https://codeforces.com/contest/1085/problem/B) | [C++17 (GCC 7-32)](./codeforces/1085/B.cpp) | `math` `*1100` | Apr/15/2024 22:04 | 
+1351 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++17 (GCC 7-32)](./codeforces/1956/C.cpp) | `constructive algorithms` `greedy` `math` `*1600` | Apr/14/2024 02:36 | 
+1350 | [B - Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) | [C++17 (GCC 7-32)](./codeforces/1956/B.cpp) | `games` `greedy` `*800` | Apr/13/2024 20:48 | 
+1349 | [A - Nene's Game](https://codeforces.com/contest/1956/problem/A) | [C++17 (GCC 7-32)](./codeforces/1956/A.cpp) | `binary search` `brute force` `data structures` `games` `greedy` `*800` | Apr/13/2024 20:42 | 
+1348 | [D - Inaccurate Subsequence Search](https://codeforces.com/contest/1955/problem/D) | [C++17 (GCC 7-32)](./codeforces/1955/D.cpp) | `data structures` `two pointers` `*1400` | Apr/08/2024 21:39 | 
+1347 | [C - Inhabitant of the Deep Sea](https://codeforces.com/contest/1955/problem/C) | [C++17 (GCC 7-32)](./codeforces/1955/C.cpp) | `greedy` `implementation` `math` `*1300` | Apr/08/2024 21:10 | 
+1346 | [A - Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | [C++17 (GCC 7-32)](./codeforces/1955/A.cpp) | `math` `*800` | Apr/08/2024 20:48 | 
+1345 | [B - Progressive Square](https://codeforces.com/contest/1955/problem/B) | [C++17 (GCC 7-32)](./codeforces/1955/B.cpp) | `constructive algorithms` `data structures` `implementation` `sortings` `*1000` | Apr/08/2024 20:46 | 
+1344 | [C - Ticket Hoarding](https://codeforces.com/contest/1951/problem/C) | [C++17 (GCC 7-32)](./codeforces/1951/C.cpp) | `greedy` `math` `sortings` `*1400` | Apr/06/2024 22:38 | 
+1343 | [B - Battle Cows](https://codeforces.com/contest/1951/problem/B) | [C++17 (GCC 7-32)](./codeforces/1951/B.cpp) | `binary search` `data structures` `greedy` `*1200` | Apr/06/2024 21:15 | 
+1342 | [A - Dual Trigger](https://codeforces.com/contest/1951/problem/A) | [C++17 (GCC 7-32)](./codeforces/1951/A.cpp) | `constructive algorithms` `greedy` `math` `*900` | Apr/06/2024 20:48 | 
+1341 | [F - Kirill and Mushrooms](https://codeforces.com/contest/1945/problem/F) | [C++17 (GCC 7-32)](./codeforces/1945/F.cpp) | `data structures` `sortings` `*1900` | Apr/06/2024 16:40 | 
+1340 | [C2 - Bessie's Birthday Cake (Hard Version)](https://codeforces.com/contest/1942/problem/C2) | [C++17 (GCC 7-32)](./codeforces/1942/C2.cpp) | `geometry` `greedy` `math` `*1700` | Mar/30/2024 23:33 | 
+1339 | [C1 - Bessie's Birthday Cake (Easy Version)](https://codeforces.com/contest/1942/problem/C1) | [C++17 (GCC 7-32)](./codeforces/1942/C1.cpp) | `geometry` `greedy` `math` `*1300` | Mar/30/2024 22:12 | 
+1338 | [B - Bessie and MEX](https://codeforces.com/contest/1942/problem/B) | [C++17 (GCC 7-32)](./codeforces/1942/B.cpp) | `constructive algorithms` `math` `*1100` | Mar/30/2024 21:00 | 
+1337 | [A - Farmer John's Challenge](https://codeforces.com/contest/1942/problem/A) | [C++17 (GCC 7-32)](./codeforces/1942/A.cpp) | `constructive algorithms` `math` `*800` | Mar/30/2024 20:43 | 
+1336 | [D - Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D) | [C++17 (GCC 7-32)](./codeforces/1950/D.cpp) | `brute force` `dp` `implementation` `number theory` `*1100` | Mar/29/2024 21:18 | 
+1335 | [C - Clock Conversion](https://codeforces.com/contest/1950/problem/C) | [C++17 (GCC 7-32)](./codeforces/1950/C.cpp) | `implementation` `math` `*800` | Mar/28/2024 21:04 | 
+1334 | [B - Upscaling](https://codeforces.com/contest/1950/problem/B) | [C++17 (GCC 7-32)](./codeforces/1950/B.cpp) | `implementation` `*800` | Mar/28/2024 20:55 | 
+1333 | [A - Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | [C++17 (GCC 7-32)](./codeforces/1950/A.cpp) | `implementation` `*800` | Mar/28/2024 20:49 | 
 1332 | [D - Seraphim the Owl](https://codeforces.com/contest/1945/problem/D) | [C++17 (GCC 7-32)](./codeforces/1945/D.cpp) | `dp` `greedy` `*1300` | Mar/19/2024 14:53 | 
 1331 | [C - Left and Right Houses](https://codeforces.com/contest/1945/problem/C) | [C++17 (GCC 7-32)](./codeforces/1945/C.cpp) | `brute force` `*1200` | Mar/19/2024 14:43 | 
 1330 | [B - Fireworks](https://codeforces.com/contest/1945/problem/B) | [C++17 (GCC 7-32)](./codeforces/1945/B.cpp) | `math` `number theory` `*900` | Mar/19/2024 14:20 | 
