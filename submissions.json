@@ -17631,6 +17631,22 @@
     ],
     "timestamp": "Mar/19/2024 14:53"
   },
+  "CF253675953": {
+    "contest_id": 1950,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1950\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Upscaling",
+    "problem_url": "https://codeforces.com/contest/1950/problem/B",
+    "submission_id": "CF253675953",
+    "submission_url": "https://codeforces.com/contest/1950/submission/253675953",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2024 20:55"
+  },
   "CF253693117": {
     "contest_id": 1950,
     "language": "C++17 (GCC 7-32)",
