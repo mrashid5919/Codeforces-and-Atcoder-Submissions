@@ -17631,6 +17631,25 @@
     ],
     "timestamp": "Mar/19/2024 14:53"
   },
+  "CF253962061": {
+    "contest_id": 1950,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1950\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Product of Binary Decimals",
+    "problem_url": "https://codeforces.com/contest/1950/problem/D",
+    "submission_id": "CF253962061",
+    "submission_url": "https://codeforces.com/contest/1950/submission/253962061",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Mar/29/2024 21:18"
+  },
   "CF254124312": {
     "contest_id": 1942,
     "language": "C++17 (GCC 7-32)",
