@@ -17631,6 +17631,24 @@
     ],
     "timestamp": "Mar/19/2024 14:53"
   },
+  "CF254170219": {
+    "contest_id": 1942,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1942\\C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Bessie's Birthday Cake (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1942/problem/C1",
+    "submission_id": "CF254170219",
+    "submission_url": "https://codeforces.com/contest/1942/submission/254170219",
+    "tags": [
+      "geometry",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Mar/30/2024 22:12"
+  },
   "CF254197409": {
     "contest_id": 1942,
     "language": "C++17 (GCC 7-32)",
