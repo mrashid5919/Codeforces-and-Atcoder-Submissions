@@ -17631,6 +17631,25 @@
     ],
     "timestamp": "Mar/19/2024 14:53"
   },
+  "CF255653370": {
+    "contest_id": 1955,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1955\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Progressive Square",
+    "problem_url": "https://codeforces.com/contest/1955/problem/B",
+    "submission_id": "CF255653370",
+    "submission_url": "https://codeforces.com/contest/1955/submission/255653370",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Apr/08/2024 20:46"
+  },
   "CF255655196": {
     "contest_id": 1955,
     "language": "C++17 (GCC 7-32)",
