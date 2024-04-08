@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1336 | [B - Div Times Mod](https://codeforces.com/contest/1085/problem/B) | [C++17 (GCC 7-32)](./codeforces/1085/B.cpp) | `math` `*1100` | Apr/15/2024 22:04 | 
-1335 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++17 (GCC 7-32)](./codeforces/1956/C.cpp) | `constructive algorithms` `greedy` `math` `*1600` | Apr/14/2024 02:36 | 
-1334 | [B - Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) | [C++17 (GCC 7-32)](./codeforces/1956/B.cpp) | `games` `greedy` `*800` | Apr/13/2024 20:48 | 
-1333 | [A - Nene's Game](https://codeforces.com/contest/1956/problem/A) | [C++17 (GCC 7-32)](./codeforces/1956/A.cpp) | `binary search` `brute force` `data structures` `games` `greedy` `*800` | Apr/13/2024 20:42 | 
+1337 | [B - Div Times Mod](https://codeforces.com/contest/1085/problem/B) | [C++17 (GCC 7-32)](./codeforces/1085/B.cpp) | `math` `*1100` | Apr/15/2024 22:04 | 
+1336 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++17 (GCC 7-32)](./codeforces/1956/C.cpp) | `constructive algorithms` `greedy` `math` `*1600` | Apr/14/2024 02:36 | 
+1335 | [B - Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) | [C++17 (GCC 7-32)](./codeforces/1956/B.cpp) | `games` `greedy` `*800` | Apr/13/2024 20:48 | 
+1334 | [A - Nene's Game](https://codeforces.com/contest/1956/problem/A) | [C++17 (GCC 7-32)](./codeforces/1956/A.cpp) | `binary search` `brute force` `data structures` `games` `greedy` `*800` | Apr/13/2024 20:42 | 
+1333 | [D - Inaccurate Subsequence Search](https://codeforces.com/contest/1955/problem/D) | [C++17 (GCC 7-32)](./codeforces/1955/D.cpp) | `data structures` `two pointers` `*1400` | Apr/08/2024 21:39 | 
 1332 | [D - Seraphim the Owl](https://codeforces.com/contest/1945/problem/D) | [C++17 (GCC 7-32)](./codeforces/1945/D.cpp) | `dp` `greedy` `*1300` | Mar/19/2024 14:53 | 
 1331 | [C - Left and Right Houses](https://codeforces.com/contest/1945/problem/C) | [C++17 (GCC 7-32)](./codeforces/1945/C.cpp) | `brute force` `*1200` | Mar/19/2024 14:43 | 
 1330 | [B - Fireworks](https://codeforces.com/contest/1945/problem/B) | [C++17 (GCC 7-32)](./codeforces/1945/B.cpp) | `math` `number theory` `*900` | Mar/19/2024 14:20 | 
