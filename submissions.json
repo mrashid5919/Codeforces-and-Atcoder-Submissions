@@ -17631,6 +17631,23 @@
     ],
     "timestamp": "Mar/19/2024 14:53"
   },
+  "CF256481189": {
+    "contest_id": 1956,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1956\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Nene and the Card Game",
+    "problem_url": "https://codeforces.com/contest/1956/problem/B",
+    "submission_id": "CF256481189",
+    "submission_url": "https://codeforces.com/contest/1956/submission/256481189",
+    "tags": [
+      "games",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/13/2024 20:48"
+  },
   "CF256564268": {
     "contest_id": 1956,
     "language": "C++17 (GCC 7-32)",

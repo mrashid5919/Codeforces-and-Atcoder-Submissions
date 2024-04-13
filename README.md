@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1334 | [B - Div Times Mod](https://codeforces.com/contest/1085/problem/B) | [C++17 (GCC 7-32)](./codeforces/1085/B.cpp) | `math` `*1100` | Apr/15/2024 22:04 | 
-1333 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++17 (GCC 7-32)](./codeforces/1956/C.cpp) | `constructive algorithms` `greedy` `math` `*1600` | Apr/14/2024 02:36 | 
+1335 | [B - Div Times Mod](https://codeforces.com/contest/1085/problem/B) | [C++17 (GCC 7-32)](./codeforces/1085/B.cpp) | `math` `*1100` | Apr/15/2024 22:04 | 
+1334 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++17 (GCC 7-32)](./codeforces/1956/C.cpp) | `constructive algorithms` `greedy` `math` `*1600` | Apr/14/2024 02:36 | 
+1333 | [B - Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) | [C++17 (GCC 7-32)](./codeforces/1956/B.cpp) | `games` `greedy` `*800` | Apr/13/2024 20:48 | 
 1332 | [D - Seraphim the Owl](https://codeforces.com/contest/1945/problem/D) | [C++17 (GCC 7-32)](./codeforces/1945/D.cpp) | `dp` `greedy` `*1300` | Mar/19/2024 14:53 | 
 1331 | [C - Left and Right Houses](https://codeforces.com/contest/1945/problem/C) | [C++17 (GCC 7-32)](./codeforces/1945/C.cpp) | `brute force` `*1200` | Mar/19/2024 14:43 | 
 1330 | [B - Fireworks](https://codeforces.com/contest/1945/problem/B) | [C++17 (GCC 7-32)](./codeforces/1945/B.cpp) | `math` `number theory` `*900` | Mar/19/2024 14:20 | 
