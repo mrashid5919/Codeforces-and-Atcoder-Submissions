@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1359 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 17 (gcc 12.2)](./atcoder/abc157/D.cpp) | `AtCoder` `*400` | May/07/2024 22:34 | 
-1358 | [C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c) | [C++ 17 (gcc 12.2)](./atcoder/abc157/C.cpp) | `AtCoder` `*300` | May/03/2024 22:17 | 
-1357 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | [C++ 17 (gcc 12.2)](./atcoder/abc097/C.cpp) | `AtCoder` `*300` | Apr/25/2024 21:09 | 
-1356 | [B - Time Limit Exceeded](https://atcoder.jp/contests/abc112/tasks/abc112_b) | [C++ 17 (gcc 12.2)](./atcoder/abc112/B.cpp) | `AtCoder` `*200` | Apr/23/2024 22:10 | 
-1355 | [D - New Friends](https://atcoder.jp/contests/abc350/tasks/abc350_d) | [C++ 17 (gcc 12.2)](./atcoder/abc350/D.cpp) | `AtCoder` `*350` | Apr/20/2024 18:37 | 
-1354 | [C - Sort](https://atcoder.jp/contests/abc350/tasks/abc350_c) | [C++ 17 (gcc 12.2)](./atcoder/abc350/C.cpp) | `AtCoder` `*300` | Apr/20/2024 18:18 | 
-1353 | [A - Past ABCs](https://atcoder.jp/contests/abc350/tasks/abc350_a) | [C++ 17 (gcc 12.2)](./atcoder/abc350/A.cpp) | `AtCoder` `*100` | Apr/20/2024 18:14 | 
+1360 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 17 (gcc 12.2)](./atcoder/abc157/D.cpp) | `AtCoder` `*400` | May/07/2024 22:34 | 
+1359 | [C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c) | [C++ 17 (gcc 12.2)](./atcoder/abc157/C.cpp) | `AtCoder` `*300` | May/03/2024 22:17 | 
+1358 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | [C++ 17 (gcc 12.2)](./atcoder/abc097/C.cpp) | `AtCoder` `*300` | Apr/25/2024 21:09 | 
+1357 | [B - Time Limit Exceeded](https://atcoder.jp/contests/abc112/tasks/abc112_b) | [C++ 17 (gcc 12.2)](./atcoder/abc112/B.cpp) | `AtCoder` `*200` | Apr/23/2024 22:10 | 
+1356 | [D - New Friends](https://atcoder.jp/contests/abc350/tasks/abc350_d) | [C++ 17 (gcc 12.2)](./atcoder/abc350/D.cpp) | `AtCoder` `*350` | Apr/20/2024 18:37 | 
+1355 | [C - Sort](https://atcoder.jp/contests/abc350/tasks/abc350_c) | [C++ 17 (gcc 12.2)](./atcoder/abc350/C.cpp) | `AtCoder` `*300` | Apr/20/2024 18:18 | 
+1354 | [A - Past ABCs](https://atcoder.jp/contests/abc350/tasks/abc350_a) | [C++ 17 (gcc 12.2)](./atcoder/abc350/A.cpp) | `AtCoder` `*100` | Apr/20/2024 18:14 | 
+1353 | [B - Dentist Aoki](https://atcoder.jp/contests/abc350/tasks/abc350_b) | [C++ 17 (gcc 12.2)](./atcoder/abc350/B.cpp) | `AtCoder` `*200` | Apr/20/2024 18:08 | 
 1352 | [B - Div Times Mod](https://codeforces.com/contest/1085/problem/B) | [C++17 (GCC 7-32)](./codeforces/1085/B.cpp) | `math` `*1100` | Apr/15/2024 22:04 | 
 1351 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++17 (GCC 7-32)](./codeforces/1956/C.cpp) | `constructive algorithms` `greedy` `math` `*1600` | Apr/14/2024 02:36 | 
 1350 | [B - Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) | [C++17 (GCC 7-32)](./codeforces/1956/B.cpp) | `games` `greedy` `*800` | Apr/13/2024 20:48 | 
