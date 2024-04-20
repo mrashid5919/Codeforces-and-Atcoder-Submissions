@@ -4655,6 +4655,22 @@
     ],
     "timestamp": "Dec/29/2023 22:15"
   },
+  "AC52567087": {
+    "contest_id": "abc350",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc350\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Past ABCs",
+    "problem_url": "https://atcoder.jp/contests/abc350/tasks/abc350_a",
+    "submission_id": "AC52567087",
+    "submission_url": "https://atcoder.jp/contests/abc350/submissions/52567087",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/20/2024 18:14"
+  },
   "AC52572148": {
     "contest_id": "abc350",
     "language": "C++ 17 (gcc 12.2)",
