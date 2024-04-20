@@ -4655,6 +4655,22 @@
     ],
     "timestamp": "Dec/29/2023 22:15"
   },
+  "AC52586811": {
+    "contest_id": "abc350",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc350\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "New Friends",
+    "problem_url": "https://atcoder.jp/contests/abc350/tasks/abc350_d",
+    "submission_id": "AC52586811",
+    "submission_url": "https://atcoder.jp/contests/abc350/submissions/52586811",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Apr/20/2024 18:37"
+  },
   "AC52731893": {
     "contest_id": "abc112",
     "language": "C++ 17 (gcc 12.2)",
