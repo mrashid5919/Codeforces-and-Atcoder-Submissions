@@ -13,23 +13,24 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1373 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 17 (gcc 12.2)](./atcoder/abc157/D.cpp) | `AtCoder` `*400` | May/07/2024 22:34 | 
-1372 | [C - Useful Decomposition](https://codeforces.com/contest/981/problem/C) | [C++17 (GCC 7-32)](./codeforces/981/C.cpp) | `implementation` `trees` `*1400` | May/07/2024 22:33 | 
-1371 | [C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c) | [C++ 17 (gcc 12.2)](./atcoder/abc157/C.cpp) | `AtCoder` `*300` | May/03/2024 22:17 | 
-1370 | [E - Cells Arrangement](https://codeforces.com/contest/1968/problem/E) | [C++17 (GCC 7-32)](./codeforces/1968/E.cpp) | `constructive algorithms` `*1600` | May/02/2024 22:27 | 
-1369 | [D - Permutation Game](https://codeforces.com/contest/1968/problem/D) | [C++17 (GCC 7-32)](./codeforces/1968/D.cpp) | `brute force` `dfs and similar` `games` `graphs` `greedy` `math` `*1300` | May/02/2024 21:35 | 
-1368 | [C - Assembly via Remainders](https://codeforces.com/contest/1968/problem/C) | [C++17 (GCC 7-32)](./codeforces/1968/C.cpp) | `constructive algorithms` `number theory` `*1000` | May/02/2024 21:11 | 
-1367 | [B - Prefiquence](https://codeforces.com/contest/1968/problem/B) | [C++17 (GCC 7-32)](./codeforces/1968/B.cpp) | `greedy` `two pointers` `*800` | May/02/2024 20:53 | 
-1366 | [A - Maximize?](https://codeforces.com/contest/1968/problem/A) | [C++17 (GCC 7-32)](./codeforces/1968/A.cpp) | `brute force` `math` `number theory` `*800` | May/02/2024 20:49 | 
-1365 | [B - Shifts and Sorting](https://codeforces.com/contest/1969/problem/B) | [C++17 (GCC 7-32)](./codeforces/1969/B.cpp) | `constructive algorithms` `greedy` `*1000` | Apr/29/2024 21:02 | 
-1364 | [A - Two Friends](https://codeforces.com/contest/1969/problem/A) | [C++17 (GCC 7-32)](./codeforces/1969/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Apr/29/2024 20:39 | 
-1363 | [C - Everything Nim](https://codeforces.com/contest/1966/problem/C) | [C++17 (GCC 7-32)](./codeforces/1966/C.cpp) | `games` `greedy` `*1400` | Apr/27/2024 22:26 | 
-1362 | [B - Rectangle Filling](https://codeforces.com/contest/1966/problem/B) | [C++17 (GCC 7-32)](./codeforces/1966/B.cpp) | `constructive algorithms` `implementation` `*1100` | Apr/27/2024 21:07 | 
-1361 | [A - Card Exchange](https://codeforces.com/contest/1966/problem/A) | [C++17 (GCC 7-32)](./codeforces/1966/A.cpp) | `constructive algorithms` `games` `greedy` `*800` | Apr/27/2024 20:39 | 
-1360 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | [C++ 17 (gcc 12.2)](./atcoder/abc097/C.cpp) | `AtCoder` `*300` | Apr/25/2024 21:09 | 
-1359 | [B - The Modcrab](https://codeforces.com/contest/903/problem/B) | [C++17 (GCC 7-32)](./codeforces/903/B.cpp) | `greedy` `implementation` `*1200` | Apr/23/2024 22:13 | 
-1358 | [B - Time Limit Exceeded](https://atcoder.jp/contests/abc112/tasks/abc112_b) | [C++ 17 (gcc 12.2)](./atcoder/abc112/B.cpp) | `AtCoder` `*200` | Apr/23/2024 22:10 | 
-1357 | [B - A BIT of a Construction](https://codeforces.com/contest/1957/problem/B) | [C++17 (GCC 7-32)](./codeforces/1957/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `implementation` `*1100` | Apr/21/2024 20:54 | 
+1374 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 17 (gcc 12.2)](./atcoder/abc157/D.cpp) | `AtCoder` `*400` | May/07/2024 22:34 | 
+1373 | [C - Useful Decomposition](https://codeforces.com/contest/981/problem/C) | [C++17 (GCC 7-32)](./codeforces/981/C.cpp) | `implementation` `trees` `*1400` | May/07/2024 22:33 | 
+1372 | [C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c) | [C++ 17 (gcc 12.2)](./atcoder/abc157/C.cpp) | `AtCoder` `*300` | May/03/2024 22:17 | 
+1371 | [E - Cells Arrangement](https://codeforces.com/contest/1968/problem/E) | [C++17 (GCC 7-32)](./codeforces/1968/E.cpp) | `constructive algorithms` `*1600` | May/02/2024 22:27 | 
+1370 | [D - Permutation Game](https://codeforces.com/contest/1968/problem/D) | [C++17 (GCC 7-32)](./codeforces/1968/D.cpp) | `brute force` `dfs and similar` `games` `graphs` `greedy` `math` `*1300` | May/02/2024 21:35 | 
+1369 | [C - Assembly via Remainders](https://codeforces.com/contest/1968/problem/C) | [C++17 (GCC 7-32)](./codeforces/1968/C.cpp) | `constructive algorithms` `number theory` `*1000` | May/02/2024 21:11 | 
+1368 | [B - Prefiquence](https://codeforces.com/contest/1968/problem/B) | [C++17 (GCC 7-32)](./codeforces/1968/B.cpp) | `greedy` `two pointers` `*800` | May/02/2024 20:53 | 
+1367 | [A - Maximize?](https://codeforces.com/contest/1968/problem/A) | [C++17 (GCC 7-32)](./codeforces/1968/A.cpp) | `brute force` `math` `number theory` `*800` | May/02/2024 20:49 | 
+1366 | [B - Shifts and Sorting](https://codeforces.com/contest/1969/problem/B) | [C++17 (GCC 7-32)](./codeforces/1969/B.cpp) | `constructive algorithms` `greedy` `*1000` | Apr/29/2024 21:02 | 
+1365 | [A - Two Friends](https://codeforces.com/contest/1969/problem/A) | [C++17 (GCC 7-32)](./codeforces/1969/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Apr/29/2024 20:39 | 
+1364 | [C - Everything Nim](https://codeforces.com/contest/1966/problem/C) | [C++17 (GCC 7-32)](./codeforces/1966/C.cpp) | `games` `greedy` `*1400` | Apr/27/2024 22:26 | 
+1363 | [B - Rectangle Filling](https://codeforces.com/contest/1966/problem/B) | [C++17 (GCC 7-32)](./codeforces/1966/B.cpp) | `constructive algorithms` `implementation` `*1100` | Apr/27/2024 21:07 | 
+1362 | [A - Card Exchange](https://codeforces.com/contest/1966/problem/A) | [C++17 (GCC 7-32)](./codeforces/1966/A.cpp) | `constructive algorithms` `games` `greedy` `*800` | Apr/27/2024 20:39 | 
+1361 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | [C++ 17 (gcc 12.2)](./atcoder/abc097/C.cpp) | `AtCoder` `*300` | Apr/25/2024 21:09 | 
+1360 | [B - The Modcrab](https://codeforces.com/contest/903/problem/B) | [C++17 (GCC 7-32)](./codeforces/903/B.cpp) | `greedy` `implementation` `*1200` | Apr/23/2024 22:13 | 
+1359 | [B - Time Limit Exceeded](https://atcoder.jp/contests/abc112/tasks/abc112_b) | [C++ 17 (gcc 12.2)](./atcoder/abc112/B.cpp) | `AtCoder` `*200` | Apr/23/2024 22:10 | 
+1358 | [B - A BIT of a Construction](https://codeforces.com/contest/1957/problem/B) | [C++17 (GCC 7-32)](./codeforces/1957/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `implementation` `*1100` | Apr/21/2024 20:54 | 
+1357 | [A - Stickogon](https://codeforces.com/contest/1957/problem/A) | [C++17 (GCC 7-32)](./codeforces/1957/A.cpp) | `constructive algorithms` `greedy` `*800` | Apr/21/2024 20:41 | 
 1356 | [D - New Friends](https://atcoder.jp/contests/abc350/tasks/abc350_d) | [C++ 17 (gcc 12.2)](./atcoder/abc350/D.cpp) | `AtCoder` `*350` | Apr/20/2024 18:37 | 
 1355 | [C - Sort](https://atcoder.jp/contests/abc350/tasks/abc350_c) | [C++ 17 (gcc 12.2)](./atcoder/abc350/C.cpp) | `AtCoder` `*300` | Apr/20/2024 18:18 | 
 1354 | [A - Past ABCs](https://atcoder.jp/contests/abc350/tasks/abc350_a) | [C++ 17 (gcc 12.2)](./atcoder/abc350/A.cpp) | `AtCoder` `*100` | Apr/20/2024 18:14 | 
