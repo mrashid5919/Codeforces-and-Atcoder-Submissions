@@ -4655,6 +4655,22 @@
     ],
     "timestamp": "Dec/29/2023 22:15"
   },
+  "AC52731893": {
+    "contest_id": "abc112",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc112\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Time Limit Exceeded",
+    "problem_url": "https://atcoder.jp/contests/abc112/tasks/abc112_b",
+    "submission_id": "AC52731893",
+    "submission_url": "https://atcoder.jp/contests/abc112/submissions/52731893",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/23/2024 22:10"
+  },
   "AC52785139": {
     "contest_id": "abc097",
     "language": "C++ 17 (gcc 12.2)",
