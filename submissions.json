@@ -18109,6 +18109,23 @@
     ],
     "timestamp": "Apr/15/2024 22:04"
   },
+  "CF258723959": {
+    "contest_id": 1969,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1969\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Shifts and Sorting",
+    "problem_url": "https://codeforces.com/contest/1969/problem/B",
+    "submission_id": "CF258723959",
+    "submission_url": "https://codeforces.com/contest/1969/submission/258723959",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Apr/29/2024 21:02"
+  },
   "CF259139081": {
     "contest_id": 1968,
     "language": "C++17 (GCC 7-32)",
