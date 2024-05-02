@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1362 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 17 (gcc 12.2)](./atcoder/abc157/D.cpp) | `AtCoder` `*400` | May/07/2024 22:34 | 
-1361 | [C - Useful Decomposition](https://codeforces.com/contest/981/problem/C) | [C++17 (GCC 7-32)](./codeforces/981/C.cpp) | `implementation` `trees` `*1400` | May/07/2024 22:33 | 
-1360 | [C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c) | [C++ 17 (gcc 12.2)](./atcoder/abc157/C.cpp) | `AtCoder` `*300` | May/03/2024 22:17 | 
-1359 | [E - Cells Arrangement](https://codeforces.com/contest/1968/problem/E) | [C++17 (GCC 7-32)](./codeforces/1968/E.cpp) | `constructive algorithms` `*1600` | May/02/2024 22:27 | 
+1363 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 17 (gcc 12.2)](./atcoder/abc157/D.cpp) | `AtCoder` `*400` | May/07/2024 22:34 | 
+1362 | [C - Useful Decomposition](https://codeforces.com/contest/981/problem/C) | [C++17 (GCC 7-32)](./codeforces/981/C.cpp) | `implementation` `trees` `*1400` | May/07/2024 22:33 | 
+1361 | [C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c) | [C++ 17 (gcc 12.2)](./atcoder/abc157/C.cpp) | `AtCoder` `*300` | May/03/2024 22:17 | 
+1360 | [E - Cells Arrangement](https://codeforces.com/contest/1968/problem/E) | [C++17 (GCC 7-32)](./codeforces/1968/E.cpp) | `constructive algorithms` `*1600` | May/02/2024 22:27 | 
+1359 | [D - Permutation Game](https://codeforces.com/contest/1968/problem/D) | [C++17 (GCC 7-32)](./codeforces/1968/D.cpp) | `brute force` `dfs and similar` `games` `graphs` `greedy` `math` `*1300` | May/02/2024 21:35 | 
 1358 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | [C++ 17 (gcc 12.2)](./atcoder/abc097/C.cpp) | `AtCoder` `*300` | Apr/25/2024 21:09 | 
 1357 | [B - Time Limit Exceeded](https://atcoder.jp/contests/abc112/tasks/abc112_b) | [C++ 17 (gcc 12.2)](./atcoder/abc112/B.cpp) | `AtCoder` `*200` | Apr/23/2024 22:10 | 
 1356 | [D - New Friends](https://atcoder.jp/contests/abc350/tasks/abc350_d) | [C++ 17 (gcc 12.2)](./atcoder/abc350/D.cpp) | `AtCoder` `*350` | Apr/20/2024 18:37 | 
