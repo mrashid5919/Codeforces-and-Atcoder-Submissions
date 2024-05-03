@@ -4655,6 +4655,22 @@
     ],
     "timestamp": "Dec/29/2023 22:15"
   },
+  "AC53059242": {
+    "contest_id": "abc157",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc157\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Guess The Number",
+    "problem_url": "https://atcoder.jp/contests/abc157/tasks/abc157_c",
+    "submission_id": "AC53059242",
+    "submission_url": "https://atcoder.jp/contests/abc157/submissions/53059242",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/03/2024 22:17"
+  },
   "AC53229422": {
     "contest_id": "abc157",
     "language": "C++ 17 (gcc 12.2)",
