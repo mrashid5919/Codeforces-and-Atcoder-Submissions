@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1353 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 17 (gcc 12.2)](./atcoder/abc157/D.cpp) | `AtCoder` `*400` | May/07/2024 22:34 | 
 1352 | [B - Div Times Mod](https://codeforces.com/contest/1085/problem/B) | [C++17 (GCC 7-32)](./codeforces/1085/B.cpp) | `math` `*1100` | Apr/15/2024 22:04 | 
 1351 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++17 (GCC 7-32)](./codeforces/1956/C.cpp) | `constructive algorithms` `greedy` `math` `*1600` | Apr/14/2024 02:36 | 
 1350 | [B - Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) | [C++17 (GCC 7-32)](./codeforces/1956/B.cpp) | `games` `greedy` `*800` | Apr/13/2024 20:48 | 
