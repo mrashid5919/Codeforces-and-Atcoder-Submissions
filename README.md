@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1375 | [C - Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | [C++17 (GCC 7-32)](./codeforces/1974/C.cpp) | `combinatorics` `data structures` `*1400` | May/20/2024 22:53 | 
 1374 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 17 (gcc 12.2)](./atcoder/abc157/D.cpp) | `AtCoder` `*400` | May/07/2024 22:34 | 
 1373 | [C - Useful Decomposition](https://codeforces.com/contest/981/problem/C) | [C++17 (GCC 7-32)](./codeforces/981/C.cpp) | `implementation` `trees` `*1400` | May/07/2024 22:33 | 
 1372 | [C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c) | [C++ 17 (gcc 12.2)](./atcoder/abc157/C.cpp) | `AtCoder` `*300` | May/03/2024 22:17 | 
