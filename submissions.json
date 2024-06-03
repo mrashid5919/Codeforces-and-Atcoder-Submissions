@@ -18372,6 +18372,23 @@
     ],
     "timestamp": "May/20/2024 22:53"
   },
+  "CF263950351": {
+    "contest_id": 1980,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1980\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sofia and the Lost Operations",
+    "problem_url": "https://codeforces.com/contest/1980/problem/C",
+    "submission_id": "CF263950351",
+    "submission_url": "https://codeforces.com/contest/1980/submission/263950351",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Jun/03/2024 21:13"
+  },
   "CF263979347": {
     "contest_id": 1980,
     "language": "C++17 (GCC 7-32)",
