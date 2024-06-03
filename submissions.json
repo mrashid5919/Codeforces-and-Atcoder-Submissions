@@ -18372,6 +18372,29 @@
     ],
     "timestamp": "May/20/2024 22:53"
   },
+  "CF264015990": {
+    "contest_id": 1980,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1980\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permutation of Rows and Columns",
+    "problem_url": "https://codeforces.com/contest/1980/problem/E",
+    "submission_id": "CF264015990",
+    "submission_url": "https://codeforces.com/contest/1980/submission/264015990",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "hashing",
+      "implementation",
+      "math",
+      "matrices",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Jun/03/2024 22:29"
+  },
   "CF264412199": {
     "contest_id": 1979,
     "language": "C++17 (GCC 7-32)",
