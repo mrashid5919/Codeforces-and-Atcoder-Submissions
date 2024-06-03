@@ -18372,6 +18372,22 @@
     ],
     "timestamp": "May/20/2024 22:53"
   },
+  "CF263897806": {
+    "contest_id": 1980,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1980\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Problem Generator",
+    "problem_url": "https://codeforces.com/contest/1980/problem/A",
+    "submission_id": "CF263897806",
+    "submission_url": "https://codeforces.com/contest/1980/submission/263897806",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/03/2024 20:38"
+  },
   "CF263911028": {
     "contest_id": 1980,
     "language": "C++17 (GCC 7-32)",
