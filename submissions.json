@@ -18569,6 +18569,24 @@
     ],
     "timestamp": "Jun/09/2024 21:30"
   },
+  "CF267014502": {
+    "contest_id": 1986,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1986\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Update Queries",
+    "problem_url": "https://codeforces.com/contest/1986/problem/C",
+    "submission_id": "CF267014502",
+    "submission_url": "https://codeforces.com/contest/1986/submission/267014502",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jun/23/2024 21:26"
+  },
   "CF267058786": {
     "contest_id": 1986,
     "language": "C++17 (GCC 7-32)",

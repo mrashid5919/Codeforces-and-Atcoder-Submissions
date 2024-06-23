@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1390 | [C - Boring Day](https://codeforces.com/contest/1982/problem/C) | [C++17 (GCC 7-32)](./codeforces/1982/C.cpp) | `binary search` `data structures` `dp` `greedy` `two pointers` `*1200` | Jun/25/2024 22:25 | 
-1389 | [B - Collatz Conjecture](https://codeforces.com/contest/1982/problem/B) | [C++17 (GCC 7-32)](./codeforces/1982/B.cpp) | `brute force` `implementation` `math` `number theory` `*1200` | Jun/25/2024 21:05 | 
-1388 | [A - Soccer](https://codeforces.com/contest/1982/problem/A) | [C++17 (GCC 7-32)](./codeforces/1982/A.cpp) | `greedy` `implementation` `math` `sortings` `*800` | Jun/25/2024 20:38 | 
-1387 | [D - Mathematical Problem](https://codeforces.com/contest/1986/problem/D) | [C++17 (GCC 7-32)](./codeforces/1986/D.cpp) | `brute force` `dp` `greedy` `implementation` `math` `two pointers` `*1400` | Jun/23/2024 22:31 | 
+1391 | [C - Boring Day](https://codeforces.com/contest/1982/problem/C) | [C++17 (GCC 7-32)](./codeforces/1982/C.cpp) | `binary search` `data structures` `dp` `greedy` `two pointers` `*1200` | Jun/25/2024 22:25 | 
+1390 | [B - Collatz Conjecture](https://codeforces.com/contest/1982/problem/B) | [C++17 (GCC 7-32)](./codeforces/1982/B.cpp) | `brute force` `implementation` `math` `number theory` `*1200` | Jun/25/2024 21:05 | 
+1389 | [A - Soccer](https://codeforces.com/contest/1982/problem/A) | [C++17 (GCC 7-32)](./codeforces/1982/A.cpp) | `greedy` `implementation` `math` `sortings` `*800` | Jun/25/2024 20:38 | 
+1388 | [D - Mathematical Problem](https://codeforces.com/contest/1986/problem/D) | [C++17 (GCC 7-32)](./codeforces/1986/D.cpp) | `brute force` `dp` `greedy` `implementation` `math` `two pointers` `*1400` | Jun/23/2024 22:31 | 
+1387 | [C - Update Queries](https://codeforces.com/contest/1986/problem/C) | [C++17 (GCC 7-32)](./codeforces/1986/C.cpp) | `data structures` `greedy` `sortings` `*1100` | Jun/23/2024 21:26 | 
 1386 | [C1 - Magnitude (Easy Version)](https://codeforces.com/contest/1984/problem/C1) | [C++17 (GCC 7-32)](./codeforces/1984/C1.cpp) | `dp` `greedy` `math` `*1300` | Jun/09/2024 21:30 | 
 1385 | [B - Large Addition](https://codeforces.com/contest/1984/problem/B) | [C++17 (GCC 7-32)](./codeforces/1984/B.cpp) | `implementation` `math` `*1100` | Jun/09/2024 20:58 | 
 1384 | [A - Strange Splitting](https://codeforces.com/contest/1984/problem/A) | [C++17 (GCC 7-32)](./codeforces/1984/A.cpp) | `constructive algorithms` `*800` | Jun/09/2024 20:41 | 
