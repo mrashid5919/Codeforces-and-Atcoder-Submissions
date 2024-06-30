@@ -4783,6 +4783,22 @@
     ],
     "timestamp": "May/07/2024 22:34"
   },
+  "AC55074620": {
+    "contest_id": "abc360",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc360\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Move It",
+    "problem_url": "https://atcoder.jp/contests/abc360/tasks/abc360_c",
+    "submission_id": "AC55074620",
+    "submission_url": "https://atcoder.jp/contests/abc360/submissions/55074620",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Jun/30/2024 18:40"
+  },
   "AC55086487": {
     "contest_id": "abc360",
     "language": "C++ 17 (gcc 12.2)",
