@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1399 | [C - Basil's Garden](https://codeforces.com/contest/1987/problem/C) | [C++17 (GCC 7-32)](./codeforces/1987/C.cpp) | `dp` `greedy` `*1200` | Jun/30/2024 22:44 | 
-1398 | [B - K-Sort](https://codeforces.com/contest/1987/problem/B) | [C++17 (GCC 7-32)](./codeforces/1987/B.cpp) | `greedy` `*1000` | Jun/30/2024 21:03 | 
+1400 | [C - Basil's Garden](https://codeforces.com/contest/1987/problem/C) | [C++17 (GCC 7-32)](./codeforces/1987/C.cpp) | `dp` `greedy` `*1200` | Jun/30/2024 22:44 | 
+1399 | [B - K-Sort](https://codeforces.com/contest/1987/problem/B) | [C++17 (GCC 7-32)](./codeforces/1987/B.cpp) | `greedy` `*1000` | Jun/30/2024 21:03 | 
+1398 | [A - Upload More RAM](https://codeforces.com/contest/1987/problem/A) | [C++17 (GCC 7-32)](./codeforces/1987/A.cpp) | `greedy` `math` `*800` | Jun/30/2024 20:38 | 
 1397 | [D - Ghost Ants](https://atcoder.jp/contests/abc360/tasks/abc360_d) | [C++ 17 (gcc 12.2)](./atcoder/abc360/D.cpp) | `AtCoder` `*350` | Jun/30/2024 19:11 | 
 1396 | [C - Move It](https://atcoder.jp/contests/abc360/tasks/abc360_c) | [C++ 17 (gcc 12.2)](./atcoder/abc360/C.cpp) | `AtCoder` `*250` | Jun/30/2024 18:40 | 
 1395 | [B - Vertical Reading](https://atcoder.jp/contests/abc360/tasks/abc360_b) | [C++ 17 (gcc 12.2)](./atcoder/abc360/B.cpp) | `AtCoder` `*200` | Jun/30/2024 18:31 | 
