@@ -4783,6 +4783,22 @@
     ],
     "timestamp": "May/07/2024 22:34"
   },
+  "AC55046902": {
+    "contest_id": "abc360",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc360\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "A Healthy Breakfast",
+    "problem_url": "https://atcoder.jp/contests/abc360/tasks/abc360_a",
+    "submission_id": "AC55046902",
+    "submission_url": "https://atcoder.jp/contests/abc360/submissions/55046902",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/30/2024 18:02"
+  },
   "AC55070453": {
     "contest_id": "abc360",
     "language": "C++ 17 (gcc 12.2)",
