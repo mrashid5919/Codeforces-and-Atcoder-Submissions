@@ -18768,6 +18768,22 @@
     ],
     "timestamp": "Jun/25/2024 22:25"
   },
+  "CF268160774": {
+    "contest_id": 1987,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1987\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "K-Sort",
+    "problem_url": "https://codeforces.com/contest/1987/problem/B",
+    "submission_id": "CF268160774",
+    "submission_url": "https://codeforces.com/contest/1987/submission/268160774",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jun/30/2024 21:03"
+  },
   "CF268203932": {
     "contest_id": 1987,
     "language": "C++17 (GCC 7-32)",
