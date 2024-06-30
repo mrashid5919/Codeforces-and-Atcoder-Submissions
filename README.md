@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1395 | [D - Ghost Ants](https://atcoder.jp/contests/abc360/tasks/abc360_d) | [C++ 17 (gcc 12.2)](./atcoder/abc360/D.cpp) | `AtCoder` `*350` | Jun/30/2024 19:11 | 
-1394 | [C - Move It](https://atcoder.jp/contests/abc360/tasks/abc360_c) | [C++ 17 (gcc 12.2)](./atcoder/abc360/C.cpp) | `AtCoder` `*250` | Jun/30/2024 18:40 | 
+1396 | [D - Ghost Ants](https://atcoder.jp/contests/abc360/tasks/abc360_d) | [C++ 17 (gcc 12.2)](./atcoder/abc360/D.cpp) | `AtCoder` `*350` | Jun/30/2024 19:11 | 
+1395 | [C - Move It](https://atcoder.jp/contests/abc360/tasks/abc360_c) | [C++ 17 (gcc 12.2)](./atcoder/abc360/C.cpp) | `AtCoder` `*250` | Jun/30/2024 18:40 | 
+1394 | [B - Vertical Reading](https://atcoder.jp/contests/abc360/tasks/abc360_b) | [C++ 17 (gcc 12.2)](./atcoder/abc360/B.cpp) | `AtCoder` `*200` | Jun/30/2024 18:31 | 
 1393 | [C - Boring Day](https://codeforces.com/contest/1982/problem/C) | [C++17 (GCC 7-32)](./codeforces/1982/C.cpp) | `binary search` `data structures` `dp` `greedy` `two pointers` `*1200` | Jun/25/2024 22:25 | 
 1392 | [B - Collatz Conjecture](https://codeforces.com/contest/1982/problem/B) | [C++17 (GCC 7-32)](./codeforces/1982/B.cpp) | `brute force` `implementation` `math` `number theory` `*1200` | Jun/25/2024 21:05 | 
 1391 | [A - Soccer](https://codeforces.com/contest/1982/problem/A) | [C++17 (GCC 7-32)](./codeforces/1982/A.cpp) | `greedy` `implementation` `math` `sortings` `*800` | Jun/25/2024 20:38 | 
