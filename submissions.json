@@ -4847,6 +4847,22 @@
     ],
     "timestamp": "Jun/30/2024 19:11"
   },
+  "AC55270422": {
+    "contest_id": "abc361",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc361\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Intersection of Cuboids",
+    "problem_url": "https://atcoder.jp/contests/abc361/tasks/abc361_b",
+    "submission_id": "AC55270422",
+    "submission_url": "https://atcoder.jp/contests/abc361/submissions/55270422",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Jul/06/2024 18:17"
+  },
   "AC55275360": {
     "contest_id": "abc361",
     "language": "C++ 17 (gcc 12.2)",
