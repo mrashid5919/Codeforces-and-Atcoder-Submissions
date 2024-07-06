@@ -4847,6 +4847,22 @@
     ],
     "timestamp": "Jun/30/2024 19:11"
   },
+  "AC55275360": {
+    "contest_id": "abc361",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc361\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Make Them Narrow",
+    "problem_url": "https://atcoder.jp/contests/abc361/tasks/abc361_c",
+    "submission_id": "AC55275360",
+    "submission_url": "https://atcoder.jp/contests/abc361/submissions/55275360",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Jul/06/2024 18:23"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",

@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1401 | [C - Make Them Narrow](https://atcoder.jp/contests/abc361/tasks/abc361_c) | [C++ 17 (gcc 12.2)](./atcoder/abc361/C.cpp) | `AtCoder` `*250` | Jul/06/2024 18:23 | 
 1400 | [C - Basil's Garden](https://codeforces.com/contest/1987/problem/C) | [C++17 (GCC 7-32)](./codeforces/1987/C.cpp) | `dp` `greedy` `*1200` | Jun/30/2024 22:44 | 
 1399 | [B - K-Sort](https://codeforces.com/contest/1987/problem/B) | [C++17 (GCC 7-32)](./codeforces/1987/B.cpp) | `greedy` `*1000` | Jun/30/2024 21:03 | 
 1398 | [A - Upload More RAM](https://codeforces.com/contest/1987/problem/A) | [C++17 (GCC 7-32)](./codeforces/1987/A.cpp) | `greedy` `math` `*800` | Jun/30/2024 20:38 | 
