@@ -18898,6 +18898,25 @@
     ],
     "timestamp": "Jun/30/2024 22:44"
   },
+  "CF269279507": {
+    "contest_id": 1983,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1983\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Corner Twist",
+    "problem_url": "https://codeforces.com/contest/1983/problem/B",
+    "submission_id": "CF269279507",
+    "submission_url": "https://codeforces.com/contest/1983/submission/269279507",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jul/07/2024 22:14"
+  },
   "CF269907110": {
     "contest_id": 1992,
     "language": "C++17 (GCC 7-32)",
