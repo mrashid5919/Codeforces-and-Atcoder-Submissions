@@ -1,0 +1,173 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#define fastio ios::sync_with_stdio(0);cin.tie(0)
+
+int main()
+{
+    fastio;
+    long long t,n,i,tar,p,x,a1,a2,b1,b2,c1,c2;
+    cin>>t;
+    while(t--)
+    {
+        cin>>n;
+        vector<long long> a(n),b(n),c(n);
+        for(i=0;i<n;i++)
+        {
+            cin>>x;
+            if(i==0)
+                a[i]=x;
+            else
+                a[i]=a[i-1]+x;
+        }
+        for(i=0;i<n;i++)
+        {
+            cin>>x;
+            if(i==0)
+                b[i]=x;
+            else
+                b[i]=b[i-1]+x;
+        }
+        for(i=0;i<n;i++)
+        {
+            cin>>x;
+            if(i==0)
+                c[i]=x;
+            else
+                c[i]=c[i-1]+x;
+        }
+        if(a[n-1]%3==0)
+            tar=a[n-1]/3;
+        else
+            tar=(a[n-1]/3)+1;
+        p=0;
+        vector<long long>::iterator it1,it2;
+        it1=lower_bound(a.begin(),a.end(),tar);
+        if(it1!=a.end())
+        {
+            a1=1;
+            a2=it1-a.begin();
+            a2++;
+            it2=lower_bound(b.begin()+a2,b.end(),b[a2-1]+tar);
+            if(it2!=b.end())
+            {
+                b1=a2+1;
+                b2=it2-b.begin();
+                b2++;
+                it1=lower_bound(c.begin()+b2,c.end(),c[b2-1]+tar);
+                if(it1!=c.end())
+                {
+                    c1=b2+1;
+                    c2=n;
+                    p=1;
+                    cout<<a1<<" "<<a2<<" "<<b1<<" "<<b2<<" "<<c1<<" "<<c2<<"\n";
+                }
+                else
+                {
+                    it2=lower_bound(c.begin()+a2,c.end(),c[a2-1]+tar);
+                    if(it2!=c.end())
+                    {
+                        c1=a2+1;
+                        c2=it2-c.begin();
+                        c2++;
+                        it1=lower_bound(b.begin()+c2,b.end(),b[c2-1]+tar);
+                        if(it1!=b.end())
+                        {
+                            b1=c2+1;
+                            b2=n;
+                            p=1;
+                            cout<<a1<<" "<<a2<<" "<<b1<<" "<<b2<<" "<<c1<<" "<<c2<<"\n";
+                        }
+                    }
+                }
+            }
+        }
+        if(p==1)
+            continue;
+        it1=lower_bound(b.begin(),b.end(),tar);
+        if(it1!=b.end())
+        {
+            b1=1;
+            b2=it1-b.begin();
+            b2++;
+            it2=lower_bound(a.begin()+b2,a.end(),a[b2-1]+tar);
+            if(it2!=a.end())
+            {
+                a1=b2+1;
+                a2=it2-a.begin();
+                a2++;
+                it1=lower_bound(c.begin()+a2,c.end(),c[a2-1]+tar);
+                if(it1!=c.end())
+                {
+                    c1=a2+1;
+                    c2=n;
+                    p=1;
+                    cout<<a1<<" "<<a2<<" "<<b1<<" "<<b2<<" "<<c1<<" "<<c2<<"\n";
+                }
+                else
+                {
+                    it2=lower_bound(c.begin()+b2,c.end(),c[b2-1]+tar);
+                    if(it2!=c.end())
+                    {
+                        c1=b2+1;
+                        c2=it2-c.begin();
+                        c2++;
+                        it1=lower_bound(a.begin()+c2,a.end(),a[c2-1]+tar);
+                        if(it1!=a.end())
+                        {
+                            a1=c2+1;
+                            a2=n;
+                            p=1;
+                            cout<<a1<<" "<<a2<<" "<<b1<<" "<<b2<<" "<<c1<<" "<<c2<<"\n";
+                        }
+                    }
+                }
+            }
+        }
+        if(p==1)
+            continue;
+        it1=lower_bound(c.begin(),c.end(),tar);
+        if(it1!=c.end())
+        {
+            c1=1;
+            c2=it1-c.begin();
+            c2++;
+            it2=lower_bound(a.begin()+c2,a.end(),a[c2-1]+tar);
+            if(it2!=a.end())
+            {
+                a1=c2+1;
+                a2=it2-a.begin();
+                a2++;
+                it1=lower_bound(b.begin()+a2,b.end(),b[a2-1]+tar);
+                if(it1!=b.end())
+                {
+                    b1=a2+1;
+                    b2=n;
+                    p=1;
+                    cout<<a1<<" "<<a2<<" "<<b1<<" "<<b2<<" "<<c1<<" "<<c2<<"\n";
+                }
+                else
+                {
+                    it2=lower_bound(b.begin()+c2,b.end(),b[c2-1]+tar);
+                    if(it2!=b.end())
+                    {
+                        b1=c2+1;
+                        b2=it2-b.begin();
+                        b2++;
+                        it1=lower_bound(a.begin()+b2,a.end(),a[b2-1]+tar);
+                        if(it1!=a.end())
+                        {
+                            a1=b2+1;
+                            a2=n;
+                            p=1;
+                            cout<<a1<<" "<<a2<<" "<<b1<<" "<<b2<<" "<<c1<<" "<<c2<<"\n";
+                        }
+                    }
+                }
+            }
+        }
+        if(p==0)
+            cout<<"-1\n";
+    }
+    return 0;
+}

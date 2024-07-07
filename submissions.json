@@ -18898,6 +18898,25 @@
     ],
     "timestamp": "Jun/30/2024 22:44"
   },
+  "CF269257297": {
+    "contest_id": 1983,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1983\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Have Your Cake and Eat It Too",
+    "problem_url": "https://codeforces.com/contest/1983/problem/C",
+    "submission_id": "CF269257297",
+    "submission_url": "https://codeforces.com/contest/1983/submission/269257297",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/07/2024 21:22"
+  },
   "CF269279507": {
     "contest_id": 1983,
     "language": "C++17 (GCC 7-32)",

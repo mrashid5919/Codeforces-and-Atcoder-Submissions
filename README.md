@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1411 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++17 (GCC 7-32)](./codeforces/1992/E.cpp) | `brute force` `constructive algorithms` `math` `strings` `*1700` | Jul/11/2024 23:41 | 
-1410 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++17 (GCC 7-32)](./codeforces/1992/D.cpp) | `dp` `greedy` `implementation` `*1200` | Jul/11/2024 22:01 | 
-1409 | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++17 (GCC 7-32)](./codeforces/1992/C.cpp) | `constructive algorithms` `math` `*900` | Jul/11/2024 20:55 | 
-1408 | [B - Angry Monk](https://codeforces.com/contest/1992/problem/B) | [C++17 (GCC 7-32)](./codeforces/1992/B.cpp) | `greedy` `math` `sortings` `*800` | Jul/11/2024 20:45 | 
-1407 | [A - Only Pluses](https://codeforces.com/contest/1992/problem/A) | [C++17 (GCC 7-32)](./codeforces/1992/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `sortings` `*800` | Jul/11/2024 20:40 | 
-1406 | [D - Maze Master](https://atcoder.jp/contests/abc151/tasks/abc151_d) | [C++ 17 (gcc 12.2)](./atcoder/abc151/D.cpp) | `AtCoder` `*400` | Jul/08/2024 22:22 | 
-1405 | [B - Triple Metre](https://atcoder.jp/contests/abc230/tasks/abc230_b) | [C++ 17 (gcc 12.2)](./atcoder/abc230/B.cpp) | `AtCoder` `*200` | Jul/08/2024 22:21 | 
-1404 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Jul/07/2024 22:14 | 
+1412 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++17 (GCC 7-32)](./codeforces/1992/E.cpp) | `brute force` `constructive algorithms` `math` `strings` `*1700` | Jul/11/2024 23:41 | 
+1411 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++17 (GCC 7-32)](./codeforces/1992/D.cpp) | `dp` `greedy` `implementation` `*1200` | Jul/11/2024 22:01 | 
+1410 | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++17 (GCC 7-32)](./codeforces/1992/C.cpp) | `constructive algorithms` `math` `*900` | Jul/11/2024 20:55 | 
+1409 | [B - Angry Monk](https://codeforces.com/contest/1992/problem/B) | [C++17 (GCC 7-32)](./codeforces/1992/B.cpp) | `greedy` `math` `sortings` `*800` | Jul/11/2024 20:45 | 
+1408 | [A - Only Pluses](https://codeforces.com/contest/1992/problem/A) | [C++17 (GCC 7-32)](./codeforces/1992/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `sortings` `*800` | Jul/11/2024 20:40 | 
+1407 | [D - Maze Master](https://atcoder.jp/contests/abc151/tasks/abc151_d) | [C++ 17 (gcc 12.2)](./atcoder/abc151/D.cpp) | `AtCoder` `*400` | Jul/08/2024 22:22 | 
+1406 | [B - Triple Metre](https://atcoder.jp/contests/abc230/tasks/abc230_b) | [C++ 17 (gcc 12.2)](./atcoder/abc230/B.cpp) | `AtCoder` `*200` | Jul/08/2024 22:21 | 
+1405 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Jul/07/2024 22:14 | 
+1404 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++17 (GCC 7-32)](./codeforces/1983/C.cpp) | `binary search` `brute force` `greedy` `implementation` `*1400` | Jul/07/2024 21:22 | 
 1403 | [C - Make Them Narrow](https://atcoder.jp/contests/abc361/tasks/abc361_c) | [C++ 17 (gcc 12.2)](./atcoder/abc361/C.cpp) | `AtCoder` `*250` | Jul/06/2024 18:23 | 
 1402 | [B - Intersection of Cuboids](https://atcoder.jp/contests/abc361/tasks/abc361_b) | [C++ 17 (gcc 12.2)](./atcoder/abc361/B.cpp) | `AtCoder` `*250` | Jul/06/2024 18:17 | 
 1401 | [A - Insert](https://atcoder.jp/contests/abc361/tasks/abc361_a) | [C++ 17 (gcc 12.2)](./atcoder/abc361/A.cpp) | `AtCoder` `*100` | Jul/06/2024 18:02 | 
