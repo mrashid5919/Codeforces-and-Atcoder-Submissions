@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1404 | [D - Maze Master](https://atcoder.jp/contests/abc151/tasks/abc151_d) | [C++ 17 (gcc 12.2)](./atcoder/abc151/D.cpp) | `AtCoder` `*400` | Jul/08/2024 22:22 | 
 1403 | [C - Make Them Narrow](https://atcoder.jp/contests/abc361/tasks/abc361_c) | [C++ 17 (gcc 12.2)](./atcoder/abc361/C.cpp) | `AtCoder` `*250` | Jul/06/2024 18:23 | 
 1402 | [B - Intersection of Cuboids](https://atcoder.jp/contests/abc361/tasks/abc361_b) | [C++ 17 (gcc 12.2)](./atcoder/abc361/B.cpp) | `AtCoder` `*250` | Jul/06/2024 18:17 | 
 1401 | [A - Insert](https://atcoder.jp/contests/abc361/tasks/abc361_a) | [C++ 17 (gcc 12.2)](./atcoder/abc361/A.cpp) | `AtCoder` `*100` | Jul/06/2024 18:02 | 

@@ -4895,6 +4895,22 @@
     ],
     "timestamp": "Jul/06/2024 18:23"
   },
+  "AC55381512": {
+    "contest_id": "abc151",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc151\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Maze Master",
+    "problem_url": "https://atcoder.jp/contests/abc151/tasks/abc151_d",
+    "submission_id": "AC55381512",
+    "submission_url": "https://atcoder.jp/contests/abc151/submissions/55381512",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/08/2024 22:22"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
