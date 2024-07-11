@@ -18898,6 +18898,24 @@
     ],
     "timestamp": "Jun/30/2024 22:44"
   },
+  "CF270008758": {
+    "contest_id": 1992,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1992\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Test of Love",
+    "problem_url": "https://codeforces.com/contest/1992/problem/D",
+    "submission_id": "CF270008758",
+    "submission_url": "https://codeforces.com/contest/1992/submission/270008758",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/11/2024 22:01"
+  },
   "CF270055166": {
     "contest_id": 1992,
     "language": "C++17 (GCC 7-32)",
