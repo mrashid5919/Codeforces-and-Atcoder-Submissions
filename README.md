@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1406 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++17 (GCC 7-32)](./codeforces/1992/E.cpp) | `brute force` `constructive algorithms` `math` `strings` `*1700` | Jul/11/2024 23:41 | 
 1405 | [D - Maze Master](https://atcoder.jp/contests/abc151/tasks/abc151_d) | [C++ 17 (gcc 12.2)](./atcoder/abc151/D.cpp) | `AtCoder` `*400` | Jul/08/2024 22:22 | 
 1404 | [B - Triple Metre](https://atcoder.jp/contests/abc230/tasks/abc230_b) | [C++ 17 (gcc 12.2)](./atcoder/abc230/B.cpp) | `AtCoder` `*200` | Jul/08/2024 22:21 | 
 1403 | [C - Make Them Narrow](https://atcoder.jp/contests/abc361/tasks/abc361_c) | [C++ 17 (gcc 12.2)](./atcoder/abc361/C.cpp) | `AtCoder` `*250` | Jul/06/2024 18:23 | 

@@ -18898,6 +18898,25 @@
     ],
     "timestamp": "Jun/30/2024 22:44"
   },
+  "CF270055166": {
+    "contest_id": 1992,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1992\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Novice's Mistake",
+    "problem_url": "https://codeforces.com/contest/1992/problem/E",
+    "submission_id": "CF270055166",
+    "submission_url": "https://codeforces.com/contest/1992/submission/270055166",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jul/11/2024 23:41"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
