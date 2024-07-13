@@ -4927,6 +4927,22 @@
     ],
     "timestamp": "Jul/08/2024 22:22"
   },
+  "AC55518403": {
+    "contest_id": "abc362",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc362\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Right Triangle",
+    "problem_url": "https://atcoder.jp/contests/abc362/tasks/abc362_b",
+    "submission_id": "AC55518403",
+    "submission_url": "https://atcoder.jp/contests/abc362/submissions/55518403",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/13/2024 18:05"
+  },
   "AC55553791": {
     "contest_id": "abc362",
     "language": "C++ 17 (gcc 12.2)",
