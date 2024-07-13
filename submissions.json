@@ -4927,6 +4927,22 @@
     ],
     "timestamp": "Jul/08/2024 22:22"
   },
+  "AC55560441": {
+    "contest_id": "abc362",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc362\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Shortest Path 3",
+    "problem_url": "https://atcoder.jp/contests/abc362/tasks/abc362_d",
+    "submission_id": "AC55560441",
+    "submission_url": "https://atcoder.jp/contests/abc362/submissions/55560441",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Jul/13/2024 19:08"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",

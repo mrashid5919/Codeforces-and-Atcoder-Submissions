@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1414 | [D - Shortest Path 3](https://atcoder.jp/contests/abc362/tasks/abc362_d) | [C++ 17 (gcc 12.2)](./atcoder/abc362/D.cpp) | `AtCoder` `*425` | Jul/13/2024 19:08 | 
 1413 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++17 (GCC 7-32)](./codeforces/1992/E.cpp) | `brute force` `constructive algorithms` `math` `strings` `*1700` | Jul/11/2024 23:41 | 
 1412 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++17 (GCC 7-32)](./codeforces/1992/D.cpp) | `dp` `greedy` `implementation` `*1200` | Jul/11/2024 22:01 | 
 1411 | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++17 (GCC 7-32)](./codeforces/1992/C.cpp) | `constructive algorithms` `math` `*900` | Jul/11/2024 20:55 | 
