@@ -4927,6 +4927,22 @@
     ],
     "timestamp": "Jul/08/2024 22:22"
   },
+  "AC55512970": {
+    "contest_id": "abc362",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc362\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Buy a Pen",
+    "problem_url": "https://atcoder.jp/contests/abc362/tasks/abc362_a",
+    "submission_id": "AC55512970",
+    "submission_url": "https://atcoder.jp/contests/abc362/submissions/55512970",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/13/2024 18:02"
+  },
   "AC55518403": {
     "contest_id": "abc362",
     "language": "C++ 17 (gcc 12.2)",
