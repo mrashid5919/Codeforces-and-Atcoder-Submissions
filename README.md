@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1418 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++17 (GCC 7-32)](./codeforces/1988/C.cpp) | `bitmasks` `constructive algorithms` `greedy` `*1300` | Jul/15/2024 21:49 | 
 1417 | [D - Shortest Path 3](https://atcoder.jp/contests/abc362/tasks/abc362_d) | [C++ 17 (gcc 12.2)](./atcoder/abc362/D.cpp) | `AtCoder` `*425` | Jul/13/2024 19:08 | 
 1416 | [C - Sum = 0](https://atcoder.jp/contests/abc362/tasks/abc362_c) | [C++ 17 (gcc 12.2)](./atcoder/abc362/C.cpp) | `AtCoder` `*350` | Jul/13/2024 18:54 | 
 1415 | [B - Right Triangle](https://atcoder.jp/contests/abc362/tasks/abc362_b) | [C++ 17 (gcc 12.2)](./atcoder/abc362/B.cpp) | `AtCoder` `*200` | Jul/13/2024 18:05 | 
