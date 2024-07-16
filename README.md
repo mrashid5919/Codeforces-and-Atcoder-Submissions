@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1421 | [B - 754](https://atcoder.jp/contests/abc114/tasks/abc114_b) | [C++ 17 (gcc 12.2)](./atcoder/abc114/B.cpp) | `AtCoder` `*200` | Jul/16/2024 22:02 | 
 1420 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++17 (GCC 7-32)](./codeforces/1988/C.cpp) | `bitmasks` `constructive algorithms` `greedy` `*1300` | Jul/15/2024 21:49 | 
 1419 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++17 (GCC 7-32)](./codeforces/1988/B.cpp) | `greedy` `implementation` `*900` | Jul/15/2024 20:51 | 
 1418 | [A - Split the Multiset](https://codeforces.com/contest/1988/problem/A) | [C++17 (GCC 7-32)](./codeforces/1988/A.cpp) | `brute force` `greedy` `implementation` `math` `*900` | Jul/15/2024 20:40 | 
