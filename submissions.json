@@ -19470,6 +19470,25 @@
     ],
     "timestamp": "Jul/26/2024 20:42"
   },
+  "CF272763629": {
+    "contest_id": 1996,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1996\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sort",
+    "problem_url": "https://codeforces.com/contest/1996/problem/C",
+    "submission_id": "CF272763629",
+    "submission_url": "https://codeforces.com/contest/1996/submission/272763629",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jul/26/2024 20:55"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",

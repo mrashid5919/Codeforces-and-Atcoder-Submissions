@@ -13,22 +13,23 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1439 | [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b) | [C++ 17 (gcc 12.2)](./atcoder/abs/ABC081B.cpp) | `AtCoder` `*200` | Aug/19/2024 22:04 | 
-1438 | [A - Entrance Examination](https://atcoder.jp/contests/abc117/tasks/abc117_a) | [C++ 17 (gcc 12.2)](./atcoder/abc117/A.cpp) | `AtCoder` `*100` | Aug/19/2024 22:03 | 
-1437 | [D - Pedometer](https://atcoder.jp/contests/abc367/tasks/abc367_d) | [C++ 17 (gcc 12.2)](./atcoder/abc367/D.cpp) | `AtCoder` `*400` | Aug/17/2024 19:04 | 
-1436 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 17 (gcc 12.2)](./atcoder/abc367/C.cpp) | `AtCoder` `*300` | Aug/17/2024 18:22 | 
-1435 | [B - Cut .0](https://atcoder.jp/contests/abc367/tasks/abc367_b) | [C++ 17 (gcc 12.2)](./atcoder/abc367/B.cpp) | `AtCoder` `*150` | Aug/17/2024 18:12 | 
-1434 | [A - Shout Everyday](https://atcoder.jp/contests/abc367/tasks/abc367_a) | [C++ 17 (gcc 12.2)](./atcoder/abc367/A.cpp) | `AtCoder` `*150` | Aug/17/2024 18:06 | 
-1433 | [C - Balls and Bag Query](https://atcoder.jp/contests/abc366/tasks/abc366_c) | [C++ 17 (gcc 12.2)](./atcoder/abc366/C.cpp) | `AtCoder` `*300` | Aug/10/2024 18:24 | 
-1432 | [B - Vertical Writing](https://atcoder.jp/contests/abc366/tasks/abc366_b) | [C++ 17 (gcc 12.2)](./atcoder/abc366/B.cpp) | `AtCoder` `*200` | Aug/10/2024 18:19 | 
-1431 | [A - Election 2](https://atcoder.jp/contests/abc366/tasks/abc366_a) | [C++ 17 (gcc 12.2)](./atcoder/abc366/A.cpp) | `AtCoder` `*100` | Aug/10/2024 18:02 | 
-1430 | [D - AtCoder Janken 3](https://atcoder.jp/contests/abc365/tasks/abc365_d) | [C++ 17 (gcc 12.2)](./atcoder/abc365/D.cpp) | `AtCoder` `*400` | Aug/03/2024 19:04 | 
-1429 | [C - Transportation Expenses](https://atcoder.jp/contests/abc365/tasks/abc365_c) | [C++ 17 (gcc 12.2)](./atcoder/abc365/C.cpp) | `AtCoder` `*300` | Aug/03/2024 18:16 | 
-1428 | [B - Second Best](https://atcoder.jp/contests/abc365/tasks/abc365_b) | [C++ 17 (gcc 12.2)](./atcoder/abc365/B.cpp) | `AtCoder` `*200` | Aug/03/2024 18:05 | 
-1427 | [A - Leap Year](https://atcoder.jp/contests/abc365/tasks/abc365_a) | [C++ 17 (gcc 12.2)](./atcoder/abc365/A.cpp) | `AtCoder` `*100` | Aug/03/2024 18:02 | 
-1426 | [C - Minimum Glutton](https://atcoder.jp/contests/abc364/tasks/abc364_c) | [C++ 17 (gcc 12.2)](./atcoder/abc364/C.cpp) | `AtCoder` `*250` | Jul/27/2024 18:17 | 
-1425 | [B - Grid Walk](https://atcoder.jp/contests/abc364/tasks/abc364_b) | [C++ 17 (gcc 12.2)](./atcoder/abc364/B.cpp) | `AtCoder` `*200` | Jul/27/2024 18:10 | 
-1424 | [A - Glutton Takahashi](https://atcoder.jp/contests/abc364/tasks/abc364_a) | [C++ 17 (gcc 12.2)](./atcoder/abc364/A.cpp) | `AtCoder` `*100` | Jul/27/2024 18:03 |
+1440 | [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b) | [C++ 17 (gcc 12.2)](./atcoder/abs/ABC081B.cpp) | `AtCoder` `*200` | Aug/19/2024 22:04 | 
+1439 | [A - Entrance Examination](https://atcoder.jp/contests/abc117/tasks/abc117_a) | [C++ 17 (gcc 12.2)](./atcoder/abc117/A.cpp) | `AtCoder` `*100` | Aug/19/2024 22:03 | 
+1438 | [D - Pedometer](https://atcoder.jp/contests/abc367/tasks/abc367_d) | [C++ 17 (gcc 12.2)](./atcoder/abc367/D.cpp) | `AtCoder` `*400` | Aug/17/2024 19:04 | 
+1437 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 17 (gcc 12.2)](./atcoder/abc367/C.cpp) | `AtCoder` `*300` | Aug/17/2024 18:22 | 
+1436 | [B - Cut .0](https://atcoder.jp/contests/abc367/tasks/abc367_b) | [C++ 17 (gcc 12.2)](./atcoder/abc367/B.cpp) | `AtCoder` `*150` | Aug/17/2024 18:12 | 
+1435 | [A - Shout Everyday](https://atcoder.jp/contests/abc367/tasks/abc367_a) | [C++ 17 (gcc 12.2)](./atcoder/abc367/A.cpp) | `AtCoder` `*150` | Aug/17/2024 18:06 | 
+1434 | [C - Balls and Bag Query](https://atcoder.jp/contests/abc366/tasks/abc366_c) | [C++ 17 (gcc 12.2)](./atcoder/abc366/C.cpp) | `AtCoder` `*300` | Aug/10/2024 18:24 | 
+1433 | [B - Vertical Writing](https://atcoder.jp/contests/abc366/tasks/abc366_b) | [C++ 17 (gcc 12.2)](./atcoder/abc366/B.cpp) | `AtCoder` `*200` | Aug/10/2024 18:19 | 
+1432 | [A - Election 2](https://atcoder.jp/contests/abc366/tasks/abc366_a) | [C++ 17 (gcc 12.2)](./atcoder/abc366/A.cpp) | `AtCoder` `*100` | Aug/10/2024 18:02 | 
+1431 | [D - AtCoder Janken 3](https://atcoder.jp/contests/abc365/tasks/abc365_d) | [C++ 17 (gcc 12.2)](./atcoder/abc365/D.cpp) | `AtCoder` `*400` | Aug/03/2024 19:04 | 
+1430 | [C - Transportation Expenses](https://atcoder.jp/contests/abc365/tasks/abc365_c) | [C++ 17 (gcc 12.2)](./atcoder/abc365/C.cpp) | `AtCoder` `*300` | Aug/03/2024 18:16 | 
+1429 | [B - Second Best](https://atcoder.jp/contests/abc365/tasks/abc365_b) | [C++ 17 (gcc 12.2)](./atcoder/abc365/B.cpp) | `AtCoder` `*200` | Aug/03/2024 18:05 | 
+1428 | [A - Leap Year](https://atcoder.jp/contests/abc365/tasks/abc365_a) | [C++ 17 (gcc 12.2)](./atcoder/abc365/A.cpp) | `AtCoder` `*100` | Aug/03/2024 18:02 | 
+1427 | [C - Minimum Glutton](https://atcoder.jp/contests/abc364/tasks/abc364_c) | [C++ 17 (gcc 12.2)](./atcoder/abc364/C.cpp) | `AtCoder` `*250` | Jul/27/2024 18:17 | 
+1426 | [B - Grid Walk](https://atcoder.jp/contests/abc364/tasks/abc364_b) | [C++ 17 (gcc 12.2)](./atcoder/abc364/B.cpp) | `AtCoder` `*200` | Jul/27/2024 18:10 | 
+1425 | [A - Glutton Takahashi](https://atcoder.jp/contests/abc364/tasks/abc364_a) | [C++ 17 (gcc 12.2)](./atcoder/abc364/A.cpp) | `AtCoder` `*100` | Jul/27/2024 18:03 |
+1424 | [C - Sort](https://codeforces.com/contest/1996/problem/C) | [C++17 (GCC 7-32)](./codeforces/1996/C.cpp) | `dp` `greedy` `sortings` `strings` `*1200` | Jul/26/2024 20:55 |
 1423 | [B - Scale](https://codeforces.com/contest/1996/problem/B) | [C++17 (GCC 7-32)](./codeforces/1996/B.cpp) | `greedy` `implementation` `*800` | Jul/26/2024 20:42 |
 1422 | [A - Legs](https://codeforces.com/contest/1996/problem/A) | [C++17 (GCC 7-32)](./codeforces/1996/A.cpp) | `binary search` `math` `ternary search` `*800` | Jul/26/2024 20:37 | 
 1421 | [B - 754](https://atcoder.jp/contests/abc114/tasks/abc114_b) | [C++ 17 (gcc 12.2)](./atcoder/abc114/B.cpp) | `AtCoder` `*200` | Jul/16/2024 22:02 | 
