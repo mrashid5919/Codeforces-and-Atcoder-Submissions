@@ -5007,6 +5007,22 @@
     ],
     "timestamp": "Jul/16/2024 22:02"
   },
+  "AC56018255": {
+    "contest_id": "abc364",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc364\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Minimum Glutton",
+    "problem_url": "https://atcoder.jp/contests/abc364/tasks/abc364_c",
+    "submission_id": "AC56018255",
+    "submission_url": "https://atcoder.jp/contests/abc364/submissions/56018255",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Jul/27/2024 18:17"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
