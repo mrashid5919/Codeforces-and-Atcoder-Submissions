@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1422 | [C - Minimum Glutton](https://atcoder.jp/contests/abc364/tasks/abc364_c) | [C++ 17 (gcc 12.2)](./atcoder/abc364/C.cpp) | `AtCoder` `*250` | Jul/27/2024 18:17 | 
+1423 | [C - Minimum Glutton](https://atcoder.jp/contests/abc364/tasks/abc364_c) | [C++ 17 (gcc 12.2)](./atcoder/abc364/C.cpp) | `AtCoder` `*250` | Jul/27/2024 18:17 | 
+1422 | [B - Grid Walk](https://atcoder.jp/contests/abc364/tasks/abc364_b) | [C++ 17 (gcc 12.2)](./atcoder/abc364/B.cpp) | `AtCoder` `*200` | Jul/27/2024 18:10 | 
 1421 | [B - 754](https://atcoder.jp/contests/abc114/tasks/abc114_b) | [C++ 17 (gcc 12.2)](./atcoder/abc114/B.cpp) | `AtCoder` `*200` | Jul/16/2024 22:02 | 
 1420 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++17 (GCC 7-32)](./codeforces/1988/C.cpp) | `bitmasks` `constructive algorithms` `greedy` `*1300` | Jul/15/2024 21:49 | 
 1419 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++17 (GCC 7-32)](./codeforces/1988/B.cpp) | `greedy` `implementation` `*900` | Jul/15/2024 20:51 | 

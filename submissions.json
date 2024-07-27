@@ -5007,6 +5007,22 @@
     ],
     "timestamp": "Jul/16/2024 22:02"
   },
+  "AC56010644": {
+    "contest_id": "abc364",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc364\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Grid Walk",
+    "problem_url": "https://atcoder.jp/contests/abc364/tasks/abc364_b",
+    "submission_id": "AC56010644",
+    "submission_url": "https://atcoder.jp/contests/abc364/submissions/56010644",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/27/2024 18:10"
+  },
   "AC56018255": {
     "contest_id": "abc364",
     "language": "C++ 17 (gcc 12.2)",
