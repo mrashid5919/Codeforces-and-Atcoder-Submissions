@@ -19544,6 +19544,24 @@
     ],
     "timestamp": "Jul/28/2024 21:24"
   },
+  "CF273217274": {
+    "contest_id": 1991,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1991\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Absolute Zero",
+    "problem_url": "https://codeforces.com/contest/1991/problem/C",
+    "submission_id": "CF273217274",
+    "submission_url": "https://codeforces.com/contest/1991/submission/273217274",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jul/28/2024 23:06"
+  }
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
