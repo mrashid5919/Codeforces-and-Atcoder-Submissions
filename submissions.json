@@ -19515,7 +19515,7 @@
     "path": "codeforces\\1991\\A.cpp",
     "platform": "Codeforces",
     "problem_index": "A",
-    "problem_name": "Maximize the Last Element]",
+    "problem_name": "Maximize the Last Element",
     "problem_url": "https://codeforces.com/contest/1991/problem/A",
     "submission_id": "CF273135644",
     "submission_url": "https://codeforces.com/contest/1991/submission/273135644",
@@ -19525,6 +19525,24 @@
       "*800"
     ],
     "timestamp": "Jul/28/2024 20:38"
+  },
+  "CF273171292": {
+    "contest_id": 1991,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1991\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AND Reconstruction",
+    "problem_url": "https://codeforces.com/contest/1991/problem/B",
+    "submission_id": "CF273171292",
+    "submission_url": "https://codeforces.com/contest/1991/submission/273171292",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Jul/28/2024 21:24"
   },
   "CF74584328": {
     "contest_id": 977,
