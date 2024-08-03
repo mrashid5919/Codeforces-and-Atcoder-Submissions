@@ -5055,6 +5055,22 @@
     ],
     "timestamp": "Jul/27/2024 18:17"
   },
+  "AC56264873": {
+    "contest_id": "abc365",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc365\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Transportation Expenses",
+    "problem_url": "https://atcoder.jp/contests/abc365/tasks/abc365_c",
+    "submission_id": "AC56264873",
+    "submission_url": "https://atcoder.jp/contests/abc365/submissions/56264873",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/03/2024 18:16"
+  },
   "AC56294380": {
     "contest_id": "abc365",
     "language": "C++ 17 (gcc 12.2)",
