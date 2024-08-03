@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1425 | [D - AtCoder Janken 3](https://atcoder.jp/contests/abc365/tasks/abc365_d) | [C++ 17 (gcc 12.2)](./atcoder/abc365/D.cpp) | `AtCoder` `*400` | Aug/03/2024 19:04 | 
 1424 | [C - Minimum Glutton](https://atcoder.jp/contests/abc364/tasks/abc364_c) | [C++ 17 (gcc 12.2)](./atcoder/abc364/C.cpp) | `AtCoder` `*250` | Jul/27/2024 18:17 | 
 1423 | [B - Grid Walk](https://atcoder.jp/contests/abc364/tasks/abc364_b) | [C++ 17 (gcc 12.2)](./atcoder/abc364/B.cpp) | `AtCoder` `*200` | Jul/27/2024 18:10 | 
 1422 | [A - Glutton Takahashi](https://atcoder.jp/contests/abc364/tasks/abc364_a) | [C++ 17 (gcc 12.2)](./atcoder/abc364/A.cpp) | `AtCoder` `*100` | Jul/27/2024 18:03 | 

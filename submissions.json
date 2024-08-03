@@ -5055,6 +5055,22 @@
     ],
     "timestamp": "Jul/27/2024 18:17"
   },
+  "AC56294380": {
+    "contest_id": "abc365",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc365\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "AtCoder Janken 3",
+    "problem_url": "https://atcoder.jp/contests/abc365/tasks/abc365_d",
+    "submission_id": "AC56294380",
+    "submission_url": "https://atcoder.jp/contests/abc365/submissions/56294380",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Aug/03/2024 19:04"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
