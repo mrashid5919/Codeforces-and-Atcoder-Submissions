@@ -5119,6 +5119,22 @@
     ],
     "timestamp": "Aug/03/2024 19:04"
   },
+  "AC56540332": {
+    "contest_id": "abc366",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc366\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Balls and Bag Query",
+    "problem_url": "https://atcoder.jp/contests/abc366/tasks/abc366_c",
+    "submission_id": "AC56540332",
+    "submission_url": "https://atcoder.jp/contests/abc366/submissions/56540332",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/10/2024 18:24"
+  },
   "AC56780956": {
     "contest_id": "abc367",
     "language": "C++ 17 (gcc 12.2)",
