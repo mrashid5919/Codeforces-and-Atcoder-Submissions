@@ -5119,6 +5119,22 @@
     ],
     "timestamp": "Aug/03/2024 19:04"
   },
+  "AC56537031": {
+    "contest_id": "abc366",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc366\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Vertical Writing",
+    "problem_url": "https://atcoder.jp/contests/abc366/tasks/abc366_b",
+    "submission_id": "AC56537031",
+    "submission_url": "https://atcoder.jp/contests/abc366/submissions/56537031",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/10/2024 18:19"
+  },
   "AC56540332": {
     "contest_id": "abc366",
     "language": "C++ 17 (gcc 12.2)",
