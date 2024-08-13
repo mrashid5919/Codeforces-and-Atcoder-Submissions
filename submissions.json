@@ -19613,6 +19613,24 @@
     ],
     "timestamp": "Aug/13/2024 21:03"
   },
+  "CF276197122": {
+    "contest_id": "2000",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2000\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Right Left Wrong",
+    "problem_url": "https://codeforces.com/contest/2000/problem/D",
+    "submission_id": "CF276197122",
+    "submission_url": "https://codeforces.com/contest/2000/submission/276197122",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Aug/13/2024 21:24"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
