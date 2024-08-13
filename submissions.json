@@ -19631,6 +19631,25 @@
     ],
     "timestamp": "Aug/13/2024 21:24"
   },
+  "CF276242231": {
+    "contest_id": "2000",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2000\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Photoshoot for Gorillas",
+    "problem_url": "https://codeforces.com/contest/2000/problem/E",
+    "submission_id": "CF276242231",
+    "submission_url": "https://codeforces.com/contest/2000/submission/276242231",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Aug/13/2024 21:57"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
