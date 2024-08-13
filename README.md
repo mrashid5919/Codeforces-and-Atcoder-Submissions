@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1445 | [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b) | [C++ 17 (gcc 12.2)](./atcoder/abs/ABC081B.cpp) | `AtCoder` `*200` | Aug/19/2024 22:04 | 
-1444 | [A - Entrance Examination](https://atcoder.jp/contests/abc117/tasks/abc117_a) | [C++ 17 (gcc 12.2)](./atcoder/abc117/A.cpp) | `AtCoder` `*100` | Aug/19/2024 22:03 | 
-1443 | [D - Pedometer](https://atcoder.jp/contests/abc367/tasks/abc367_d) | [C++ 17 (gcc 12.2)](./atcoder/abc367/D.cpp) | `AtCoder` `*400` | Aug/17/2024 19:04 | 
-1442 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 17 (gcc 12.2)](./atcoder/abc367/C.cpp) | `AtCoder` `*300` | Aug/17/2024 18:22 | 
-1441 | [B - Cut .0](https://atcoder.jp/contests/abc367/tasks/abc367_b) | [C++ 17 (gcc 12.2)](./atcoder/abc367/B.cpp) | `AtCoder` `*150` | Aug/17/2024 18:12 | 
-1440 | [A - Shout Everyday](https://atcoder.jp/contests/abc367/tasks/abc367_a) | [C++ 17 (gcc 12.2)](./atcoder/abc367/A.cpp) | `AtCoder` `*150` | Aug/17/2024 18:06 |
+1446 | [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b) | [C++ 17 (gcc 12.2)](./atcoder/abs/ABC081B.cpp) | `AtCoder` `*200` | Aug/19/2024 22:04 | 
+1445 | [A - Entrance Examination](https://atcoder.jp/contests/abc117/tasks/abc117_a) | [C++ 17 (gcc 12.2)](./atcoder/abc117/A.cpp) | `AtCoder` `*100` | Aug/19/2024 22:03 | 
+1444 | [D - Pedometer](https://atcoder.jp/contests/abc367/tasks/abc367_d) | [C++ 17 (gcc 12.2)](./atcoder/abc367/D.cpp) | `AtCoder` `*400` | Aug/17/2024 19:04 | 
+1443 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 17 (gcc 12.2)](./atcoder/abc367/C.cpp) | `AtCoder` `*300` | Aug/17/2024 18:22 | 
+1442 | [B - Cut .0](https://atcoder.jp/contests/abc367/tasks/abc367_b) | [C++ 17 (gcc 12.2)](./atcoder/abc367/B.cpp) | `AtCoder` `*150` | Aug/17/2024 18:12 | 
+1441 | [A - Shout Everyday](https://atcoder.jp/contests/abc367/tasks/abc367_a) | [C++ 17 (gcc 12.2)](./atcoder/abc367/A.cpp) | `AtCoder` `*150` | Aug/17/2024 18:06 |
+1440 | [B - Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | [C++17 (GCC 7-32)](./codeforces/2000/B.cpp) | `two pointers` `*800` | Aug/13/2024 20:53 |
 1439 | [A - Primary Task](https://codeforces.com/contest/2000/problem/A) | [C++17 (GCC 7-32)](./codeforces/2000/A.cpp) | `implementation` `math` `strings` `*800` | Aug/13/2024 20:48 | 
 1438 | [C - Balls and Bag Query](https://atcoder.jp/contests/abc366/tasks/abc366_c) | [C++ 17 (gcc 12.2)](./atcoder/abc366/C.cpp) | `AtCoder` `*300` | Aug/10/2024 18:24 | 
 1437 | [B - Vertical Writing](https://atcoder.jp/contests/abc366/tasks/abc366_b) | [C++ 17 (gcc 12.2)](./atcoder/abc366/B.cpp) | `AtCoder` `*200` | Aug/10/2024 18:19 | 
