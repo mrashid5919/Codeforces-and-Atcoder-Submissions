@@ -5119,6 +5119,22 @@
     ],
     "timestamp": "Aug/03/2024 19:04"
   },
+  "AC56780956": {
+    "contest_id": "abc367",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc367\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Shout Everyday",
+    "problem_url": "https://atcoder.jp/contests/abc367/tasks/abc367_a",
+    "submission_id": "AC56780956",
+    "submission_url": "https://atcoder.jp/contests/abc367/submissions/56780956",
+    "tags": [
+      "AtCoder",
+      "*150"
+    ],
+    "timestamp": "Aug/17/2024 18:06"
+  },
   "AC56791182": {
     "contest_id": "abc367",
     "language": "C++ 17 (gcc 12.2)",
