@@ -5119,6 +5119,22 @@
     ],
     "timestamp": "Aug/03/2024 19:04"
   },
+  "AC56791182": {
+    "contest_id": "abc367",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc367\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Cut .0",
+    "problem_url": "https://atcoder.jp/contests/abc367/tasks/abc367_b",
+    "submission_id": "AC56791182",
+    "submission_url": "https://atcoder.jp/contests/abc367/submissions/56791182",
+    "tags": [
+      "AtCoder",
+      "*150"
+    ],
+    "timestamp": "Aug/17/2024 18:12"
+  },
   "AC56801258": {
     "contest_id": "abc367",
     "language": "C++ 17 (gcc 12.2)",

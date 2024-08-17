@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1430 | [D - Pedometer](https://atcoder.jp/contests/abc367/tasks/abc367_d) | [C++ 17 (gcc 12.2)](./atcoder/abc367/D.cpp) | `AtCoder` `*400` | Aug/17/2024 19:04 | 
-1429 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 17 (gcc 12.2)](./atcoder/abc367/C.cpp) | `AtCoder` `*300` | Aug/17/2024 18:22 | 
+1431 | [D - Pedometer](https://atcoder.jp/contests/abc367/tasks/abc367_d) | [C++ 17 (gcc 12.2)](./atcoder/abc367/D.cpp) | `AtCoder` `*400` | Aug/17/2024 19:04 | 
+1430 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 17 (gcc 12.2)](./atcoder/abc367/C.cpp) | `AtCoder` `*300` | Aug/17/2024 18:22 | 
+1429 | [B - Cut .0](https://atcoder.jp/contests/abc367/tasks/abc367_b) | [C++ 17 (gcc 12.2)](./atcoder/abc367/B.cpp) | `AtCoder` `*150` | Aug/17/2024 18:12 | 
 1428 | [D - AtCoder Janken 3](https://atcoder.jp/contests/abc365/tasks/abc365_d) | [C++ 17 (gcc 12.2)](./atcoder/abc365/D.cpp) | `AtCoder` `*400` | Aug/03/2024 19:04 | 
 1427 | [C - Transportation Expenses](https://atcoder.jp/contests/abc365/tasks/abc365_c) | [C++ 17 (gcc 12.2)](./atcoder/abc365/C.cpp) | `AtCoder` `*300` | Aug/03/2024 18:16 | 
 1426 | [B - Second Best](https://atcoder.jp/contests/abc365/tasks/abc365_b) | [C++ 17 (gcc 12.2)](./atcoder/abc365/B.cpp) | `AtCoder` `*200` | Aug/03/2024 18:05 | 
