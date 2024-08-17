@@ -5119,6 +5119,22 @@
     ],
     "timestamp": "Aug/03/2024 19:04"
   },
+  "AC56801258": {
+    "contest_id": "abc367",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc367\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Enumerate Sequences",
+    "problem_url": "https://atcoder.jp/contests/abc367/tasks/abc367_c",
+    "submission_id": "AC56801258",
+    "submission_url": "https://atcoder.jp/contests/abc367/submissions/56801258",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/17/2024 18:22"
+  },
   "AC56820348": {
     "contest_id": "abc367",
     "language": "C++ 17 (gcc 12.2)",
