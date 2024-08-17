@@ -5119,6 +5119,22 @@
     ],
     "timestamp": "Aug/03/2024 19:04"
   },
+  "AC56820348": {
+    "contest_id": "abc367",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc367\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Pedometer",
+    "problem_url": "https://atcoder.jp/contests/abc367/tasks/abc367_d",
+    "submission_id": "AC56820348",
+    "submission_url": "https://atcoder.jp/contests/abc367/submissions/56820348",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Aug/17/2024 19:04"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
