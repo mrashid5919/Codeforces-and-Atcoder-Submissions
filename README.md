@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1436 | [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b) | [C++ 17 (gcc 12.2)](./atcoder/abs/ABC081B.cpp) | `AtCoder` `*200` | Aug/19/2024 22:04 | 
 1435 | [D - Pedometer](https://atcoder.jp/contests/abc367/tasks/abc367_d) | [C++ 17 (gcc 12.2)](./atcoder/abc367/D.cpp) | `AtCoder` `*400` | Aug/17/2024 19:04 | 
 1434 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 17 (gcc 12.2)](./atcoder/abc367/C.cpp) | `AtCoder` `*300` | Aug/17/2024 18:22 | 
 1433 | [B - Cut .0](https://atcoder.jp/contests/abc367/tasks/abc367_b) | [C++ 17 (gcc 12.2)](./atcoder/abc367/B.cpp) | `AtCoder` `*150` | Aug/17/2024 18:12 | 
