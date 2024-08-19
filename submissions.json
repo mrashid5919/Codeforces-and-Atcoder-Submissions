@@ -5231,6 +5231,22 @@
     ],
     "timestamp": "Aug/17/2024 19:04"
   },
+  "AC56906122": {
+    "contest_id": "abc117",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc117\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Entrance Examination",
+    "problem_url": "https://atcoder.jp/contests/abc117/tasks/abc117_a",
+    "submission_id": "AC56906122",
+    "submission_url": "https://atcoder.jp/contests/abc117/submissions/56906122",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/19/2024 22:03"
+  },
   "AC56906136": {
     "contest_id": "abs",
     "language": "C++ 17 (gcc 12.2)",
