@@ -19667,6 +19667,23 @@
     ],
     "timestamp": "Aug/19/2024 22:05"
   },
+  "CF277326642": {
+    "contest_id": "2001",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2001\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Make All Equal",
+    "problem_url": "https://codeforces.com/contest/2001/problem/A",
+    "submission_id": "CF277326642",
+    "submission_url": "https://codeforces.com/contest/2001/submission/277326642",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/20/2024 20:38"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",

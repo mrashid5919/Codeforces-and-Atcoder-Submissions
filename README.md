@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1451 | [A - Make All Equal](https://codeforces.com/contest/2001/problem/A) | [C++17 (GCC 7-32)](./codeforces/2001/A.cpp) | `greedy` `implementation` `*800` | Aug/20/2024 20:38 |
 1450 | [C - Load Balancing](https://codeforces.com/contest/609/problem/C) | [C++17 (GCC 7-32)](./codeforces/609/C.cpp) | `implementation` `math` `*1500` | Aug/19/2024 22:05 |
 1449 | [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b) | [C++ 17 (gcc 12.2)](./atcoder/abs/ABC081B.cpp) | `AtCoder` `*200` | Aug/19/2024 22:04 | 
 1448 | [A - Entrance Examination](https://atcoder.jp/contests/abc117/tasks/abc117_a) | [C++ 17 (gcc 12.2)](./atcoder/abc117/A.cpp) | `AtCoder` `*100` | Aug/19/2024 22:03 | 
