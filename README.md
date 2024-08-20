@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1453 | [C - Guess The Tree](https://codeforces.com/contest/2001/problem/C) | [C++17 (GCC 7-32)](./codeforces/2001/C.cpp) | `binary search` `brute force` `dfs and similar` `divide and conquer` `dsu` `greedy` `interactive` `trees` `*1500` | Aug/20/2024 22:23 |
 1452 | [B - Generate Permutation](https://codeforces.com/contest/2001/problem/B) | [C++17 (GCC 7-32)](./codeforces/2001/B.cpp) | `constructive algorithms` `*800` | Aug/20/2024 20:50 |
 1451 | [A - Make All Equal](https://codeforces.com/contest/2001/problem/A) | [C++17 (GCC 7-32)](./codeforces/2001/A.cpp) | `greedy` `implementation` `*800` | Aug/20/2024 20:38 |
 1450 | [C - Load Balancing](https://codeforces.com/contest/609/problem/C) | [C++17 (GCC 7-32)](./codeforces/609/C.cpp) | `implementation` `math` `*1500` | Aug/19/2024 22:05 |
