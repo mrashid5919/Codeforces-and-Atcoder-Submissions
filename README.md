@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1457 | [D - Bonus EXP](https://atcoder.jp/contests/abc369/tasks/abc369_d) | [C++ 17 (gcc 12.2)](./atcoder/abc369/D.cpp) | `AtCoder` `*400` | Aug/31/2024 18:42 | 
-1456 | [C - Count Arithmetic Subarrays](https://atcoder.jp/contests/abc369/tasks/abc369_c) | [C++ 17 (gcc 12.2)](./atcoder/abc369/C.cpp) | `AtCoder` `*300` | Aug/31/2024 18:20 | 
-1455 | [B - Piano 3](https://atcoder.jp/contests/abc369/tasks/abc369_b) | [C++ 17 (gcc 12.2)](./atcoder/abc369/B.cpp) | `AtCoder` `*200` | Aug/31/2024 18:11 | 
-1454 | [A - 369](https://atcoder.jp/contests/abc369/tasks/abc369_a) | [C++ 17 (gcc 12.2)](./atcoder/abc369/A.cpp) | `AtCoder` `*100` | Aug/31/2024 18:02 | 
+1458 | [D - Bonus EXP](https://atcoder.jp/contests/abc369/tasks/abc369_d) | [C++ 17 (gcc 12.2)](./atcoder/abc369/D.cpp) | `AtCoder` `*400` | Aug/31/2024 18:42 | 
+1457 | [C - Count Arithmetic Subarrays](https://atcoder.jp/contests/abc369/tasks/abc369_c) | [C++ 17 (gcc 12.2)](./atcoder/abc369/C.cpp) | `AtCoder` `*300` | Aug/31/2024 18:20 | 
+1456 | [B - Piano 3](https://atcoder.jp/contests/abc369/tasks/abc369_b) | [C++ 17 (gcc 12.2)](./atcoder/abc369/B.cpp) | `AtCoder` `*200` | Aug/31/2024 18:11 | 
+1455 | [A - 369](https://atcoder.jp/contests/abc369/tasks/abc369_a) | [C++ 17 (gcc 12.2)](./atcoder/abc369/A.cpp) | `AtCoder` `*100` | Aug/31/2024 18:02 |
+1454 | [A - Turtle and Good Strings](https://codeforces.com/contest/2003/problem/A) | [C++ 17 (GCC 7-32)](./codeforces/2003/A.cpp) | `greedy` `strings` `*800` | Aug/25/2024 20:37 | 
 1453 | [C - Guess The Tree](https://codeforces.com/contest/2001/problem/C) | [C++17 (GCC 7-32)](./codeforces/2001/C.cpp) | `binary search` `brute force` `dfs and similar` `divide and conquer` `dsu` `greedy` `interactive` `trees` `*1500` | Aug/20/2024 22:23 | 
 1452 | [B - Generate Permutation](https://codeforces.com/contest/2001/problem/B) | [C++17 (GCC 7-32)](./codeforces/2001/B.cpp) | `constructive algorithms` `*800` | Aug/20/2024 20:50 | 
 1451 | [A - Make All Equal](https://codeforces.com/contest/2001/problem/A) | [C++17 (GCC 7-32)](./codeforces/2001/A.cpp) | `greedy` `implementation` `*800` | Aug/20/2024 20:38 | 
