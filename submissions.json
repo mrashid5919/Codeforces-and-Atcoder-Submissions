@@ -19858,6 +19858,24 @@
     ],
     "timestamp": "Aug/25/2024 22:02"
   },
+  "CF278792267": {
+    "contest_id": "2007",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2007\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dora's Set",
+    "problem_url": "https://codeforces.com/contest/2007/problem/A",
+    "submission_id": "CF278792267",
+    "submission_url": "https://codeforces.com/contest/2007/submission/278792267",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Aug/30/2024 20:59"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
