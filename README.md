@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1462 | [D - Bonus EXP](https://atcoder.jp/contests/abc369/tasks/abc369_d) | [C++ 17 (gcc 12.2)](./atcoder/abc369/D.cpp) | `AtCoder` `*400` | Aug/31/2024 18:42 | 
-1461 | [C - Count Arithmetic Subarrays](https://atcoder.jp/contests/abc369/tasks/abc369_c) | [C++ 17 (gcc 12.2)](./atcoder/abc369/C.cpp) | `AtCoder` `*300` | Aug/31/2024 18:20 | 
-1460 | [B - Piano 3](https://atcoder.jp/contests/abc369/tasks/abc369_b) | [C++ 17 (gcc 12.2)](./atcoder/abc369/B.cpp) | `AtCoder` `*200` | Aug/31/2024 18:11 | 
-1459 | [A - 369](https://atcoder.jp/contests/abc369/tasks/abc369_a) | [C++ 17 (gcc 12.2)](./atcoder/abc369/A.cpp) | `AtCoder` `*100` | Aug/31/2024 18:02 |
+1463 | [D - Bonus EXP](https://atcoder.jp/contests/abc369/tasks/abc369_d) | [C++ 17 (gcc 12.2)](./atcoder/abc369/D.cpp) | `AtCoder` `*400` | Aug/31/2024 18:42 | 
+1462 | [C - Count Arithmetic Subarrays](https://atcoder.jp/contests/abc369/tasks/abc369_c) | [C++ 17 (gcc 12.2)](./atcoder/abc369/C.cpp) | `AtCoder` `*300` | Aug/31/2024 18:20 | 
+1461 | [B - Piano 3](https://atcoder.jp/contests/abc369/tasks/abc369_b) | [C++ 17 (gcc 12.2)](./atcoder/abc369/B.cpp) | `AtCoder` `*200` | Aug/31/2024 18:11 | 
+1460 | [A - 369](https://atcoder.jp/contests/abc369/tasks/abc369_a) | [C++ 17 (gcc 12.2)](./atcoder/abc369/A.cpp) | `AtCoder` `*100` | Aug/31/2024 18:02 |
+1459 | [B - Index and Maximum Value](https://codeforces.com/contest/2007/problem/B) | [C++17 (GCC 7-32)](./codeforces/2007/B.cpp) | `data structures` `greedy` `*900` | Aug/30/2024 21:06 |
 1458 | [A - Dora's Set](https://codeforces.com/contest/2007/problem/A) | [C++17 (GCC 7-32)](./codeforces/2007/A.cpp) | `greedy` `math` `number theory` `*800` | Aug/30/2024 20:59 |
 1457 | [D1 - Turtle and a MEX Problem (Easy Version)](https://codeforces.com/contest/2003/problem/D) | [C++17 (GCC 7-32)](./codeforces/2003/D1.cpp) | `greedy` `math` `*1500` | Aug/25/2024 22:02 |
 1456 | [C - Turtle and Good Pairs](https://codeforces.com/contest/2003/problem/C) | [C++17 (GCC 7-32)](./codeforces/2003/C.cpp) | `constructive algorithms` `greedy` `sortings` `strings` `*1200` | Aug/25/2024 21:07 |
