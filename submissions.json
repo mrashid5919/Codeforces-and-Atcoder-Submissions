@@ -5263,6 +5263,22 @@
     ],
     "timestamp": "Aug/19/2024 22:04"
   },
+  "AC57286066": {
+    "contest_id": "abc369",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc369\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Piano 3",
+    "problem_url": "https://atcoder.jp/contests/abc369/tasks/abc369_b",
+    "submission_id": "AC57286066",
+    "submission_url": "https://atcoder.jp/contests/abc369/submissions/57286066",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/31/2024 18:11"
+  },
   "AC57294028": {
     "contest_id": "abc369",
     "language": "C++ 17 (gcc 12.2)",
