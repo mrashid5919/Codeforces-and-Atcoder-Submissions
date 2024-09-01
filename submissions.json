@@ -19930,6 +19930,24 @@
     ],
     "timestamp": "Sep/01/2024 20:49"
   },
+  "CF279112054": {
+    "contest_id": "2008",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2008\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Longest Good Array",
+    "problem_url": "https://codeforces.com/contest/2008/problem/C",
+    "submission_id": "CF279112054",
+    "submission_url": "https://codeforces.com/contest/2008/submission/279112054",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/01/2024 21:01"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
