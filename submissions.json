@@ -19948,6 +19948,25 @@
     ],
     "timestamp": "Sep/01/2024 21:01"
   },
+  "CF279130018": {
+    "contest_id": "2008",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2008\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sakurako's Hobby",
+    "problem_url": "https://codeforces.com/contest/2008/problem/D",
+    "submission_id": "CF279130018",
+    "submission_url": "https://codeforces.com/contest/2008/submission/279130018",
+    "tags": [
+      "dp",
+      "dsu",
+      "graphs",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/01/2024 21:13"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
