@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1465 | [B - Square or Not](https://codeforces.com/contest/2008/problem/B) | [C++17 (GCC 7-32)](./codeforces/2008/B.cpp) | `brute force` `math` `strings` `*800` | Sep/01/2024 20:49 |
 1464 | [A - Sakurako's  Exam](https://codeforces.com/contest/2008/problem/A) | [C++17 (GCC 7-32)](./codeforces/2008/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Sep/01/2024 20:40 |
 1463 | [D - Bonus EXP](https://atcoder.jp/contests/abc369/tasks/abc369_d) | [C++ 17 (gcc 12.2)](./atcoder/abc369/D.cpp) | `AtCoder` `*400` | Aug/31/2024 18:42 | 
 1462 | [C - Count Arithmetic Subarrays](https://atcoder.jp/contests/abc369/tasks/abc369_c) | [C++ 17 (gcc 12.2)](./atcoder/abc369/C.cpp) | `AtCoder` `*300` | Aug/31/2024 18:20 | 
