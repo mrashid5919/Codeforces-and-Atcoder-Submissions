@@ -20021,6 +20021,24 @@
     ],
     "timestamp": "Sep/21/2024 20:57"
   },
+  "CF282266415": {
+    "contest_id": "2014",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2014\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Robin Hood in Town",
+    "problem_url": "https://codeforces.com/contest/2014/problem/C",
+    "submission_id": "CF282266415",
+    "submission_url": "https://codeforces.com/contest/2014/submission/282266415",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/21/2024 21:08"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
