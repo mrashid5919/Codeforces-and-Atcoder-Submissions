@@ -20039,6 +20039,25 @@
     ],
     "timestamp": "Sep/21/2024 21:08"
   },
+  "CF282295555": {
+    "contest_id": "2014",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2014\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Robert Hood and Mrs Hood",
+    "problem_url": "https://codeforces.com/contest/2014/problem/D",
+    "submission_id": "CF282295555",
+    "submission_url": "https://codeforces.com/contest/2014/submission/282295555",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Sep/21/2024 21:29"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
