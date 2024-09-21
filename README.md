@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1469 | [A - Robin Helps](https://codeforces.com/contest/2014/problem/A) | [C++17 (GCC 7-32)](./codeforces/2014/A.cpp) |  `greedy` `implementation` `*800` | Sep/21/2024 20:49 |
+1470 | [B - Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | [C++17 (GCC 7-32)](./codeforces/2014/B.cpp) | `math` `*800` | Sep/21/2024 20:57 |
+1469 | [A - Robin Helps](https://codeforces.com/contest/2014/problem/A) | [C++17 (GCC 7-32)](./codeforces/2014/A.cpp) | `greedy` `implementation` `*800` | Sep/21/2024 20:49 |
 1468 | [E - Alternating String](https://codeforces.com/contest/2008/problem/E) | [C++17 (GCC 7-32)](./codeforces/2008/E.cpp) | `brute force` `data structures` `dp` `greedy` `implementation` `strings` `*1500` | Sep/01/2024 22:41 |
 1467 | [D - Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D) | [C++17 (GCC 7-32)](./codeforces/2008/D.cpp) | `dp` `dsu` `graphs` `math` `*1100` | Sep/01/2024 21:13 |
 1466 | [C - Longest Good Array](https://codeforces.com/contest/2008/problem/C) | [C++17 (GCC 7-32)](./codeforces/2008/C.cpp) | `binary search``brute force` `math` `*800` | Sep/01/2024 21:01 |

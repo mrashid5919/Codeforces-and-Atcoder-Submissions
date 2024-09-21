@@ -20005,6 +20005,22 @@
     ],
     "timestamp": "Sep/21/2024 20:49"
   },
+  "CF282248196": {
+    "contest_id": "2014",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2014\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Robin Hood and the Major Oak",
+    "problem_url": "https://codeforces.com/contest/2014/problem/B",
+    "submission_id": "CF282248196",
+    "submission_url": "https://codeforces.com/contest/2014/submission/282248196",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/21/2024 20:57"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
