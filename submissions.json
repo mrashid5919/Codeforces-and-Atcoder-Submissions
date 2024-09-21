@@ -19973,7 +19973,7 @@
     "path": "codeforces\\2008\\E.cpp",
     "platform": "Codeforces",
     "problem_index": "E",
-    "problem_name": "Alternating Strings",
+    "problem_name": "Alternating String",
     "problem_url": "https://codeforces.com/contest/2008/problem/E",
     "submission_id": "CF279217942",
     "submission_url": "https://codeforces.com/contest/2008/submission/279217942",
@@ -19987,6 +19987,23 @@
       "*1500"
     ],
     "timestamp": "Sep/01/2024 22:41"
+  },
+  "CF282233288": {
+    "contest_id": "2014",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2014\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Robin Helps",
+    "problem_url": "https://codeforces.com/contest/2014/problem/A",
+    "submission_id": "CF282233288",
+    "submission_url": "https://codeforces.com/contest/2014/submission/282233288",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/21/2024 20:49"
   },
   "CF74584328": {
     "contest_id": 977,
