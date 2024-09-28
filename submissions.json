@@ -5327,6 +5327,22 @@
     ],
     "timestamp": "Aug/31/2024 18:42"
   },
+  "AC58189730": {
+    "contest_id": "abc373",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc373\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "1D Keyboard",
+    "problem_url": "https://atcoder.jp/contests/abc373/tasks/abc373_b",
+    "submission_id": "AC58189730",
+    "submission_url": "https://atcoder.jp/contests/abc373/submissions/58189730",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/28/2024 18:06"
+  },
   "AC58193819": {
     "contest_id": "abc373",
     "language": "C++ 17 (gcc 12.2)",
