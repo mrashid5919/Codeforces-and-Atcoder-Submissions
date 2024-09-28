@@ -13,24 +13,25 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1472 | [D - Robert Hood and Mrs Hood](https://codeforces.com/contest/2014/problem/D) | [C++17 (GCC 7-32)](./codeforces/2014/D.cpp) | `brute force` `data structures` `greedy` `sortings` `*1400` | Sep/21/2024 21:29 |
-1471 | [C - Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | [C++17 (GCC 7-32)](./codeforces/2014/C.cpp) | `binary search` `greedy` `math` `*1100` | Sep/21/2024 21:08 |
-1470 | [B - Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | [C++17 (GCC 7-32)](./codeforces/2014/B.cpp) | `math` `*800` | Sep/21/2024 20:57 |
-1469 | [A - Robin Helps](https://codeforces.com/contest/2014/problem/A) | [C++17 (GCC 7-32)](./codeforces/2014/A.cpp) | `greedy` `implementation` `*800` | Sep/21/2024 20:49 |
-1468 | [E - Alternating String](https://codeforces.com/contest/2008/problem/E) | [C++17 (GCC 7-32)](./codeforces/2008/E.cpp) | `brute force` `data structures` `dp` `greedy` `implementation` `strings` `*1500` | Sep/01/2024 22:41 |
-1467 | [D - Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D) | [C++17 (GCC 7-32)](./codeforces/2008/D.cpp) | `dp` `dsu` `graphs` `math` `*1100` | Sep/01/2024 21:13 |
-1466 | [C - Longest Good Array](https://codeforces.com/contest/2008/problem/C) | [C++17 (GCC 7-32)](./codeforces/2008/C.cpp) | `binary search``brute force` `math` `*800` | Sep/01/2024 21:01 |
-1465 | [B - Square or Not](https://codeforces.com/contest/2008/problem/B) | [C++17 (GCC 7-32)](./codeforces/2008/B.cpp) | `brute force` `math` `strings` `*800` | Sep/01/2024 20:49 |
-1464 | [A - Sakurako's  Exam](https://codeforces.com/contest/2008/problem/A) | [C++17 (GCC 7-32)](./codeforces/2008/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Sep/01/2024 20:40 |
+1473 | [D - Hidden Weights](https://atcoder.jp/contests/abc373/tasks/abc373_d) | [C++ 17 (gcc 12.2)](./atcoder/abc373/D.cpp) | `AtCoder` `*400` | Sep/28/2024 18:42 | 
+1472 | [D - Robert Hood and Mrs Hood](https://codeforces.com/contest/2014/problem/D) | [C++17 (GCC 7-32)](./codeforces/2014/D.cpp) | `brute force` `data structures` `greedy` `sortings` `*1400` | Sep/21/2024 21:29 | 
+1471 | [C - Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | [C++17 (GCC 7-32)](./codeforces/2014/C.cpp) | `binary search` `greedy` `math` `*1100` | Sep/21/2024 21:08 | 
+1470 | [B - Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | [C++17 (GCC 7-32)](./codeforces/2014/B.cpp) | `math` `*800` | Sep/21/2024 20:57 | 
+1469 | [A - Robin Helps](https://codeforces.com/contest/2014/problem/A) | [C++17 (GCC 7-32)](./codeforces/2014/A.cpp) | `greedy` `implementation` `*800` | Sep/21/2024 20:49 | 
+1468 | [E - Alternating String](https://codeforces.com/contest/2008/problem/E) | [C++17 (GCC 7-32)](./codeforces/2008/E.cpp) | `brute force` `data structures` `dp` `greedy` `implementation` `strings` `*1500` | Sep/01/2024 22:41 | 
+1467 | [D - Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D) | [C++17 (GCC 7-32)](./codeforces/2008/D.cpp) | `dp` `dsu` `graphs` `math` `*1100` | Sep/01/2024 21:13 | 
+1466 | [C - Longest Good Array](https://codeforces.com/contest/2008/problem/C) | [C++17 (GCC 7-32)](./codeforces/2008/C.cpp) | `binary search` `brute force` `math` `*800` | Sep/01/2024 21:01 | 
+1465 | [B - Square or Not](https://codeforces.com/contest/2008/problem/B) | [C++17 (GCC 7-32)](./codeforces/2008/B.cpp) | `brute force` `math` `strings` `*800` | Sep/01/2024 20:49 | 
+1464 | [A - Sakurako's  Exam](https://codeforces.com/contest/2008/problem/A) | [C++17 (GCC 7-32)](./codeforces/2008/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Sep/01/2024 20:40 | 
 1463 | [D - Bonus EXP](https://atcoder.jp/contests/abc369/tasks/abc369_d) | [C++ 17 (gcc 12.2)](./atcoder/abc369/D.cpp) | `AtCoder` `*400` | Aug/31/2024 18:42 | 
 1462 | [C - Count Arithmetic Subarrays](https://atcoder.jp/contests/abc369/tasks/abc369_c) | [C++ 17 (gcc 12.2)](./atcoder/abc369/C.cpp) | `AtCoder` `*300` | Aug/31/2024 18:20 | 
 1461 | [B - Piano 3](https://atcoder.jp/contests/abc369/tasks/abc369_b) | [C++ 17 (gcc 12.2)](./atcoder/abc369/B.cpp) | `AtCoder` `*200` | Aug/31/2024 18:11 | 
-1460 | [A - 369](https://atcoder.jp/contests/abc369/tasks/abc369_a) | [C++ 17 (gcc 12.2)](./atcoder/abc369/A.cpp) | `AtCoder` `*100` | Aug/31/2024 18:02 |
-1459 | [B - Index and Maximum Value](https://codeforces.com/contest/2007/problem/B) | [C++17 (GCC 7-32)](./codeforces/2007/B.cpp) | `data structures` `greedy` `*900` | Aug/30/2024 21:06 |
-1458 | [A - Dora's Set](https://codeforces.com/contest/2007/problem/A) | [C++17 (GCC 7-32)](./codeforces/2007/A.cpp) | `greedy` `math` `number theory` `*800` | Aug/30/2024 20:59 |
-1457 | [D1 - Turtle and a MEX Problem (Easy Version)](https://codeforces.com/contest/2003/problem/D) | [C++17 (GCC 7-32)](./codeforces/2003/D1.cpp) | `greedy` `math` `*1500` | Aug/25/2024 22:02 |
-1456 | [C - Turtle and Good Pairs](https://codeforces.com/contest/2003/problem/C) | [C++17 (GCC 7-32)](./codeforces/2003/C.cpp) | `constructive algorithms` `greedy` `sortings` `strings` `*1200` | Aug/25/2024 21:07 |
-1455 | [B - Turtle and Piggy Are Playing a Game 2](https://codeforces.com/contest/2003/problem/B) | [C++17 (GCC 7-32)](./codeforces/2003/B.cpp) | `games` `greedy` `sortings` `*800` | Aug/25/2024 20:44 |
+1460 | [A - 369](https://atcoder.jp/contests/abc369/tasks/abc369_a) | [C++ 17 (gcc 12.2)](./atcoder/abc369/A.cpp) | `AtCoder` `*100` | Aug/31/2024 18:02 | 
+1459 | [B - Index and Maximum Value](https://codeforces.com/contest/2007/problem/B) | [C++17 (GCC 7-32)](./codeforces/2007/B.cpp) | `greedy` `data structures` `*900` | Aug/30/2024 21:06 | 
+1458 | [A - Dora's Set](https://codeforces.com/contest/2007/problem/A) | [C++17 (GCC 7-32)](./codeforces/2007/A.cpp) | `greedy` `math` `number theory` `*800` | Aug/30/2024 20:59 | 
+1457 | [D1 - Turtle and a MEX Problem (Easy Version)](https://codeforces.com/contest/2003/problem/D1) | [C++17 (GCC 7-32)](./codeforces/2003/D1.cpp) | `greedy` `math` `*1500` | Aug/25/2024 22:02 | 
+1456 | [C - Turtle and Good Pairs](https://codeforces.com/contest/2003/problem/C) | [C++17 (GCC 7-32)](./codeforces/2003/C.cpp) | `constructive algorithms` `greedy` `sortings` `strings` `*1200` | Aug/25/2024 21:07 | 
+1455 | [B - Turtle and Piggy Are Playing a Game 2](https://codeforces.com/contest/2003/problem/B) | [C++17 (GCC 7-32)](./codeforces/2003/B.cpp) | `games` `greedy` `sortings` `*800` | Aug/25/2024 20:44 | 
 1454 | [A - Turtle and Good Strings](https://codeforces.com/contest/2003/problem/A) | [C++17 (GCC 7-32)](./codeforces/2003/A.cpp) | `greedy` `strings` `*800` | Aug/25/2024 20:37 | 
 1453 | [C - Guess The Tree](https://codeforces.com/contest/2001/problem/C) | [C++17 (GCC 7-32)](./codeforces/2001/C.cpp) | `binary search` `brute force` `dfs and similar` `divide and conquer` `dsu` `greedy` `interactive` `trees` `*1500` | Aug/20/2024 22:23 | 
 1452 | [B - Generate Permutation](https://codeforces.com/contest/2001/problem/B) | [C++17 (GCC 7-32)](./codeforces/2001/B.cpp) | `constructive algorithms` `*800` | Aug/20/2024 20:50 | 

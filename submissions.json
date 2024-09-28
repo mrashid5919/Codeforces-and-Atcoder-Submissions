@@ -5327,6 +5327,22 @@
     ],
     "timestamp": "Aug/31/2024 18:42"
   },
+  "AC58216693": {
+    "contest_id": "abc373",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc373\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Hidden Weights",
+    "problem_url": "https://atcoder.jp/contests/abc373/tasks/abc373_d",
+    "submission_id": "AC58216693",
+    "submission_url": "https://atcoder.jp/contests/abc373/submissions/58216693",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/28/2024 18:42"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
