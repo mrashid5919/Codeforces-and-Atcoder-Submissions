@@ -5327,6 +5327,22 @@
     ],
     "timestamp": "Aug/31/2024 18:42"
   },
+  "AC58193819": {
+    "contest_id": "abc373",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc373\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Max Ai+Bj",
+    "problem_url": "https://atcoder.jp/contests/abc373/tasks/abc373_c",
+    "submission_id": "AC58193819",
+    "submission_url": "https://atcoder.jp/contests/abc373/submissions/58193819",
+    "tags": [
+      "AtCoder",
+      "*250"
+    ],
+    "timestamp": "Sep/28/2024 18:08"
+  },
   "AC58216693": {
     "contest_id": "abc373",
     "language": "C++ 17 (gcc 12.2)",
