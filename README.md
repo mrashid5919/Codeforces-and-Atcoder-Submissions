@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1475 | [D - Hidden Weights](https://atcoder.jp/contests/abc373/tasks/abc373_d) | [C++ 17 (gcc 12.2)](./atcoder/abc373/D.cpp) | `AtCoder` `*400` | Sep/28/2024 18:42 | 
-1474 | [C - Max Ai+Bj](https://atcoder.jp/contests/abc373/tasks/abc373_c) | [C++ 17 (gcc 12.2)](./atcoder/abc373/C.cpp) | `AtCoder` `*250` | Sep/28/2024 18:08 | 
-1473 | [B - 1D Keyboard](https://atcoder.jp/contests/abc373/tasks/abc373_b) | [C++ 17 (gcc 12.2)](./atcoder/abc373/B.cpp) | `AtCoder` `*200` | Sep/28/2024 18:06 | 
+1476 | [D - Hidden Weights](https://atcoder.jp/contests/abc373/tasks/abc373_d) | [C++ 17 (gcc 12.2)](./atcoder/abc373/D.cpp) | `AtCoder` `*400` | Sep/28/2024 18:42 | 
+1475 | [C - Max Ai+Bj](https://atcoder.jp/contests/abc373/tasks/abc373_c) | [C++ 17 (gcc 12.2)](./atcoder/abc373/C.cpp) | `AtCoder` `*250` | Sep/28/2024 18:08 | 
+1474 | [B - 1D Keyboard](https://atcoder.jp/contests/abc373/tasks/abc373_b) | [C++ 17 (gcc 12.2)](./atcoder/abc373/B.cpp) | `AtCoder` `*200` | Sep/28/2024 18:06 | 
+1473 | [A - September](https://atcoder.jp/contests/abc373/tasks/abc373_a) | [C++ 17 (gcc 12.2)](./atcoder/abc373/A.cpp) | `AtCoder` `*100` | Sep/28/2024 18:02 | 
 1472 | [D - Robert Hood and Mrs Hood](https://codeforces.com/contest/2014/problem/D) | [C++17 (GCC 7-32)](./codeforces/2014/D.cpp) | `brute force` `data structures` `greedy` `sortings` `*1400` | Sep/21/2024 21:29 | 
 1471 | [C - Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | [C++17 (GCC 7-32)](./codeforces/2014/C.cpp) | `binary search` `greedy` `math` `*1100` | Sep/21/2024 21:08 | 
 1470 | [B - Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | [C++17 (GCC 7-32)](./codeforces/2014/B.cpp) | `math` `*800` | Sep/21/2024 20:57 | 
