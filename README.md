@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1479 | [C - Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | [C++17 (GCC 7-32)](./codeforces/2020/C.cpp) | `bitmasks` `implementation` `math` `*1400` | Sep/29/2024 22:59 |
 1478 | [B - Brightness Begins](https://codeforces.com/contest/2020/problem/B) | [C++17 (GCC 7-32)](./codeforces/2020/B.cpp) | `binary search` `math` `*1200` | Sep/29/2024 22:15 |
 1477 | [A - Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | [C++17 (GCC 7-32)](./codeforces/2020/A.cpp) | `brute force` `greedy` `math` `*800` | Sep/29/2024 21:50 |
 1476 | [D - Hidden Weights](https://atcoder.jp/contests/abc373/tasks/abc373_d) | [C++ 17 (gcc 12.2)](./atcoder/abc373/D.cpp) | `AtCoder` `*400` | Sep/28/2024 18:42 | 
