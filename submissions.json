@@ -20140,6 +20140,23 @@
     ],
     "timestamp": "Sep/29/2024 21:50"
   },
+  "CF283599853": {
+    "contest_id": "2020",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2020\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Brightness Begins",
+    "problem_url": "https://codeforces.com/contest/2020/problem/B",
+    "submission_id": "CF283599853",
+    "submission_url": "https://codeforces.com/contest/2020/submission/283599853",
+    "tags": [
+      "binary search",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Sep/29/2024 22:15"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
