@@ -20122,6 +20122,24 @@
     ],
     "timestamp": "Sep/21/2024 21:29"
   },
+  "CF283572849": {
+    "contest_id": "2020",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2020\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find Minimum Operations",
+    "problem_url": "https://codeforces.com/contest/2020/problem/A",
+    "submission_id": "CF283572849",
+    "submission_url": "https://codeforces.com/contest/2020/submission/283572849",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/29/2024 21:50"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
