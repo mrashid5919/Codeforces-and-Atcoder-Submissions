@@ -5391,6 +5391,22 @@
     ],
     "timestamp": "Sep/28/2024 18:42"
   },
+  "AC58472832": {
+    "contest_id": "abc374",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc374\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Laser Marking",
+    "problem_url": "https://atcoder.jp/contests/abc374/tasks/abc374_d",
+    "submission_id": "AC58472832",
+    "submission_url": "https://atcoder.jp/contests/abc374/submissions/58472832",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Oct/05/2024 19:03"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
