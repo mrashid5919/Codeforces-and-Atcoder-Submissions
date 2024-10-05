@@ -5391,6 +5391,22 @@
     ],
     "timestamp": "Sep/28/2024 18:42"
   },
+  "AC58437954": {
+    "contest_id": "abc374",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc374\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Unvarnished Report",
+    "problem_url": "https://atcoder.jp/contests/abc374/tasks/abc374_b",
+    "submission_id": "AC58437954",
+    "submission_url": "https://atcoder.jp/contests/abc374/submissions/58437954",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/05/2024 18:04"
+  },
   "AC58450696": {
     "contest_id": "abc374",
     "language": "C++ 17 (gcc 12.2)",
