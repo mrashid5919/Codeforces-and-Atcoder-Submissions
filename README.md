@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1482 | [D - Laser Marking](https://atcoder.jp/contests/abc374/tasks/abc374_d) | [C++ 17 (gcc 12.2)](./atcoder/abc374/D.cpp) | `AtCoder` `*350` | Oct/05/2024 19:03 | 
-1481 | [C - Separated Lunch](https://atcoder.jp/contests/abc374/tasks/abc374_c) | [C++ 17 (gcc 12.2)](./atcoder/abc374/C.cpp) | `AtCoder` `*300` | Oct/05/2024 18:14 | 
-1480 | [B - Unvarnished Report](https://atcoder.jp/contests/abc374/tasks/abc374_b) | [C++ 17 (gcc 12.2)](./atcoder/abc374/B.cpp) | `AtCoder` `*200` | Oct/05/2024 18:04 | 
+1483 | [D - Laser Marking](https://atcoder.jp/contests/abc374/tasks/abc374_d) | [C++ 17 (gcc 12.2)](./atcoder/abc374/D.cpp) | `AtCoder` `*350` | Oct/05/2024 19:03 | 
+1482 | [C - Separated Lunch](https://atcoder.jp/contests/abc374/tasks/abc374_c) | [C++ 17 (gcc 12.2)](./atcoder/abc374/C.cpp) | `AtCoder` `*300` | Oct/05/2024 18:14 | 
+1481 | [B - Unvarnished Report](https://atcoder.jp/contests/abc374/tasks/abc374_b) | [C++ 17 (gcc 12.2)](./atcoder/abc374/B.cpp) | `AtCoder` `*200` | Oct/05/2024 18:04 | 
+1480 | [A - Takahashi san 2](https://atcoder.jp/contests/abc374/tasks/abc374_a) | [C++ 17 (gcc 12.2)](./atcoder/abc374/A.cpp) | `AtCoder` `*100` | Oct/05/2024 18:01 | 
 1479 | [C - Bitwise Balancing](https://codeforces.com/contest/2020/problem/C) | [C++17 (GCC 7-32)](./codeforces/2020/C.cpp) | `bitmasks` `implementation` `math` `*1400` | Sep/29/2024 22:59 | 
 1478 | [B - Brightness Begins](https://codeforces.com/contest/2020/problem/B) | [C++17 (GCC 7-32)](./codeforces/2020/B.cpp) | `binary search` `math` `*1200` | Sep/29/2024 22:15 | 
 1477 | [A - Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | [C++17 (GCC 7-32)](./codeforces/2020/A.cpp) | `brute force` `greedy` `math` `*800` | Sep/29/2024 21:50 | 

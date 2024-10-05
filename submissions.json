@@ -5391,6 +5391,22 @@
     ],
     "timestamp": "Sep/28/2024 18:42"
   },
+  "AC58429392": {
+    "contest_id": "abc374",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc374\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Takahashi san 2",
+    "problem_url": "https://atcoder.jp/contests/abc374/tasks/abc374_a",
+    "submission_id": "AC58429392",
+    "submission_url": "https://atcoder.jp/contests/abc374/submissions/58429392",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/05/2024 18:01"
+  },
   "AC58437954": {
     "contest_id": "abc374",
     "language": "C++ 17 (gcc 12.2)",
