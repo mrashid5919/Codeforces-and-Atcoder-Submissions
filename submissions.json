@@ -20239,6 +20239,25 @@
     ],
     "timestamp": "Sep/29/2024 22:59"
   },
+  "CF285846084": {
+    "contest_id": "2025",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2025\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Screens",
+    "problem_url": "https://codeforces.com/contest/2025/problem/A",
+    "submission_id": "CF285846084",
+    "submission_url": "https://codeforces.com/contest/2025/submission/285846084",
+    "tags": [
+      "binary search",
+      "greedy",
+      "strings",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Oct/14/2024 20:40"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
