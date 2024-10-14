@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1485 | [B - Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | [C++17 (GCC 7-32)](./codeforces/2025/B.cpp) | `combinatorics` `dp` `math` `*1100` | Oct/14/2024 20:50 |
 1484 | [A - Two Screens](https://codeforces.com/contest/2025/problem/A) | [C++17 (GCC 7-32)](./codeforces/2025/A.cpp) | `binary search` `greedy` `strings` `two pointers` `*800` | Oct/14/2024 20:40 |
 1483 | [D - Laser Marking](https://atcoder.jp/contests/abc374/tasks/abc374_d) | [C++ 17 (gcc 12.2)](./atcoder/abc374/D.cpp) | `AtCoder` `*350` | Oct/05/2024 19:03 | 
 1482 | [C - Separated Lunch](https://atcoder.jp/contests/abc374/tasks/abc374_c) | [C++ 17 (gcc 12.2)](./atcoder/abc374/C.cpp) | `AtCoder` `*300` | Oct/05/2024 18:14 | 
