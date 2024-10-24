@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1488 | [B - Sakurako and Water](https://codeforces.com/contest/2033/problem/B) | [C++17 (GCC 7-32)](./codeforces/2033/B.cpp) | `brute force` `constructive algorithms` `greedy` `*900` | Oct/24/2024 20:51 |
 1487 | [A - Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) | [C++17 (GCC 7-32)](./codeforces/2033/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Oct/24/2024 20:38 |
 1486 | [C - New Game](https://codeforces.com/contest/2025/problem/C) | [C++17 (GCC 7-32)](./codeforces/2025/C.cpp) | `binary search` `brute force` `greedy` `implementation` `sortings` `two pointers` `*1300` | Oct/14/2024 21:16 |
 1485 | [B - Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | [C++17 (GCC 7-32)](./codeforces/2025/B.cpp) | `combinatorics` `dp` `math` `*1100` | Oct/14/2024 20:50 |

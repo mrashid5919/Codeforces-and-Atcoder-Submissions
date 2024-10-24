@@ -20315,6 +20315,24 @@
     ],
     "timestamp": "Oct/24/2024 20:38"
   },
+  "CF287703338": {
+    "contest_id": "2033",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2033\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sakurako and Water",
+    "problem_url": "https://codeforces.com/contest/2033/problem/B",
+    "submission_id": "CF287703338",
+    "submission_url": "https://codeforces.com/contest/2033/submission/287703338",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Oct/24/2024 20:51"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
