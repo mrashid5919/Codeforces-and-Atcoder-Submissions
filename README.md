@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1492 | [C1 - Shohag Loves XOR (Easy Version)](https://codeforces.com/contest/2039/problem/C1) | [C++17 (GCC 7-32)](./codeforces/2039/C1.cpp) | `bitmasks` `brute force` `math` `number theory` `*1200` | Nov/23/2024 21:43 |
 1491 | [B - Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) | [C++17 (GCC 7-32)](./codeforces/2039/B.cpp) | `constructive algorithms` `greedy` `implementation` `strings` `*1000` | Nov/23/2024 20:56 |
 1490 | [A - Shohag Loves Mod](https://codeforces.com/contest/2039/problem/A) | [C++17 (GCC 7-32)](./codeforces/2039/A.cpp) | `constructive algorithms` `number theory` `*800` | Nov/23/2024 20:39 |
 1489 | [D - Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | [C++17 (GCC 7-32)](./codeforces/2033/D.cpp) | `data structures` `dp` `dsu` `greedy` `math` `*1300` | Oct/25/2024 20:15 |
