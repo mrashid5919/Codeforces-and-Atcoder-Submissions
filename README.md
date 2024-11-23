@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1490 | [A - Shohag Loves Mod](https://codeforces.com/contest/2039/problem/A) | [C++17 (GCC 7-32)](./codeforces/2039/A.cpp) | `constructive algorithms` `number theory` `*800` | Nov/23/2024 20:39 |
 1489 | [D - Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | [C++17 (GCC 7-32)](./codeforces/2033/D.cpp) | `data structures` `dp` `dsu` `greedy` `math` `*1300` | Oct/25/2024 20:15 |
 1488 | [B - Sakurako and Water](https://codeforces.com/contest/2033/problem/B) | [C++17 (GCC 7-32)](./codeforces/2033/B.cpp) | `brute force` `constructive algorithms` `greedy` `*900` | Oct/24/2024 20:51 |
 1487 | [A - Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) | [C++17 (GCC 7-32)](./codeforces/2033/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Oct/24/2024 20:38 |
