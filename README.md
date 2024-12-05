@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1496 | [D - 9 Divisors](https://atcoder.jp/contests/abc383/tasks/abc383_d) | [C++ 17 (gcc 12.2)](./atcoder/abc383/D.cpp) | `AtCoder` `*400` | Dec/07/2024 19:19 | 
-1495 | [B - Humidifier 2](https://atcoder.jp/contests/abc383/tasks/abc383_b) | [C++ 17 (gcc 12.2)](./atcoder/abc383/B.cpp) | `AtCoder` `*250` | Dec/07/2024 18:20 | 
-1494 | [A - Humidifier 1](https://atcoder.jp/contests/abc383/tasks/abc383_a) | [C++ 17 (gcc 12.2)](./atcoder/abc383/A.cpp) | `AtCoder` `*150` | Dec/07/2024 18:11 | 
+1497 | [D - 9 Divisors](https://atcoder.jp/contests/abc383/tasks/abc383_d) | [C++ 17 (gcc 12.2)](./atcoder/abc383/D.cpp) | `AtCoder` `*400` | Dec/07/2024 19:19 | 
+1496 | [B - Humidifier 2](https://atcoder.jp/contests/abc383/tasks/abc383_b) | [C++ 17 (gcc 12.2)](./atcoder/abc383/B.cpp) | `AtCoder` `*250` | Dec/07/2024 18:20 | 
+1495 | [A - Humidifier 1](https://atcoder.jp/contests/abc383/tasks/abc383_a) | [C++ 17 (gcc 12.2)](./atcoder/abc383/A.cpp) | `AtCoder` `*150` | Dec/07/2024 18:11 |
+1494 | [A - Line Breaks](https://codeforces.com/contest/2050/problem/A) | [C++17 (GCC 7-32)](./codeforces/2050/A.cpp) | `implementation` `*800` | Dec/05/2024 20:39 | 
 1493 | [D - Shohag Loves GCD](https://codeforces.com/contest/2039/problem/D) | [C++17 (GCC 7-32)](./codeforces/2039/D.cpp) | `constructive algorithms` `greedy` `math` `number theory` `*1700` | Nov/23/2024 23:01 | 
 1492 | [C1 - Shohag Loves XOR (Easy Version)](https://codeforces.com/contest/2039/problem/C1) | [C++17 (GCC 7-32)](./codeforces/2039/C1.cpp) | `bitmasks` `brute force` `math` `number theory` `*1200` | Nov/23/2024 21:43 | 
 1491 | [B - Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) | [C++17 (GCC 7-32)](./codeforces/2039/B.cpp) | `constructive algorithms` `greedy` `implementation` `strings` `*1000` | Nov/23/2024 20:56 | 
