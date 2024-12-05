@@ -20543,6 +20543,25 @@
     ],
     "timestamp": "Dec/05/2024 21:22"
   },
+  "CF295056319": {
+    "contest_id": "2050",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2050\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Digital string maximization",
+    "problem_url": "https://codeforces.com/contest/2050/problem/D",
+    "submission_id": "CF295056319",
+    "submission_url": "https://codeforces.com/contest/2050/submission/295056319",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Dec/05/2024 21:49"
+  },
   "CF74648476": {
     "contest_id": 791,
     "language": "GNU C11",
