@@ -20525,6 +20525,24 @@
     ],
     "timestamp": "Dec/05/2024 20:53"
   },
+  "CF295035511": {
+    "contest_id": "2050",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2050\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Uninteresting Number",
+    "problem_url": "https://codeforces.com/contest/2050/problem/C",
+    "submission_id": "CF295035511",
+    "submission_url": "https://codeforces.com/contest/2050/submission/295035511",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Dec/05/2024 21:22"
+  },
   "CF74648476": {
     "contest_id": 791,
     "language": "GNU C11",
