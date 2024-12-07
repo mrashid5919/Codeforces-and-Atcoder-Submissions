@@ -5455,6 +5455,22 @@
     ],
     "timestamp": "Oct/05/2024 19:03"
   },
+  "AC60511551": {
+    "contest_id": "abc383",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc383\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Humidifier 1",
+    "problem_url": "https://atcoder.jp/contests/abc383/tasks/abc383_a",
+    "submission_id": "AC60511551",
+    "submission_url": "https://atcoder.jp/contests/abc383/submissions/60511551",
+    "tags": [
+      "AtCoder",
+      "*150"
+    ],
+    "timestamp": "Dec/07/2024 18:11"
+  },
   "AC60516830": {
     "contest_id": "abc383",
     "language": "C++ 17 (gcc 12.2)",
