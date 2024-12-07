@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1493 | [D - Shohag Loves GCD](https://codeforces.com/contest/2039/problem/D) | [C++17 (GCC 7-32)](./codeforces/2039/D.cpp) | `constructive algorithms` `greedy` `math` `number theory` `*1700` | Nov/23/2024 23:01 |
-1492 | [C1 - Shohag Loves XOR (Easy Version)](https://codeforces.com/contest/2039/problem/C1) | [C++17 (GCC 7-32)](./codeforces/2039/C1.cpp) | `bitmasks` `brute force` `math` `number theory` `*1200` | Nov/23/2024 21:43 |
-1491 | [B - Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) | [C++17 (GCC 7-32)](./codeforces/2039/B.cpp) | `constructive algorithms` `greedy` `implementation` `strings` `*1000` | Nov/23/2024 20:56 |
-1490 | [A - Shohag Loves Mod](https://codeforces.com/contest/2039/problem/A) | [C++17 (GCC 7-32)](./codeforces/2039/A.cpp) | `constructive algorithms` `number theory` `*800` | Nov/23/2024 20:39 |
-1489 | [D - Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | [C++17 (GCC 7-32)](./codeforces/2033/D.cpp) | `data structures` `dp` `dsu` `greedy` `math` `*1300` | Oct/25/2024 20:15 |
-1488 | [B - Sakurako and Water](https://codeforces.com/contest/2033/problem/B) | [C++17 (GCC 7-32)](./codeforces/2033/B.cpp) | `brute force` `constructive algorithms` `greedy` `*900` | Oct/24/2024 20:51 |
-1487 | [A - Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) | [C++17 (GCC 7-32)](./codeforces/2033/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Oct/24/2024 20:38 |
-1486 | [C - New Game](https://codeforces.com/contest/2025/problem/C) | [C++17 (GCC 7-32)](./codeforces/2025/C.cpp) | `binary search` `brute force` `greedy` `implementation` `sortings` `two pointers` `*1300` | Oct/14/2024 21:16 |
-1485 | [B - Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | [C++17 (GCC 7-32)](./codeforces/2025/B.cpp) | `combinatorics` `dp` `math` `*1100` | Oct/14/2024 20:50 |
-1484 | [A - Two Screens](https://codeforces.com/contest/2025/problem/A) | [C++17 (GCC 7-32)](./codeforces/2025/A.cpp) | `binary search` `greedy` `strings` `two pointers` `*800` | Oct/14/2024 20:40 |
+1494 | [D - 9 Divisors](https://atcoder.jp/contests/abc383/tasks/abc383_d) | [C++ 17 (gcc 12.2)](./atcoder/abc383/D.cpp) | `AtCoder` `*400` | Dec/07/2024 19:19 | 
+1493 | [D - Shohag Loves GCD](https://codeforces.com/contest/2039/problem/D) | [C++17 (GCC 7-32)](./codeforces/2039/D.cpp) | `constructive algorithms` `greedy` `math` `number theory` `*1700` | Nov/23/2024 23:01 | 
+1492 | [C1 - Shohag Loves XOR (Easy Version)](https://codeforces.com/contest/2039/problem/C1) | [C++17 (GCC 7-32)](./codeforces/2039/C1.cpp) | `bitmasks` `brute force` `math` `number theory` `*1200` | Nov/23/2024 21:43 | 
+1491 | [B - Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) | [C++17 (GCC 7-32)](./codeforces/2039/B.cpp) | `constructive algorithms` `greedy` `implementation` `strings` `*1000` | Nov/23/2024 20:56 | 
+1490 | [A - Shohag Loves Mod](https://codeforces.com/contest/2039/problem/A) | [C++17 (GCC 7-32)](./codeforces/2039/A.cpp) | `constructive algorithms` `number theory` `*800` | Nov/23/2024 20:39 | 
+1489 | [D - Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | [C++17 (GCC 7-32)](./codeforces/2033/D.cpp) | `data structures` `dp` `dsu` `greedy` `math` `*1300` | Oct/25/2024 20:15 | 
+1488 | [B - Sakurako and Water](https://codeforces.com/contest/2033/problem/B) | [C++17 (GCC 7-32)](./codeforces/2033/B.cpp) | `brute force` `constructive algorithms` `greedy` `*900` | Oct/24/2024 20:51 | 
+1487 | [A - Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) | [C++17 (GCC 7-32)](./codeforces/2033/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | Oct/24/2024 20:38 | 
+1486 | [C - New Game](https://codeforces.com/contest/2025/problem/C) | [C++17 (GCC 7-32)](./codeforces/2025/C.cpp) | `binary search` `brute force` `greedy` `implementation` `sortings` `two pointers` `*1300` | Oct/14/2024 21:16 | 
+1485 | [B - Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | [C++17 (GCC 7-32)](./codeforces/2025/B.cpp) | `combinatorics` `dp` `math` `*1100` | Oct/14/2024 20:50 | 
+1484 | [A - Two Screens](https://codeforces.com/contest/2025/problem/A) | [C++17 (GCC 7-32)](./codeforces/2025/A.cpp) | `binary search` `greedy` `strings` `two pointers` `*800` | Oct/14/2024 20:40 | 
 1483 | [D - Laser Marking](https://atcoder.jp/contests/abc374/tasks/abc374_d) | [C++ 17 (gcc 12.2)](./atcoder/abc374/D.cpp) | `AtCoder` `*350` | Oct/05/2024 19:03 | 
 1482 | [C - Separated Lunch](https://atcoder.jp/contests/abc374/tasks/abc374_c) | [C++ 17 (gcc 12.2)](./atcoder/abc374/C.cpp) | `AtCoder` `*300` | Oct/05/2024 18:14 | 
 1481 | [B - Unvarnished Report](https://atcoder.jp/contests/abc374/tasks/abc374_b) | [C++ 17 (gcc 12.2)](./atcoder/abc374/B.cpp) | `AtCoder` `*200` | Oct/05/2024 18:04 | 
