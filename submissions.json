@@ -20579,6 +20579,24 @@
     ],
     "timestamp": "Dec/08/2024 20:40"
   },
+  "CF295585214": {
+    "contest_id": "2040",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2040\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Paint a Strip",
+    "problem_url": "https://codeforces.com/contest/2040/problem/B",
+    "submission_id": "CF295585214",
+    "submission_url": "https://codeforces.com/contest/2040/submission/295585214",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/08/2024 20:54"
+  },
   "CF74648476": {
     "contest_id": 791,
     "language": "GNU C11",
