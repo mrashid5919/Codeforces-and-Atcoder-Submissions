@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1501 | [A - Game of Division](https://codeforces.com/contest/2040/problem/A) | [C++17 (GCC 7-32)](./codeforces/2040/A.cpp) | `games` `math` `*800` | Dec/08/2024 20:40 |
 1500 | [D - 9 Divisors](https://atcoder.jp/contests/abc383/tasks/abc383_d) | [C++ 17 (gcc 12.2)](./atcoder/abc383/D.cpp) | `AtCoder` `*400` | Dec/07/2024 19:19 | 
 1499 | [B - Humidifier 2](https://atcoder.jp/contests/abc383/tasks/abc383_b) | [C++ 17 (gcc 12.2)](./atcoder/abc383/B.cpp) | `AtCoder` `*250` | Dec/07/2024 18:20 | 
 1498 | [A - Humidifier 1](https://atcoder.jp/contests/abc383/tasks/abc383_a) | [C++ 17 (gcc 12.2)](./atcoder/abc383/A.cpp) | `AtCoder` `*150` | Dec/07/2024 18:11 |
