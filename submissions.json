@@ -20666,6 +20666,26 @@
     ],
     "timestamp": "Dec/19/2024 20:52"
   },
+  "CF297289612": {
+    "contest_id": "2048",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2048\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Kevin and Binary Strings",
+    "problem_url": "https://codeforces.com/contest/2048/problem/C",
+    "submission_id": "CF297289612",
+    "submission_url": "https://codeforces.com/contest/2048/submission/297289612",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Dec/19/2024 21:17"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
