@@ -20649,6 +20649,23 @@
     ],
     "timestamp": "Dec/19/2024 20:45"
   },
+  "CF297269421": {
+    "contest_id": "2048",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2048\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kevin and Permutation",
+    "problem_url": "https://codeforces.com/contest/2048/problem/B",
+    "submission_id": "CF297269421",
+    "submission_url": "https://codeforces.com/contest/2048/submission/297269421",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Dec/19/2024 20:52"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
