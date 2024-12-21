@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1502 | [B - Paint a Strip](https://codeforces.com/contest/2040/problem/B) | [C++17 (GCC 7-32)](./codeforces/2040/B.cpp) | `constructive algorithms` `greedy` `math` `*1000` | Dec/08/2024 20:54 |
-1501 | [A - Game of Division](https://codeforces.com/contest/2040/problem/A) | [C++17 (GCC 7-32)](./codeforces/2040/A.cpp) | `games` `math` `*800` | Dec/08/2024 20:40 |
+1503 | [C - Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | [C++ 17 (gcc 12.2)](./atcoder/abc385/C.cpp) | `AtCoder` `*350` | Dec/21/2024 18:34 | 
+1502 | [B - Paint a Strip](https://codeforces.com/contest/2040/problem/B) | [C++17 (GCC 7-32)](./codeforces/2040/B.cpp) | `constructive algorithms` `greedy` `math` `*1000` | Dec/08/2024 20:54 | 
+1501 | [A - Game of Division](https://codeforces.com/contest/2040/problem/A) | [C++17 (GCC 7-32)](./codeforces/2040/A.cpp) | `games` `math` `*800` | Dec/08/2024 20:40 | 
 1500 | [D - 9 Divisors](https://atcoder.jp/contests/abc383/tasks/abc383_d) | [C++ 17 (gcc 12.2)](./atcoder/abc383/D.cpp) | `AtCoder` `*400` | Dec/07/2024 19:19 | 
 1499 | [B - Humidifier 2](https://atcoder.jp/contests/abc383/tasks/abc383_b) | [C++ 17 (gcc 12.2)](./atcoder/abc383/B.cpp) | `AtCoder` `*250` | Dec/07/2024 18:20 | 
-1498 | [A - Humidifier 1](https://atcoder.jp/contests/abc383/tasks/abc383_a) | [C++ 17 (gcc 12.2)](./atcoder/abc383/A.cpp) | `AtCoder` `*150` | Dec/07/2024 18:11 |
-1497 | [D - Digital string maximization](https://codeforces.com/contest/2050/problem/D) | [C++17 (GCC 7-32)](./codeforces/2050/D.cpp) | `brute force` `greedy` `math` `strings` `*1300` | Dec/05/2024 21:49 |
-1496 | [C - Uninteresting Number](https://codeforces.com/contest/2050/problem/C) | [C++17 (GCC 7-32)](./codeforces/2050/C.cpp) | `brute force` `dp` `math` `*1200` | Dec/05/2024 21:22 |
-1495 | [B - Transfusion](https://codeforces.com/contest/2050/problem/B) | [C++17 (GCC 7-32)](./codeforces/2050/B.cpp) | `brute force` `greedy` `math` `*1100` | Dec/05/2024 21:04 |
+1498 | [A - Humidifier 1](https://atcoder.jp/contests/abc383/tasks/abc383_a) | [C++ 17 (gcc 12.2)](./atcoder/abc383/A.cpp) | `AtCoder` `*150` | Dec/07/2024 18:11 | 
+1497 | [D - Digital string maximization](https://codeforces.com/contest/2050/problem/D) | [C++17 (GCC 7-32)](./codeforces/2050/D.cpp) | `brute force` `greedy` `math` `strings` `*1300` | Dec/05/2024 21:49 | 
+1496 | [C - Uninteresting Number](https://codeforces.com/contest/2050/problem/C) | [C++17 (GCC 7-32)](./codeforces/2050/C.cpp) | `brute force` `dp` `math` `*1200` | Dec/05/2024 21:22 | 
+1495 | [B - Transfusion](https://codeforces.com/contest/2050/problem/B) | [C++17 (GCC 7-32)](./codeforces/2050/B.cpp) | `brute force` `greedy` `math` `*1100` | Dec/05/2024 20:53 | 
 1494 | [A - Line Breaks](https://codeforces.com/contest/2050/problem/A) | [C++17 (GCC 7-32)](./codeforces/2050/A.cpp) | `implementation` `*800` | Dec/05/2024 20:39 | 
 1493 | [D - Shohag Loves GCD](https://codeforces.com/contest/2039/problem/D) | [C++17 (GCC 7-32)](./codeforces/2039/D.cpp) | `constructive algorithms` `greedy` `math` `number theory` `*1700` | Nov/23/2024 23:01 | 
 1492 | [C1 - Shohag Loves XOR (Easy Version)](https://codeforces.com/contest/2039/problem/C1) | [C++17 (GCC 7-32)](./codeforces/2039/C1.cpp) | `bitmasks` `brute force` `math` `number theory` `*1200` | Nov/23/2024 21:43 | 

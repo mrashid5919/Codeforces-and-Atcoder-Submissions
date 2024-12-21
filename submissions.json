@@ -5503,6 +5503,22 @@
     ],
     "timestamp": "Dec/07/2024 19:19"
   },
+  "AC60964037": {
+    "contest_id": "abc385",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc385\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Illuminate Buildings",
+    "problem_url": "https://atcoder.jp/contests/abc385/tasks/abc385_c",
+    "submission_id": "AC60964037",
+    "submission_url": "https://atcoder.jp/contests/abc385/submissions/60964037",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Dec/21/2024 18:34"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
@@ -20475,22 +20491,6 @@
     ],
     "timestamp": "Nov/23/2024 23:01"
   },
-  "CF74584328": {
-    "contest_id": 977,
-    "language": "GNU C11",
-    "path": "codeforces\\977\\A.cpp",
-    "platform": "Codeforces",
-    "problem_index": "A",
-    "problem_name": "Wrong Subtraction",
-    "problem_url": "https://codeforces.com/contest/977/problem/A",
-    "submission_id": "CF74584328",
-    "submission_url": "https://codeforces.com/contest/977/submission/74584328",
-    "tags": [
-      "implementation",
-      "*800"
-    ],
-    "timestamp": "Mar/27/2020 23:25"
-  },
   "CF294990002": {
     "contest_id": "2050",
     "language": "C++17 (GCC 7-32)",
@@ -20596,6 +20596,22 @@
       "*1000"
     ],
     "timestamp": "Dec/08/2024 20:54"
+  },
+  "CF74584328": {
+    "contest_id": 977,
+    "language": "GNU C11",
+    "path": "codeforces\\977\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wrong Subtraction",
+    "problem_url": "https://codeforces.com/contest/977/problem/A",
+    "submission_id": "CF74584328",
+    "submission_url": "https://codeforces.com/contest/977/submission/74584328",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/27/2020 23:25"
   },
   "CF74648476": {
     "contest_id": 791,
