@@ -5503,6 +5503,22 @@
     ],
     "timestamp": "Dec/07/2024 19:19"
   },
+  "AC60953776": {
+    "contest_id": "abc385",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc385\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Santa Claus 1",
+    "problem_url": "https://atcoder.jp/contests/abc385/tasks/abc385_b",
+    "submission_id": "AC60953776",
+    "submission_url": "https://atcoder.jp/contests/abc385/submissions/60953776",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/21/2024 18:14"
+  },
   "AC60964037": {
     "contest_id": "abc385",
     "language": "C++ 17 (gcc 12.2)",
