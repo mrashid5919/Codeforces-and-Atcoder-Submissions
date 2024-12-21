@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1504 | [C - Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | [C++ 17 (gcc 12.2)](./atcoder/abc385/C.cpp) | `AtCoder` `*350` | Dec/21/2024 18:34 | 
-1503 | [B - Santa Claus 1](https://atcoder.jp/contests/abc385/tasks/abc385_b) | [C++ 17 (gcc 12.2)](./atcoder/abc385/B.cpp) | `AtCoder` `*200` | Dec/21/2024 18:14 | 
+1505 | [C - Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | [C++ 17 (gcc 12.2)](./atcoder/abc385/C.cpp) | `AtCoder` `*350` | Dec/21/2024 18:34 | 
+1504 | [B - Santa Claus 1](https://atcoder.jp/contests/abc385/tasks/abc385_b) | [C++ 17 (gcc 12.2)](./atcoder/abc385/B.cpp) | `AtCoder` `*200` | Dec/21/2024 18:14 | 
+1503 | [A - Equally](https://atcoder.jp/contests/abc385/tasks/abc385_a) | [C++ 17 (gcc 12.2)](./atcoder/abc385/A.cpp) | `AtCoder` `*100` | Dec/21/2024 18:05 | 
 1502 | [B - Paint a Strip](https://codeforces.com/contest/2040/problem/B) | [C++17 (GCC 7-32)](./codeforces/2040/B.cpp) | `constructive algorithms` `greedy` `math` `*1000` | Dec/08/2024 20:54 | 
 1501 | [A - Game of Division](https://codeforces.com/contest/2040/problem/A) | [C++17 (GCC 7-32)](./codeforces/2040/A.cpp) | `games` `math` `*800` | Dec/08/2024 20:40 | 
 1500 | [D - 9 Divisors](https://atcoder.jp/contests/abc383/tasks/abc383_d) | [C++ 17 (gcc 12.2)](./atcoder/abc383/D.cpp) | `AtCoder` `*400` | Dec/07/2024 19:19 | 

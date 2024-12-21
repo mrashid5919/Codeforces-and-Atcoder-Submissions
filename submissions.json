@@ -5503,6 +5503,22 @@
     ],
     "timestamp": "Dec/07/2024 19:19"
   },
+  "AC60946687": {
+    "contest_id": "abc385",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc385\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Equally",
+    "problem_url": "https://atcoder.jp/contests/abc385/tasks/abc385_a",
+    "submission_id": "AC60946687",
+    "submission_url": "https://atcoder.jp/contests/abc385/submissions/60946687",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/21/2024 18:05"
+  },
   "AC60953776": {
     "contest_id": "abc385",
     "language": "C++ 17 (gcc 12.2)",
