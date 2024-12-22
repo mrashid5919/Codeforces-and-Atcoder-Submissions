@@ -20766,6 +20766,22 @@
     ],
     "timestamp": "Mar/27/2020 23:25"
   },
+  "CF297816004": {
+    "contest_id": "2051",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2051\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Preparing for the Olympiad",
+    "problem_url": "https://codeforces.com/contest/2051/problem/A",
+    "submission_id": "CF297816004",
+    "submission_url": "https://codeforces.com/contest/2051/submission/297816004",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Dec/22/2024 20:39"
+  },
   "CF74648476": {
     "contest_id": 791,
     "language": "GNU C11",
