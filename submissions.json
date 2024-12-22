@@ -20782,6 +20782,23 @@
     ],
     "timestamp": "Dec/22/2024 20:39"
   },
+  "CF297823518": {
+    "contest_id": "2051",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2051\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Journey",
+    "problem_url": "https://codeforces.com/contest/2051/problem/B",
+    "submission_id": "CF297823518",
+    "submission_url": "https://codeforces.com/contest/2051/submission/297823518",
+    "tags": [
+      "binary search",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/22/2024 20:43"
+  },
   "CF74648476": {
     "contest_id": 791,
     "language": "GNU C11",
