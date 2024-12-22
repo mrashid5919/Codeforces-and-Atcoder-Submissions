@@ -20816,6 +20816,24 @@
     ],
     "timestamp": "Dec/22/2024 20:51"
   },
+  "CF297860086": {
+    "contest_id": "2051",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2051\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Counting Pairs",
+    "problem_url": "https://codeforces.com/contest/2051/problem/D",
+    "submission_id": "CF297860086",
+    "submission_url": "https://codeforces.com/contest/2051/submission/297860086",
+    "tags": [
+      "binary search",
+      "sortings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Dec/22/2024 21:05"
+  },
   "CF74648476": {
     "contest_id": 791,
     "language": "GNU C11",
