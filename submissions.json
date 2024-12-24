@@ -20869,7 +20869,24 @@
       "math",
       "*800"
     ],
-    "timestamp": "Dec/29/2024 20:41"
+    "timestamp": "Dec/24/2024 20:41"
+  },
+  "CF298226698": {
+    "contest_id": "2043",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2043\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Digits",
+    "problem_url": "https://codeforces.com/contest/2043/problem/B",
+    "submission_id": "CF298226698",
+    "submission_url": "https://codeforces.com/contest/2043/submission/298226698",
+    "tags": [
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Dec/24/2024 21:03"
   },
   "CF74648476": {
     "contest_id": 791,
