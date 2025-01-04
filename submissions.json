@@ -5551,6 +5551,22 @@
     ],
     "timestamp": "Dec/21/2024 18:34"
   },
+  "AC61375412": {
+    "contest_id": "abc387",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc387\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "9x9 Sum",
+    "problem_url": "https://atcoder.jp/contests/abc387/tasks/abc387_b",
+    "submission_id": "AC61375412",
+    "submission_url": "https://atcoder.jp/contests/abc387/submissions/61375412",
+    "tags": [
+      "AtCoder",
+      "*150"
+    ],
+    "timestamp": "Jan/04/2025 18:07"
+  },
   "AC61388097": {
     "contest_id": "abc387",
     "language": "C++ 17 (gcc 12.2)",
