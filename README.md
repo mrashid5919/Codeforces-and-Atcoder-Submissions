@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1509 | [C - Snake Numbers](https://atcoder.jp/contests/abc387/tasks/abc387_c) | [C++ 17 (gcc 12.2)](./atcoder/abc387/C.cpp) | `AtCoder` `*350` | Jan/04/2025 22:12 | 
 1508 | [C - Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | [C++ 17 (gcc 12.2)](./atcoder/abc385/C.cpp) | `AtCoder` `*350` | Dec/21/2024 18:34 | 
 1507 | [B - Santa Claus 1](https://atcoder.jp/contests/abc385/tasks/abc385_b) | [C++ 17 (gcc 12.2)](./atcoder/abc385/B.cpp) | `AtCoder` `*200` | Dec/21/2024 18:14 | 
-1506 | [A - Equally](https://atcoder.jp/contests/abc385/tasks/abc385_a) | [C++ 17 (gcc 12.2)](./atcoder/abc385/A.cpp) | `AtCoder` `*100` | Dec/21/2024 18:05 |
-1505 | [C - Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | [C++17 (GCC 7-32)](./codeforces/2048/C.cpp) | `bitmasks` `brute force` `greedy` `implementation` `strings` `*1200` | Dec/19/2024 21:17 |
-1504 | [B - Kevin and Permutation](https://codeforces.com/contest/2048/problem/B) | [C++17 (GCC 7-32)](./codeforces/2048/B.cpp) | `constructive algorithms` `greedy` `*900` | Dec/19/2024 20:52 |
+1506 | [A - Equally](https://atcoder.jp/contests/abc385/tasks/abc385_a) | [C++ 17 (gcc 12.2)](./atcoder/abc385/A.cpp) | `AtCoder` `*100` | Dec/21/2024 18:05 | 
+1505 | [C - Kevin and Binary Strings](https://codeforces.com/contest/2048/problem/C) | [C++17 (GCC 7-32)](./codeforces/2048/C.cpp) | `bitmasks` `brute force` `greedy` `implementation` `strings` `*1200` | Dec/19/2024 21:17 | 
+1504 | [B - Kevin and Permutation](https://codeforces.com/contest/2048/problem/B) | [C++17 (GCC 7-32)](./codeforces/2048/B.cpp) | `constructive algorithms` `greedy` `*900` | Dec/19/2024 20:52 | 
 1503 | [A - Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | [C++17 (GCC 7-32)](./codeforces/2048/A.cpp) | `brute force` `greedy` `implementation` `math` `number theory` `*800` | Dec/19/2024 20:45 | 
 1502 | [B - Paint a Strip](https://codeforces.com/contest/2040/problem/B) | [C++17 (GCC 7-32)](./codeforces/2040/B.cpp) | `constructive algorithms` `greedy` `math` `*1000` | Dec/08/2024 20:54 | 
 1501 | [A - Game of Division](https://codeforces.com/contest/2040/problem/A) | [C++17 (GCC 7-32)](./codeforces/2040/A.cpp) | `games` `math` `*800` | Dec/08/2024 20:40 | 

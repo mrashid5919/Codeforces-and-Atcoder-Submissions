@@ -5551,6 +5551,22 @@
     ],
     "timestamp": "Dec/21/2024 18:34"
   },
+  "AC61403909": {
+    "contest_id": "abc387",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc387\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Snake Numbers",
+    "problem_url": "https://atcoder.jp/contests/abc387/tasks/abc387_c",
+    "submission_id": "AC61403909",
+    "submission_url": "https://atcoder.jp/contests/abc387/submissions/61403909",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Jan/04/2025 22:12"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
