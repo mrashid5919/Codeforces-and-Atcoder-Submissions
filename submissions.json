@@ -5551,6 +5551,22 @@
     ],
     "timestamp": "Dec/21/2024 18:34"
   },
+  "AC61388097": {
+    "contest_id": "abc387",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc387\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Snaky Walk",
+    "problem_url": "https://atcoder.jp/contests/abc387/tasks/abc387_d",
+    "submission_id": "AC61388097",
+    "submission_url": "https://atcoder.jp/contests/abc387/submissions/61388097",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/04/2025 18:55"
+  },
   "AC61403909": {
     "contest_id": "abc387",
     "language": "C++ 17 (gcc 12.2)",
