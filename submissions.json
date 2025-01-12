@@ -20939,6 +20939,24 @@
     ],
     "timestamp": "Jan/12/2025 20:40"
   },
+  "CF300673222": {
+    "contest_id": "2055",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2055\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Crafting",
+    "problem_url": "https://codeforces.com/contest/2055/problem/B",
+    "submission_id": "CF300673222",
+    "submission_url": "https://codeforces.com/contest/2055/submission/300673222",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jan/12/2025 20:50"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",

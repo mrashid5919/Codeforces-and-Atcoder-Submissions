@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1522 | [C - Snake Queue](https://atcoder.jp/contests/abc389/tasks/abc389_c) | [C++ 17 (gcc 12.2)](./atcoder/abc389/C.cpp) | `AtCoder` `*300` | Jan/18/2025 18:13 |
-1521 | [B - tcaF](https://atcoder.jp/contests/abc389/tasks/abc389_b) | [C++ 17 (gcc 12.2)](./atcoder/abc389/B.cpp) | `AtCoder` `*150` | Jan/18/2025 18:03 | 
-1520 | [A - 9x9](https://atcoder.jp/contests/abc389/tasks/abc389_a) | [C++ 17 (gcc 12.2)](./atcoder/abc389/A.cpp) | `AtCoder` `*100` | Jan/18/2025 18:01 |
+1524 | [C - Snake Queue](https://atcoder.jp/contests/abc389/tasks/abc389_c) | [C++ 17 (gcc 12.2)](./atcoder/abc389/C.cpp) | `AtCoder` `*300` | Jan/18/2025 18:13 |
+1523 | [B - tcaF](https://atcoder.jp/contests/abc389/tasks/abc389_b) | [C++ 17 (gcc 12.2)](./atcoder/abc389/B.cpp) | `AtCoder` `*150` | Jan/18/2025 18:03 | 
+1522 | [A - 9x9](https://atcoder.jp/contests/abc389/tasks/abc389_a) | [C++ 17 (gcc 12.2)](./atcoder/abc389/A.cpp) | `AtCoder` `*100` | Jan/18/2025 18:01 |
+1521 | [B - Crafting](https://codeforces.com/contest/2055/problem/B) | [C++17 (GCC 7-32)](./codeforces/2055/B.cpp) | `constructive algorithms` `greedy` `sortings` `*1000` | Jan/12/2025 20:50 
 1520 | [A - Two Frogs](https://codeforces.com/contest/2055/problem/A) | [C++17 (GCC 7-32)](./codeforces/2055/A.cpp) | `constructive algorithms` `games` `greedy` `math` `*800` | Jan/12/2025 20:40 | 
 1519 | [C - Snake Numbers](https://atcoder.jp/contests/abc387/tasks/abc387_c) | [C++ 17 (gcc 12.2)](./atcoder/abc387/C.cpp) | `AtCoder` `*350` | Jan/04/2025 22:12 | 
 1518 | [D - Snaky Walk](https://atcoder.jp/contests/abc387/tasks/abc387_d) | [C++ 17 (gcc 12.2)](./atcoder/abc387/D.cpp) | `AtCoder` `*400` | Jan/04/2025 18:55 | 
