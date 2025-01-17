@@ -20994,6 +20994,26 @@
     ],
     "timestamp": "Jan/17/2025 20:43"
   },
+  "CF301410067": {
+    "contest_id": "2056",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2056\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Find the Permutation",
+    "problem_url": "https://codeforces.com/contest/2056/problem/B",
+    "submission_id": "CF301410067",
+    "submission_url": "https://codeforces.com/contest/2056/submission/301410067",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/17/2025 21:05"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
