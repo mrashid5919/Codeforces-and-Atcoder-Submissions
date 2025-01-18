@@ -5647,6 +5647,22 @@
     ],
     "timestamp": "Jan/18/2025 18:03"
   },
+  "AC61798847": {
+    "contest_id": "abc389",
+    "language": "C++ 17 (gcc 12.2)",
+    "path": "atcoder\\abc389\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Snake Queue",
+    "problem_url": "https://atcoder.jp/contests/abc389/tasks/abc389_c",
+    "submission_id": "AC61798847",
+    "submission_url": "https://atcoder.jp/contests/abc389/submissions/61798847",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/18/2025 18:13"
+  },
   "CF100032182": {
     "contest_id": 1455,
     "language": "GNU C++17",
