@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1520 | [B - tcaF](https://atcoder.jp/contests/abc389/tasks/abc389_b) | [C++ 17 (gcc 12.2)](./atcoder/abc389/B.cpp) | `AtCoder` `*150` | Jan/18/2025 18:03 | 
 1519 | [C - Snake Numbers](https://atcoder.jp/contests/abc387/tasks/abc387_c) | [C++ 17 (gcc 12.2)](./atcoder/abc387/C.cpp) | `AtCoder` `*350` | Jan/04/2025 22:12 | 
 1518 | [D - Snaky Walk](https://atcoder.jp/contests/abc387/tasks/abc387_d) | [C++ 17 (gcc 12.2)](./atcoder/abc387/D.cpp) | `AtCoder` `*400` | Jan/04/2025 18:55 | 
 1517 | [B - 9x9 Sum](https://atcoder.jp/contests/abc387/tasks/abc387_b) | [C++ 17 (gcc 12.2)](./atcoder/abc387/B.cpp) | `AtCoder` `*150` | Jan/04/2025 18:07 | 
-1516 | [A - Happy New Year 2025](https://atcoder.jp/contests/abc387/tasks/abc387_a) | [C++ 17 (gcc 12.2)](./atcoder/abc387/A.cpp) | `AtCoder` `*100` | Jan/04/2025 18:03 |
-1515 | [B - Digits](https://codeforces.com/contest/2043/problem/B) | [C++17 (GCC 7-32)](./codeforces/2043/B.cpp) | `math` `number theory` `*1100` | Dec/24/2024 21:03 |
-1514 | [A - Coin Transformation](https://codeforces.com/contest/2043/problem/A) | [C++17 (GCC 7-32)](./codeforces/2043/A.cpp) | `brute force` `math` `*800` | Dec/24/2024 20:41 |
-1513 | [E - Best Price](https://codeforces.com/contest/2051/problem/E) | [C++17 (GCC 7-32)](./codeforces/2051/E.cpp) | `binary search` `brute force` `data structures` `greedy` `sortings` `*1600` | Dec/22/2024 21:48 |
-1512 | [D - Counting Pairs](https://codeforces.com/contest/2051/problem/D) | [C++17 (GCC 7-32)](./codeforces/2051/D.cpp) | `binary search` `sortings` `two pointers` `*1200` | Dec/22/2024 21:05 |
-1511 | [C - Preparing for the Exam](https://codeforces.com/contest/2051/problem/C) | [C++17 (GCC 7-32)](./codeforces/2051/C.cpp) | `constructive algorithms` `implementation` `*1000` | Dec/22/2024 20:51 |
-1510 | [B - Journey](https://codeforces.com/contest/2051/problem/B) | [C++17 (GCC 7-32)](./codeforces/2051/B.cpp) | `binary search` `math` `*800` | Dec/22/2024 20:43 |
+1516 | [A - Happy New Year 2025](https://atcoder.jp/contests/abc387/tasks/abc387_a) | [C++ 17 (gcc 12.2)](./atcoder/abc387/A.cpp) | `AtCoder` `*100` | Jan/04/2025 18:03 | 
+1515 | [B - Digits](https://codeforces.com/contest/2043/problem/B) | [C++17 (GCC 7-32)](./codeforces/2043/B.cpp) | `math` `number theory` `*1100` | Dec/24/2024 21:03 | 
+1514 | [A - Coin Transformation](https://codeforces.com/contest/2043/problem/A) | [C++17 (GCC 7-32)](./codeforces/2043/A.cpp) | `brute force` `math` `*800` | Dec/24/2024 20:41 | 
+1513 | [E - Best Price](https://codeforces.com/contest/2051/problem/E) | [C++17 (GCC 7-32)](./codeforces/2051/E.cpp) | `binary search` `brute force` `data structures` `greedy` `sortings` `*1600` | Dec/22/2024 21:48 | 
+1512 | [D - Counting Pairs](https://codeforces.com/contest/2051/problem/D) | [C++17 (GCC 7-32)](./codeforces/2051/D.cpp) | `binary search` `sortings` `two pointers` `*1200` | Dec/22/2024 21:05 | 
+1511 | [C - Preparing for the Exam](https://codeforces.com/contest/2051/problem/C) | [C++17 (GCC 7-32)](./codeforces/2051/C.cpp) | `constructive algorithms` `implementation` `*1000` | Dec/22/2024 20:51 | 
+1510 | [B - Journey](https://codeforces.com/contest/2051/problem/B) | [C++17 (GCC 7-32)](./codeforces/2051/B.cpp) | `binary search` `math` `*800` | Dec/22/2024 20:43 | 
 1509 | [A - Preparing for the Olympiad](https://codeforces.com/contest/2051/problem/A) | [C++17 (GCC 7-32)](./codeforces/2051/A.cpp) | `greedy` `*800` | Dec/22/2024 20:39 | 
 1508 | [C - Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | [C++ 17 (gcc 12.2)](./atcoder/abc385/C.cpp) | `AtCoder` `*350` | Dec/21/2024 18:34 | 
 1507 | [B - Santa Claus 1](https://atcoder.jp/contests/abc385/tasks/abc385_b) | [C++ 17 (gcc 12.2)](./atcoder/abc385/B.cpp) | `AtCoder` `*200` | Dec/21/2024 18:14 | 
