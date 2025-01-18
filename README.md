@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1520 | [B - tcaF](https://atcoder.jp/contests/abc389/tasks/abc389_b) | [C++ 17 (gcc 12.2)](./atcoder/abc389/B.cpp) | `AtCoder` `*150` | Jan/18/2025 18:03 | 
+1521 | [B - tcaF](https://atcoder.jp/contests/abc389/tasks/abc389_b) | [C++ 17 (gcc 12.2)](./atcoder/abc389/B.cpp) | `AtCoder` `*150` | Jan/18/2025 18:03 | 
+1520 | [A - 9x9](https://atcoder.jp/contests/abc389/tasks/abc389_a) | [C++ 17 (gcc 12.2)](./atcoder/abc389/A.cpp) | `AtCoder` `*100` | Jan/18/2025 18:01 | 
 1519 | [C - Snake Numbers](https://atcoder.jp/contests/abc387/tasks/abc387_c) | [C++ 17 (gcc 12.2)](./atcoder/abc387/C.cpp) | `AtCoder` `*350` | Jan/04/2025 22:12 | 
 1518 | [D - Snaky Walk](https://atcoder.jp/contests/abc387/tasks/abc387_d) | [C++ 17 (gcc 12.2)](./atcoder/abc387/D.cpp) | `AtCoder` `*400` | Jan/04/2025 18:55 | 
 1517 | [B - 9x9 Sum](https://atcoder.jp/contests/abc387/tasks/abc387_b) | [C++ 17 (gcc 12.2)](./atcoder/abc387/B.cpp) | `AtCoder` `*150` | Jan/04/2025 18:07 | 
