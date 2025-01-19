@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1530 | [B- Farmer John's Card Game](https://codeforces.com/contest/2060/problem/B) | [C++17 (GCC 7-32)](./codeforces/2060/B.cpp) | `greedy` `sortings` `*1000` | Jan/19/2025 20:57
+1531 | [C - Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | [C++17 (GCC 7-32)](./codeforces/2060/C.cpp) | `games` `greedy` `sortings` `two pointers` `*900` | Jan/19/2025 21:06
+1530 | [B - Farmer John's Card Game](https://codeforces.com/contest/2060/problem/B) | [C++17 (GCC 7-32)](./codeforces/2060/B.cpp) | `greedy` `sortings` `*1000` | Jan/19/2025 20:57
 1529 | [A - Fibonacciness](https://codeforces.com/contest/2060/problem/A) | [C++17 (GCC 7-32)](./codeforces/2060/A.cpp) | `brute force` `*800` | Jan/19/2025 20:38
 1528 | [C - Snake Queue](https://atcoder.jp/contests/abc389/tasks/abc389_c) | [C++ 17 (gcc 12.2)](./atcoder/abc389/C.cpp) | `AtCoder` `*300` | Jan/18/2025 18:13 |
 1527 | [B - tcaF](https://atcoder.jp/contests/abc389/tasks/abc389_b) | [C++ 17 (gcc 12.2)](./atcoder/abc389/B.cpp) | `AtCoder` `*150` | Jan/18/2025 18:03 | 
