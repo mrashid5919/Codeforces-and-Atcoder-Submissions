@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1529 | [A - Fibonacciness](https://codeforces.com/contest/2060/problem/A) | [C++17 (GCC 7-32)](./codeforces/2060/A.cpp) | `brute force` `*800` | Jan/19/2025 20:38
 1528 | [C - Snake Queue](https://atcoder.jp/contests/abc389/tasks/abc389_c) | [C++ 17 (gcc 12.2)](./atcoder/abc389/C.cpp) | `AtCoder` `*300` | Jan/18/2025 18:13 |
 1527 | [B - tcaF](https://atcoder.jp/contests/abc389/tasks/abc389_b) | [C++ 17 (gcc 12.2)](./atcoder/abc389/B.cpp) | `AtCoder` `*150` | Jan/18/2025 18:03 | 
 1526 | [A - 9x9](https://atcoder.jp/contests/abc389/tasks/abc389_a) | [C++ 17 (gcc 12.2)](./atcoder/abc389/A.cpp) | `AtCoder` `*100` | Jan/18/2025 18:01 |
