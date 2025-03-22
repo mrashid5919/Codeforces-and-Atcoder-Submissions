@@ -21100,6 +21100,23 @@
     ],
     "timestamp": "Jan/22/2025 02:15"
   },
+  "CF311812592": {
+    "contest_id": "2085",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2085\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Serval and String Theory",
+    "problem_url": "https://codeforces.com/contest/2085/problem/A",
+    "submission_id": "CF311812592",
+    "submission_url": "https://codeforces.com/contest/2085/submission/311812592",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/22/2025 20:44"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",

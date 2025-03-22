@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1533 | [A - Serval and String Theory](https://codeforces.com/contest/2085/problem/A) | [C++17 (GCC 7-32)](./codeforces/2085/A.cpp) | `constructive algorithms` `implementation` `*900` | Mar/22/2025 20:44
 1532 | [D - Subtract Min Sort](https://codeforces.com/contest/2060/problem/D) | [C++17 (GCC 7-32)](./codeforces/2060/D.cpp) | `greedy` `*1100` | Jan/22/2025 02:15
 1531 | [C - Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | [C++17 (GCC 7-32)](./codeforces/2060/C.cpp) | `games` `greedy` `sortings` `two pointers` `*900` | Jan/19/2025 21:06
 1530 | [B - Farmer John's Card Game](https://codeforces.com/contest/2060/problem/B) | [C++17 (GCC 7-32)](./codeforces/2060/B.cpp) | `greedy` `sortings` `*1000` | Jan/19/2025 20:57
