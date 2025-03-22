@@ -21117,6 +21117,23 @@
     ],
     "timestamp": "Mar/22/2025 20:44"
   },
+  "CF311827300": {
+    "contest_id": "2085",
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\2085\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Serval and Final MEX",
+    "problem_url": "https://codeforces.com/contest/2085/problem/B",
+    "submission_id": "CF311827300",
+    "submission_url": "https://codeforces.com/contest/2085/submission/311827300",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/22/2025 20:59"
+  },
   "CF74584328": {
     "contest_id": 977,
     "language": "GNU C11",
